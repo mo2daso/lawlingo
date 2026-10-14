@@ -1,0 +1,23 @@
+# Generated and installed files
+node_modules/
+dist/
+.vercel/
+coverage/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Secrets and private/local study progress
+.env
+.env.*
+!.env.example
+backups/
+private/
+lawlingo-progress*.json
+**/lawlingo-progress*.json
+*progress-backup*.json
+Lawlingo.html
+START-LAWLINGO.cmd
+*.lnk
+*.zip

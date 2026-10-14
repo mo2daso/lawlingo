@@ -1,0 +1,43 @@
+EARLY-SUBJECT CONTENT AUDIT ? 13 October 2026
+
+216 book questions: Cases37, Constitution63, International42, English37, Islamic37.
+All23 source pages (PDF2?24) inspected visually. Five printed answer tables transcribed independently of OCR.
+Question stems edited for readability and repeated attribution removed. NOT a verbatim transcription. All questions retain page, printed number, options in source order, and printed book key. Some spelling/grammar corrected.
+Statuses are intentionally conservative. Unverified items are practice/reference only; disputed items have null answer and must not be scored. Historical Constitution items should be separated from current-law mocks.
+{'verified': 150, 'unverified': 50, 'disputed': 8, 'historical': 8}
+
+Primary verification: National Assembly official Constitution updated21Nov2025 (local PDF/text); UN Charter official text; ICJ Statute official UN legal PDF; original Salmond1913 public-domain textbook; Punjab Bar Council complete prescribed-judgment compilation; indexed original Nyazee excerpts; State Bank Islamic Banking Glossary; ICRC treaty database.
+Nyazee full text remains inaccessible through direct fetch; only a limited set is independently checked. Do not call this a fully verified216-item bank.
+
+Per-subject verified counts:
+Cases: {'verified': 25, 'unverified': 10, 'disputed': 2}
+Constitution: {'verified': 55, 'historical': 8}
+International: {'verified': 38, 'unverified': 3, 'disputed': 1}
+English: {'verified': 26, 'unverified': 9, 'disputed': 2}
+Islamic: {'unverified': 28, 'verified': 6, 'disputed': 3}
+
+CORRECTED PRINTED KEYS (nonnull checked/provisional answer differs from book):
+book-Cases-31 book C -> D [verified]: Three years was allowed. The book's key C (two years) is wrong; the official HEC sample also uses three years.
+book-Cases-34 book B -> C [verified]: The takeover was described as extra-constitutional, despite the Court's conditional validation. The book's B is wrong.
+book-Constitution-29 book C -> A [verified]: The capital has two general seats plus one woman and one technocrat/aalim: four total. The book key wrongly answers four to a question about general seats.
+book-Constitution-52 book C -> A [verified]: The current official text says forty. The book key's forty-five reflects the older provision.
+book-English-5 book A -> C [verified]: Positive law is Austin's subject; the book's key A (ethical) is incorrect.
+book-English-32 book B -> C [verified]: The best option is the conceptual question 'what is law'. The book's sociological answer B confuses two approaches.
+book-Islamic-3 book A -> B [verified]: Asl means foundation or root, on which something else is built. The book's A is not the literal definition requested.
+book-Islamic-20 book A -> D [verified]: Sarf is the specific exchange-of-money category. Bai is the broad word for sale; the book's A is misleading here.
+book-Islamic-29 book B -> C [unverified]: The same topic appears in question 6 with answer qiyas. Here the book key wrongly switches to B.
+book-Islamic-31 book D -> C [unverified]: This describes a recommended act, mandub. The book key D (wajib) contradicts 'not binding'.
+
+DISPUTED / AMBIGUOUS:
+book-Cases-10: The stem is ambiguous: the case involved the Frontier Crimes Regulation and the effect of abrogating the 1956 Constitution. The printed key chooses B, but C also describes the litigation. Excluded from scoring.
+book-Cases-26: The printed stem says 'could be upheld' while calling the action unlawful; it omits 'not'. The intended answer is fundamental right (notably Article 17), but the contradictory original is excluded from scoring.
+book-International-42: The doctrine principally concerns recognition of governments and avoiding judgments on their legitimacy. The book says recognition of states. That imprecision makes this unsuitable for scoring.
+book-English-13: Both agency and vicarious liability can describe aspects of the relationship, depending on the act. The book chooses agency; the unqualified stem lacks enough detail for one defensible answer.
+book-English-33: None precisely states guilty mind or the required culpable mental element. Mens rea is not limited to actual intention; the printed A should not be memorised as a general definition.
+book-Islamic-16: The book selects legislator, but a mufti gives a fatwa and is not automatically a state legislator. The question lacks context and is excluded from scoring.
+book-Islamic-24: The book chooses irregular, but this cannot be answered reliably without school, guardian, age and applicable statutory law. Keep out of scored practice rather than teach a blanket rule.
+book-Islamic-37: The book gives D, but the premise is not universal across schools or modern Pakistan. Women serve as judges. Without the specific jurist and passage this is excluded from scoring.
+
+CURRENT-LAW WARNING: Constitution book items20,33,43,48,49,51,54,58 are historical/incomplete under the official2025 amendment text. Item52 corrected45->40; item29 correct2general capital seats vs4total; item53 Cabinet key is correct under198(4).
+Existing study-build/data.json early-subject foundation questions reviewed; no obvious stale answers found. Their FCC and High Court age40 items already reflect the official2025 text.
+Data checks passed:216uniqueIDs;4distinctoptions/item;valid answer indices;null disputed answers;book key perquestion retained.

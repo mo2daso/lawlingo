@@ -1,0 +1,4802 @@
+[
+  {
+    "id": "book-CPC-1",
+    "subject": "CPC",
+    "number": 1,
+    "page": 25,
+    "question": "As per the Code of Civil Procedure, 1908, _____ means the presiding officer of a civil Court.",
+    "options": [
+      "Arbitrator",
+      "Conciliator",
+      "Judge",
+      "Umpire"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "A judge presides over a civil court.",
+    "cue": "A judge presides over a civil court.",
+    "reference": "Section 2(8)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-2",
+    "subject": "CPC",
+    "number": 2,
+    "page": 25,
+    "question": "Under the C.P.C, \"_____\" means the statement given by the Judge of the grounds of a decree or order.",
+    "options": [
+      "Ratio",
+      "Plaint",
+      "Suit",
+      "Judgment"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Judgment gives reasons; decree formally declares the adjudicated rights.",
+    "cue": "Judgment gives reasons; decree formally declares the adjudicated rights.",
+    "reference": "Section 2(9)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-3",
+    "subject": "CPC",
+    "number": 3,
+    "page": 25,
+    "question": "As per the Code of Civil Procedure, 1908, _____ means the formal expression of an adjudication which, so far as regards the Court expressing it, conclusively determines the rights of the parties which regard to all or any of the matters in controversy in the suit.",
+    "options": [
+      "Decree",
+      "Judgement",
+      "Order",
+      "Ruling"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "A decree conclusively determines rights in the suit.",
+    "cue": "A decree conclusively determines rights in the suit.",
+    "reference": "Section 2(2)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-4",
+    "subject": "CPC",
+    "number": 4,
+    "page": 25,
+    "question": "A decree is an operative part of _____ in civil law.",
+    "options": [
+      "Order",
+      "Judgment",
+      "Both A and B",
+      "None of these"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "The judgment explains the reasons; the decree states the operative result.",
+    "cue": "The judgment explains the reasons; the decree states the operative result.",
+    "reference": "Sections 2(2), 2(9)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-5",
+    "subject": "CPC",
+    "number": 5,
+    "page": 25,
+    "question": "Decree-holder is _____.",
+    "options": [
+      "Any person in whose favour a decree has been passed",
+      "An order capable of execution has been made",
+      "Either A or B",
+      "None of these"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "The definition covers a person favoured by a decree or an executable order; option B is grammatically abbreviated.",
+    "cue": "The definition covers a person favoured by a decree or an executable order; option B is grammatically abbreviated.",
+    "reference": "Section 2(3)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-6",
+    "subject": "CPC",
+    "number": 6,
+    "page": 25,
+    "question": "Consent decree is _____.",
+    "options": [
+      "Appealable",
+      "Not appealable",
+      "Both A and B",
+      "None of the above"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "No appeal lies from a decree passed with the parties' consent.",
+    "cue": "No appeal lies from a decree passed with the parties' consent.",
+    "reference": "Section 96(3)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-7",
+    "subject": "CPC",
+    "number": 7,
+    "page": 25,
+    "question": "As per Section 2(1) of the Code of Civil Procedure 1908, \"Codes\" includes _____.",
+    "options": [
+      "Advices",
+      "Directions",
+      "Recommendations",
+      "Rules"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Code includes rules. The source prints Codes in the plural.",
+    "cue": "Code includes rules",
+    "reference": "Section 2(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-8",
+    "subject": "CPC",
+    "number": 8,
+    "page": 25,
+    "question": "As per Section 2(8) of The Code of Civil Procedure 1908, \"Judge\" means presiding officer of _____.",
+    "options": [
+      "Any court",
+      "The bench of magistrates",
+      "The civil court",
+      "The criminal court"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "This CPC definition concerns a civil court.",
+    "cue": "This CPC definition concerns a civil court.",
+    "reference": "Section 2(8)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-9",
+    "subject": "CPC",
+    "number": 9,
+    "page": 25,
+    "question": "As per Section 2(9) of the Code of Civil Procedure 1908, \"Judgment\" means the statement given by the _____ of the grounds of a decree or order.",
+    "options": [
+      "Arbitrator",
+      "Inquiry Officer",
+      "Judge",
+      "Umpire"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "A judge states the grounds of the decree or order.",
+    "cue": "A judge states the grounds of the decree or order.",
+    "reference": "Section 2(9)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-10",
+    "subject": "CPC",
+    "number": 10,
+    "page": 25,
+    "question": "As per Section 2(10) of The Code of Civil Procedure 1908, _____ means any person against whom a decree has been passed or an order capable of execution has been made.",
+    "options": [
+      "Accused",
+      "Decree holder",
+      "Judgement-debtor",
+      "Judgement-holder"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Debtor means the person against whom the executable decision operates.",
+    "cue": "Debtor means the person against whom the executable decision operates.",
+    "reference": "Section 2(10)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-11",
+    "subject": "CPC",
+    "number": 11,
+    "page": 25,
+    "question": "As per section 2(13) of the Code of Civil Procedure 1908, \"Movable Property\" includes _____.",
+    "options": [
+      "Constructed",
+      "Goods store",
+      "Growing Crops",
+      "Warehouse"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "The definition expressly includes growing crops.",
+    "cue": "The definition expressly includes growing crops.",
+    "reference": "Section 2(13)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-12",
+    "subject": "CPC",
+    "number": 12,
+    "page": 25,
+    "question": "As per Section 3 of the Code of Civil Procedure 1908, For the purposes of this Code, the District Court is subordinate to the High Court, and every Civil Court of a grade inferior to that of a District Court and every Court of Small Causes is subordinate to the High Court and _____ Court.",
+    "options": [
+      "Civil",
+      "District",
+      "Revenue",
+      "Supreme"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "The inferior civil courts and small-causes courts are subordinate to the District Court as well.",
+    "cue": "The inferior civil courts and small-causes courts are subordinate to the District Court as well.",
+    "reference": "Section 3",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-13",
+    "subject": "CPC",
+    "number": 13,
+    "page": 25,
+    "question": "The rules for transferring execution of certain decrees, in any local area, to the collector shall be declared by notification in the official gazette of _____ Government.",
+    "options": [
+      "Provincial",
+      "Central",
+      "Federal",
+      "Local"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Section 68 assigns the declaration to the Provincial Government.",
+    "cue": "Section 68 assigns the declaration to the Provincial Government.",
+    "reference": "Section 68",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-14",
+    "subject": "CPC",
+    "number": 14,
+    "page": 26,
+    "question": "Under the CPC, a decree passed with the consent of the parties is known as _____.",
+    "options": [
+      "Preliminary decree",
+      "Compromise decree",
+      "Ex-parte decree",
+      "Arbitral award"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "A compromise decree records the parties' lawful agreement.",
+    "cue": "A compromise decree records the parties' lawful agreement.",
+    "reference": "Order XXIII rule 3; section 96(3)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-15",
+    "subject": "CPC",
+    "number": 15,
+    "page": 26,
+    "question": "As per section 9 of the Code of Civil Procedure, 1908, the Courts shall (subject to the provisions contained in the CPC) have jurisdiction to try all suits of a _____ excepting suits of which their cognizance is either expressly or impliedly barred.",
+    "options": [
+      "Criminal",
+      "Civil nature",
+      "Family",
+      "Personal"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Civil courts try suits of a civil nature unless jurisdiction is barred.",
+    "cue": "Civil courts try suits of a civil nature unless jurisdiction is barred.",
+    "reference": "Section 9",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-16",
+    "subject": "CPC",
+    "number": 16,
+    "page": 26,
+    "question": "Civil matters are decided on the basis of _____.",
+    "options": [
+      "Prima Facie evidence",
+      "Beyond any reasonable doubt",
+      "Preponderance of evidence/Balance of probability",
+      "None of these"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Balance of probabilities is the ordinary civil standard; beyond reasonable doubt belongs to criminal proof.",
+    "cue": "Balance of probabilities is the ordinary civil standard; beyond reasonable doubt belongs to criminal proof.",
+    "reference": "Civil standard of proof",
+    "status": "unverified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-17",
+    "subject": "CPC",
+    "number": 17,
+    "page": 26,
+    "question": "Principle of Res Sub-judice is contained in _____ of CPC.",
+    "options": [
+      "Section 9",
+      "Section 10",
+      "Section 12",
+      "None of these"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Sub judice concerns a previously instituted suit still pending.",
+    "cue": "Sub judice concerns a previously instituted suit still pending.",
+    "reference": "Section 10",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-18",
+    "subject": "CPC",
+    "number": 18,
+    "page": 26,
+    "question": "Which of the following does not deals with final determination of contested questions and have the binding effect in future litigation?",
+    "options": [
+      "Res Subjudice",
+      "Res judicata",
+      "Stare decisis",
+      "Both A and B"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Res sub judice concerns pending litigation, not a finally decided matter.",
+    "cue": "Res sub judice concerns pending litigation, not a finally decided matter.",
+    "reference": "Sections 10â€“11",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-19",
+    "subject": "CPC",
+    "number": 19,
+    "page": 26,
+    "question": "Section _____ of the C.P.C prevents courts of concurrent jurisdiction from simultaneously entertaining and adjudicating upon two parallel litigations in respect of the same matter in issue.",
+    "options": [
+      "09",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Section 10 stays the trial subject to its conditions; it does not itself prohibit institution of the later suit.",
+    "cue": "Section 10 stays the trial subject to its conditions; it does not itself prohibit institution of the later suit.",
+    "reference": "Section 10",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-20",
+    "subject": "CPC",
+    "number": 20,
+    "page": 26,
+    "question": "Under the CPC, no court shall proceed the trial of any suit on same cause of action which is pending before _____.",
+    "options": [
+      "District Court",
+      "High Court",
+      "Supreme Court",
+      "Any Court of Pakistan"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "The intended answer is D, but the stem is overbroad: the previously instituted suit, parties, substantial issues and competent jurisdiction must satisfy section 10.",
+    "cue": "The intended answer is D, but the stem is overbroad: the previously instituted suit, parties, substantial issues and competent jurisdiction must satisfy section 10.",
+    "reference": "Section 10",
+    "status": "disputed",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-21",
+    "subject": "CPC",
+    "number": 21,
+    "page": 26,
+    "question": "As per Sections 10 and 11 of The Code of Civil Procedure 1908, one of the differences between \"res-judicata\" and \"res sub-judice\" is that in one case the suit _____.",
+    "options": [
+      "Has been decided while pending in other case",
+      "Is in appeal while pending in other case",
+      "Is in execution while pending in other case",
+      "Is in execution while stay in other case"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Judicata: decided. Sub judice: pending.",
+    "cue": "Judicata: decided",
+    "reference": "Sections 10â€“11",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-22",
+    "subject": "CPC",
+    "number": 22,
+    "page": 26,
+    "question": "Constructive res-judicata is contained in _____.",
+    "options": [
+      "Explanation III to section 11",
+      "Explanation IV to section 11",
+      "Explanation VI to section 11",
+      "Explanation VII to section 11"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "A matter which might and ought to have been raised is treated as directly and substantially in issue.",
+    "cue": "A matter which might and ought to have been raised is treated as directly and substantially in issue.",
+    "reference": "Section 11, explanation IV",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-23",
+    "subject": "CPC",
+    "number": 23,
+    "page": 26,
+    "question": "A decision or finding given by a court or a tribunal without jurisdiction _____.",
+    "options": [
+      "Can operate as res-judicata under all circumstances",
+      "Cannot operate as res-judicata",
+      "Can operate as res-judicata under certain circumstances only",
+      "May operates as res-judicata or may not operates as res-judicata"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "A competent court is required for the statutory rule of res judicata.",
+    "cue": "A competent court is required for the statutory rule of res judicata.",
+    "reference": "Section 11",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-24",
+    "subject": "CPC",
+    "number": 24,
+    "page": 26,
+    "question": "In a suit, where the doctrine of res-judicata applies, the suit is liable to be _____.",
+    "options": [
+      "Stayed",
+      "May be stayed & may be dismissed",
+      "Both A and B",
+      "Dismissed"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Res judicata bars retrial of the decided issue; a mere stay describes section 10 instead.",
+    "cue": "Res judicata bars retrial of the decided issue; a mere stay describes section 10 instead.",
+    "reference": "Section 11",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-25",
+    "subject": "CPC",
+    "number": 25,
+    "page": 26,
+    "question": "Principle of res-judicata applies _____.",
+    "options": [
+      "To suits only",
+      "To execution proceedings",
+      "To arbitration proceedings",
+      "To suits as well as execution proceedings"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "The book applies the principle to suits and execution proceedings. This extension requires case-law treatment beyond the bare wording of section 11.",
+    "cue": "The book applies the principle to suits and execution proceedings",
+    "reference": "Res judicata in execution",
+    "status": "unverified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-26",
+    "subject": "CPC",
+    "number": 26,
+    "page": 26,
+    "question": "Where a plaintiff is precluded by rules from institute further suit in respect of any particular cause of action, he _____ to institute a suit in respect of such cause of action in any Court to which this Code applies.",
+    "options": [
+      "shall be allowed",
+      "shall not be entitled",
+      "shall be required",
+      "may not be allowed"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "The statutory phrase is shall not be entitled.",
+    "cue": "The statutory phrase is shall not be entitled.",
+    "reference": "Section 12(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-27",
+    "subject": "CPC",
+    "number": 27,
+    "page": 27,
+    "question": "As per Civil Procedure Code 1908, section 12(2), where a person challenges the validity of a judgment, decree or order, he shall seek his remedy by making an application to the court which passed the final judgment",
+    "options": [
+      "Plea of fraud",
+      "Misrepresentation",
+      "Want of jurisdiction",
+      "All are Correct"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Fraud, misrepresentation and want of jurisdiction are all grounds addressed by section 12(2).",
+    "cue": "Fraud, misrepresentation and want of jurisdiction are all grounds addressed by section 12(2).",
+    "reference": "Section 12(2)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-28",
+    "subject": "CPC",
+    "number": 28,
+    "page": 27,
+    "question": "Bar to further suit is dealt under which of the following in the Code of Civil Procedure.",
+    "options": [
+      "Section 11",
+      "Section 16",
+      "Section 13",
+      "Both A and B"
+    ],
+    "answer": null,
+    "bookAnswer": 3,
+    "explanation": "No option gives section 12, whose heading is Bar to further suit. The printed key D is unsafe; excluded from scored practice.",
+    "cue": "No option gives section 12, whose heading is Bar to further suit",
+    "reference": "Section 12",
+    "status": "disputed",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-29",
+    "subject": "CPC",
+    "number": 29,
+    "page": 27,
+    "question": "As per section 15 of the Code of Civil Procedure, 1908, every suit shall be instituted in the Court of the lowest grade competent to try it, EXCEPT:",
+    "options": [
+      "Appeal against a decree",
+      "For the recovery of immovable property-with or without rent or profits",
+      "For the partition of immovable property",
+      "For transfer of immovable property"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "An appeal is not institution of an original suit under section 15.",
+    "cue": "An appeal is not institution of an original suit under section 15.",
+    "reference": "Section 15",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-30",
+    "subject": "CPC",
+    "number": 30,
+    "page": 27,
+    "question": "As per explanation to Section 16 (where suits to be instituted) of the code of Civil Procedure 1908, \"Property\" means property situated _____.",
+    "options": [
+      "Anywhere in the world",
+      "In Pakistan",
+      "In specific region",
+      "In the province"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "The explanation means property situated in Pakistan.",
+    "cue": "The explanation means property situated in Pakistan.",
+    "reference": "Section 16 explanation",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-31",
+    "subject": "CPC",
+    "number": 31,
+    "page": 27,
+    "question": "A suit for compensation for wrong done to the person or to moveable property, where the wrong was done within the local jurisdiction of one court and the defendant resides within the local limits of another court.",
+    "options": [
+      "Can be instituted in the Court within whose local jurisdiction the wrong has been committed",
+      "Can be instituted in the court within whose local jurisdiction the defendant resides",
+      "Either A or B at the option of the plaintiff",
+      "Anywhere in Pakistan"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "The plaintiff may choose either court specified by section 19.",
+    "cue": "The plaintiff may choose either court specified by section 19.",
+    "reference": "Section 19",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-32",
+    "subject": "CPC",
+    "number": 32,
+    "page": 27,
+    "question": "Suits for the recovery of movable property actually under distant or attachment shall be instituted in the Court within the local limit of whose jurisdiction the _____.",
+    "options": [
+      "Defendant is resides",
+      "The plaintiff is resides",
+      "Property is situated",
+      "Any of these"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "The statute says distraint or attachment; the book misprints distant. The property's location supplies the venue.",
+    "cue": "The statute says distraint or attachment; the book misprints distant",
+    "reference": "Section 16(f)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-33",
+    "subject": "CPC",
+    "number": 33,
+    "page": 27,
+    "question": "Suit in respect of immovable property, where the entire relief sought can be obtained through the personal obedience of the defendant, can be instituted in a court within whose local jurisdiction.",
+    "options": [
+      "The property is situated",
+      "The defendant voluntarily resides or carries on business",
+      "The defendant voluntarily resides or personally works for gain",
+      "All of these"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "The proviso permits these alternatives where its conditions, including personal obedience, are satisfied.",
+    "cue": "The proviso permits these alternatives where its conditions, including personal obedience, are satisfied.",
+    "reference": "Section 16 proviso",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-34",
+    "subject": "CPC",
+    "number": 34,
+    "page": 27,
+    "question": "As per Section 16(b) of The Code of Civil Procedure 1908, subject to the pecuniary or other limitations prescribed by law, for the partition of immovable property, suit shall be instituted where _____.",
+    "options": [
+      "Plaintiff files a suit",
+      "Place of defendant",
+      "Subject matter situates",
+      "The cause of action is wholly or partly arisen"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Partition normally follows the location of the immovable property.",
+    "cue": "Partition normally follows the location of the immovable property.",
+    "reference": "Section 16(b)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-35",
+    "subject": "CPC",
+    "number": 35,
+    "page": 27,
+    "question": "As per Section 17 of the Code of Civil Procedure 1908, where a suit to obtain relief respecting, or compensation for wrong to immovable property situate within the jurisdiction of _____ Courts, the suit may be instituted in any Court within the local limits of whose jurisdiction any portion of the property is situate.",
+    "options": [
+      "Different",
+      "District",
+      "Former",
+      "High"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Different courts may have territorial portions; the chosen court must be competent regarding the value of the entire claim.",
+    "cue": "Different courts may have territorial portions; the chosen court must be competent regarding the value of the entire claim.",
+    "reference": "Section 17",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-36",
+    "subject": "CPC",
+    "number": 36,
+    "page": 27,
+    "question": "The word 'resides' used in section 19 of the Code of Civil Procedure means _____.",
+    "options": [
+      "Natural persons",
+      "Companies",
+      "Both A and B",
+      "None of these"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The book chooses natural persons. Corporate venue is dealt with through business and statutory explanations; this interpretive answer has not been independently case-law verified.",
+    "cue": "The book chooses natural persons",
+    "reference": "Section 19; interpretation of resides",
+    "status": "unverified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-37",
+    "subject": "CPC",
+    "number": 37,
+    "page": 27,
+    "question": "As per section 19 of the Code of Civil Procedure 1908, Where a suit is for compensation for wrong done to the person or to movable property, if the wrong was done within the local limits of the Jurisdiction of one Court and the defendant resides, or carries on business, or personally works for gain, within the local limits of the Jurisdiction of another Court, the suit may be instituted at the option of the _____ either of the said Courts.",
+    "options": [
+      "Defendant",
+      "District court",
+      "Plaintiff",
+      "Presiding officer"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "The choice belongs to the plaintiff.",
+    "cue": "The choice belongs to the plaintiff.",
+    "reference": "Section 19",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-38",
+    "subject": "CPC",
+    "number": 38,
+    "page": 28,
+    "question": "According to illustration (b) of Section 19 of The Code of Civil Procedure 1908, A, residing in Karachi, published in Quetta statements defamatory of B. B may Sue A _____.",
+    "options": [
+      "Anywhere in Pakistan",
+      "Either in Quetta or in Karachi",
+      "Only in Karachi",
+      "Only in Quetta"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "One venue is the wrong's location and the other is the defendant's residence.",
+    "cue": "One venue is the wrong's location and the other is the defendant's residence.",
+    "reference": "Section 19 illustration (b)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-39",
+    "subject": "CPC",
+    "number": 39,
+    "page": 28,
+    "question": "As per section 20 of the Code of Civil Procedure, 1908, suits are to be instituted where _____ reside or cause of action arises.",
+    "options": [
+      "Complainant",
+      "Defendant",
+      "Plaintiff",
+      "Prosecutor"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Section 20 uses the defendant's residence or business/work, or the cause of action, subject to its conditions.",
+    "cue": "Section 20 uses the defendant's residence or business/work, or the cause of action, subject to its conditions.",
+    "reference": "Section 20",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-40",
+    "subject": "CPC",
+    "number": 40,
+    "page": 28,
+    "question": "As per Section 20(c) of the Code of Civil Procedure 1908, subject to the limitations mentioned in the CPC, every suit _____ instituted in a Court within the local limits of whose jurisdiction, the cause of action, wholly or in part arises.",
+    "options": [
+      "May",
+      "May be",
+      "Shall",
+      "Shall be"
+    ],
+    "answer": 3,
+    "bookAnswer": 2,
+    "explanation": "The complete phrase is shall be instituted. The printed key C leaves the sentence incomplete.",
+    "cue": "The complete phrase is shall be instituted",
+    "reference": "Section 20(c)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-41",
+    "subject": "CPC",
+    "number": 41,
+    "page": 28,
+    "question": "As per Order 41(15) of The Code of Civil Procedure 1908, the notice to the respondent shall declare that if he does not appear in the Appellate Court on the day so fixed the appeal will be _____.",
+    "options": [
+      "Dismissed",
+      "Heard ex-parte",
+      "Postponed",
+      "Rejected"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "The warning is that the appeal will be heard ex parte.",
+    "cue": "The warning is that the appeal will be heard ex parte.",
+    "reference": "Order XLI rule 15",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-42",
+    "subject": "CPC",
+    "number": 42,
+    "page": 28,
+    "question": "As per Section 47(1) of The Code of Civil Procedure 1908, all questions arising _____ in which the decree was passed, or their representatives, and relating to the execution, discharge, or satisfaction of the decree, shall be determined by the Court executing the decree and not by a separate suit.",
+    "options": [
+      "Between the legal heirs of a party",
+      "Between the parties to the suit",
+      "From the claimant to the suit",
+      "From the respondent to the suit"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Execution questions between the parties or their representatives go to the executing court.",
+    "cue": "Execution questions between the parties or their representatives go to the executing court.",
+    "reference": "Section 47(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-43",
+    "subject": "CPC",
+    "number": 43,
+    "page": 28,
+    "question": "As per Section 47(2) of the Code of Civil Procedure 1908, the Court may, subject to _____ objection as to limitation or jurisdiction, treat a proceeding under this section as a suit or a suit as a proceeding and may, if necessary, order payment of any additional court-fees.",
+    "options": [
+      "Any",
+      "Factual",
+      "Legal",
+      "Technical"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The provision preserves any objection concerning limitation or jurisdiction.",
+    "cue": "The provision preserves any objection concerning limitation or jurisdiction.",
+    "reference": "Section 47(2)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-44",
+    "subject": "CPC",
+    "number": 44,
+    "page": 28,
+    "question": "As per Civil Procedure Code 1908, Section 75, Subject to such Conditions and limitations as may be prescribed, the Court may issue a commission EXCEPT _____.",
+    "options": [
+      "To examine any person",
+      "To make criminal investigation",
+      "To examine of adjust accounts",
+      "To make a partition"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "A local investigation is listed; a criminal investigation is not.",
+    "cue": "A local investigation is listed; a criminal investigation is not.",
+    "reference": "Section 75",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-45",
+    "subject": "CPC",
+    "number": 45,
+    "page": 28,
+    "question": "As per section 75 of the Code of Civil Procedure, 1908, subject to such conditions and limitations as may be prescribed by the Court, the Court may issue a commission of all the following EXCEPT:",
+    "options": [
+      "To examine any person",
+      "To issue decree",
+      "To make a local investigation",
+      "To make a partition"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Issuing the decree is a judicial function, not a purpose listed for a commission.",
+    "cue": "Issuing the decree is a judicial function, not a purpose listed for a commission.",
+    "reference": "Section 75",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-46",
+    "subject": "CPC",
+    "number": 46,
+    "page": 28,
+    "question": "As per Section 75(d) of the Code of Civil Procedure 1908, subject to such conditions and limitations as may be prescribed the Court may issue a/an _____ to make a partition.",
+    "options": [
+      "Commission",
+      "Decree",
+      "Order",
+      "Summon"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Partition is one of the statutory purposes for a commission.",
+    "cue": "Partition is one of the statutory purposes for a commission.",
+    "reference": "Section 75(d)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-47",
+    "subject": "CPC",
+    "number": 47,
+    "page": 28,
+    "question": "As per section 96(1) of the Code of Civil Procedure, 1908, an appeal shall lie from every _____ passed by any court of original jurisdiction.",
+    "options": [
+      "Decree",
+      "Finding",
+      "Opinion",
+      "Order"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Subject to statutory exceptions, section 96 concerns appeals from original decrees.",
+    "cue": "Subject to statutory exceptions, section 96 concerns appeals from original decrees.",
+    "reference": "Section 96(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-48",
+    "subject": "CPC",
+    "number": 48,
+    "page": 28,
+    "question": "As per section 96(2) of the Code of Civil Procedure 1908, may lie from an original decree passed ex-parte.",
+    "options": [
+      "An appeal",
+      "No appeal",
+      "Only three appeals",
+      "Several appeals"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "An ex parte decree can be appealed; Order IX rule 13 is a distinct remedy.",
+    "cue": "An ex parte decree can be appealed; Order IX rule 13 is a distinct remedy.",
+    "reference": "Section 96(2)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-49",
+    "subject": "CPC",
+    "number": 49,
+    "page": 28,
+    "question": "As per section 96(3) of the Code of Civil Procedure 1908, no appeal shall lie from a decree passed by the Court _____.",
+    "options": [
+      "Under the supervision of the Judge of High Court",
+      "Under the supervision of the Judge of Supreme Court",
+      "With the consent of parties",
+      "Without the consent of parties"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Consent decrees are excluded by subsection (3).",
+    "cue": "Consent decrees are excluded by subsection (3).",
+    "reference": "Section 96(3)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-50",
+    "subject": "CPC",
+    "number": 50,
+    "page": 29,
+    "question": "Section 104 of the CPC deals with _____.",
+    "options": [
+      "Appeal from final decree where no appeal from preliminary decree",
+      "Orders from which appeal lies",
+      "Appeal from original decree",
+      "Other's order"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Section 104 identifies appealable orders.",
+    "cue": "Section 104 identifies appealable orders.",
+    "reference": "Section 104",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-51",
+    "subject": "CPC",
+    "number": 51,
+    "page": 29,
+    "question": "As per section 104 of the Code of Civil Procedure 1908, an appeal shall lie from the following orders EXCEPT:",
+    "options": [
+      "An order under section 35-A",
+      "An order under section 95",
+      "Any order passed in appeal under section 104",
+      "Any order made under rules from which an appeal is expressly allowed"
+    ],
+    "answer": 2,
+    "bookAnswer": 3,
+    "explanation": "Subsection (2) expressly bars another appeal from an order passed in appeal under this section. The printed key D is wrong.",
+    "cue": "Subsection (2) expressly bars another appeal from an order passed in appeal under this section",
+    "reference": "Section 104(2)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-52",
+    "subject": "CPC",
+    "number": 52,
+    "page": 29,
+    "question": "As per Section 104(1)(h) of the Code of Civil Procedure 1908, an appeal shall lie from an order under any of the provisions of this Code imposing _____ or directing the arrest or detention in the civil prison of any person except where such arrest or detention is in execution of a decree.",
+    "options": [
+      "A fine",
+      "A penalty",
+      "Rigorous imprisonment",
+      "Simple imprisonment"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The provision expressly says a fine.",
+    "cue": "The provision expressly says a fine.",
+    "reference": "Section 104(1)(h)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-53",
+    "subject": "CPC",
+    "number": 53,
+    "page": 29,
+    "question": "As per Section 104(2) of the Code of Civil Procedure 1908, _____ appeal shall lie from any order passed in appeal under this section.",
+    "options": [
+      "Mandatory",
+      "No",
+      "Only",
+      "Right to"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "No further appeal lies under this subsection.",
+    "cue": "No further appeal lies under this subsection.",
+    "reference": "Section 104(2)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-54",
+    "subject": "CPC",
+    "number": 54,
+    "page": 29,
+    "question": "Time limitation for filing revision petition before High Court is provided under section 115 of the CPC is _____ days.",
+    "options": [
+      "30",
+      "60",
+      "90",
+      "100"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "The cited Pakistan Code text specifies ninety days. Provincial amendments and the applicable jurisdiction must be checked for real litigation.",
+    "cue": "The cited Pakistan Code text specifies ninety days",
+    "reference": "Section 115 proviso",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-55",
+    "subject": "CPC",
+    "number": 55,
+    "page": 29,
+    "question": "As per section 115 of the Code of Civil Procedure, 1908, The High Court may call for the record of any case which has been decided by any Court subordinate to such High Court and in which no appeal lies thereto, and if such subordinate Court appears as following EXCEPT:",
+    "options": [
+      "To have exercised a jurisdiction not vested in it by law",
+      "To have failed to exercise a jurisdiction so vested",
+      "To have failed to exercise a jurisdiction not vested",
+      "To have acted in the exercise of its jurisdiction illegally or with material irregularity"
+    ],
+    "answer": 2,
+    "bookAnswer": 3,
+    "explanation": "Failure to exercise jurisdiction that was never vested is not a revision ground. The printed key D is wrong.",
+    "cue": "Failure to exercise jurisdiction that was never vested is not a revision ground",
+    "reference": "Section 115(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-56",
+    "subject": "CPC",
+    "number": 56,
+    "page": 29,
+    "question": "As per Section 115(1)(b) of the Code of Civil Procedure 1908, the High Court may call for the _____ of any case which has been decided by any Court subordinate to such High Court and in which no appeal lies thereto, and if such subordinate Court appears to have failed to exercise a jurisdiction so vested.",
+    "options": [
+      "Decree",
+      "Judgment",
+      "Parties",
+      "Record"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "The High Court calls for the record.",
+    "cue": "The High Court calls for the record.",
+    "reference": "Section 115(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-57",
+    "subject": "CPC",
+    "number": 57,
+    "page": 29,
+    "question": "Under CPC, no proceedings in revision _____ be entertained by the High Court against an order made under section 115(2) by the District Court.",
+    "options": [
+      "May",
+      "Can",
+      "Shall",
+      "Might"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "The prohibition is expressed as no proceedings shall be entertained.",
+    "cue": "The prohibition is expressed as no proceedings shall be entertained.",
+    "reference": "Section 115(4)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-58",
+    "subject": "CPC",
+    "number": 58,
+    "page": 29,
+    "question": "As per Section 115(2) of the code of civil procedure, 1908, the district court may exercise the powers conferred on the High Court by sub section (1) in respect of any case decided by a court subordinate to the such district court in which _____ appeal lies, and the amount or value of the subject-matter whereof does not exceed the limits of the appellate jurisdiction of the district court.",
+    "options": [
+      "Any",
+      "Discretionary",
+      "No",
+      "Single"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "The subsection requires a case in which no appeal lies and the stated value limitation.",
+    "cue": "The subsection requires a case in which no appeal lies and the stated value limitation.",
+    "reference": "Section 115(2)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-59",
+    "subject": "CPC",
+    "number": 59,
+    "page": 29,
+    "question": "As per section 115(4) of the C.P.C, no proceeding in revision shall be entertained by the _____ against an order made under subsections (2) by the District Court.",
+    "options": [
+      "Supreme Court",
+      "High Court",
+      "Federal Shariat Court",
+      "Session Court"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "The express prohibition names the High Court.",
+    "cue": "The express prohibition names the High Court.",
+    "reference": "Section 115(4)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-60",
+    "subject": "CPC",
+    "number": 60,
+    "page": 30,
+    "question": "As per section 151 of the Code of Civil Procedure, 1908, nothing in this code shall be deemed to limit or otherwise affect the _____ of the court to make such orders as may be necessary for the ends of justice or to prevent abuse of the process of the court.",
+    "options": [
+      "Appellate power",
+      "Inherent power",
+      "Original power",
+      "Revisionary power"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Section 151 saves inherent powers to secure justice and prevent abuse.",
+    "cue": "Section 151 saves inherent powers to secure justice and prevent abuse.",
+    "reference": "Section 151",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-61",
+    "subject": "CPC",
+    "number": 61,
+    "page": 30,
+    "question": "As per Order I Rule 1 of CPC 1908, all persons may be joined in one suit as _____ in whom any right to relief in respect of or arising out of the same act or transaction or series of acts or transactions is alleged to exist, whether jointly, severly or in the alternative, where if such persons brought separate suits, any common question of law or fact would arise.",
+    "options": [
+      "Adverse party",
+      "Defendants",
+      "Plaintiff",
+      "Respondents"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Rule 1 concerns joinder of plaintiffs; common transactions and common questions are required.",
+    "cue": "Rule 1 concerns joinder of plaintiffs; common transactions and common questions are required.",
+    "reference": "Order I rule 1",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-62",
+    "subject": "CPC",
+    "number": 62,
+    "page": 30,
+    "question": "According to Order 1, Rule 4(b) of the Code of Civil Procedure 1908, Judgment may be given without any amendment against such one or more of the defendants as may be found to be liable, according to their respective _____.",
+    "options": [
+      "Acquisitions",
+      "Capabilities",
+      "Charges",
+      "Liabilities"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Judgment follows the defendants' respective liabilities.",
+    "cue": "Judgment follows the defendants' respective liabilities.",
+    "reference": "Order I rule 4(b)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-63",
+    "subject": "CPC",
+    "number": 63,
+    "page": 30,
+    "question": "As per Order I Rule 5 of the Code of Civil Procedure 1908, it shall not be necessary that every defendant shall be interested as to _____ claimed in any suit against him.",
+    "options": [
+      "All the relief",
+      "The damages",
+      "The considerations",
+      "The compensations"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Each defendant need not be interested in all relief claimed.",
+    "cue": "Each defendant need not be interested in all relief claimed.",
+    "reference": "Order I rule 5",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-64",
+    "subject": "CPC",
+    "number": 64,
+    "page": 30,
+    "question": "As per Order I, rule 10(3) of the C.P.C, \"No person shall be added as a plaintiff suing without a next friend or as the next friend of a plaintiff under any disability without _____?\"",
+    "options": [
+      "His consent",
+      "Issuing summon",
+      "Issuing warrant",
+      "Informing defendant"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The person's consent is required.",
+    "cue": "The person's consent is required.",
+    "reference": "Order I rule 10(3)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-65",
+    "subject": "CPC",
+    "number": 65,
+    "page": 30,
+    "question": "As per Order VI, Rule 1 of The Code of Civil Procedure 1908, _____ shall mean plaint or written statement.",
+    "options": [
+      "Complaint",
+      "Petition",
+      "Pleading",
+      "Suit"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Pleading is the umbrella term for plaint and written statement.",
+    "cue": "Pleading is the umbrella term for plaint and written statement.",
+    "reference": "Order VI rule 1",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-66",
+    "subject": "CPC",
+    "number": 66,
+    "page": 30,
+    "question": "According to Order VI Rule 2 of the Code of Civil Procedure 1908, every pleading shall contain, and contain only, a statement in a concise form of the _____ on which the party pleading relies for his claim or defense, as the case may be.",
+    "options": [
+      "Legal facts",
+      "Material facts",
+      "Presumptions of facts",
+      "Presumptions of law"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Plead material facts, not the evidence proving them.",
+    "cue": "Plead material facts, not the evidence proving them.",
+    "reference": "Order VI rule 2",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-67",
+    "subject": "CPC",
+    "number": 67,
+    "page": 30,
+    "question": "As per Order VI Rule 3 of the Code of Civil Procedure 1908, the form in _____ when applicable, and where they are not applicable forms of the like character, as nearly as may be, shall be used for all pleadings.",
+    "options": [
+      "Appendix A",
+      "Appendix B",
+      "Appendix C",
+      "Appendix D"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Pleading forms are in Appendix A.",
+    "cue": "Pleading forms are in Appendix A.",
+    "reference": "Order VI rule 3",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-68",
+    "subject": "CPC",
+    "number": 68,
+    "page": 30,
+    "question": "According to the Code of Civil Procedure, 1908 Order VI Rule 7, no pleading shall, except by way of amendment, raise any new ground of claim or contain any _____ of fact inconsistent with the previous pleadings of the party pleading the same.",
+    "options": [
+      "Allegation",
+      "Burden",
+      "Evidence",
+      "Ratification"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "A new inconsistent allegation requires amendment.",
+    "cue": "A new inconsistent allegation requires amendment.",
+    "reference": "Order VI rule 7",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-69",
+    "subject": "CPC",
+    "number": 69,
+    "page": 30,
+    "question": "When consider action is done at the time of contract is called _____.",
+    "options": [
+      "Present consideration",
+      "Past consideration",
+      "future consideration",
+      "None of these"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The book means consideration performed at the time of contract: present consideration. This question is not a CPC provision.",
+    "cue": "The book means consideration performed at the time of contract: present consideration",
+    "reference": "Contract-law terminology",
+    "status": "unverified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-70",
+    "subject": "CPC",
+    "number": 70,
+    "page": 30,
+    "question": "_____ is the paramount consideration for the court while deciding custody of minor.",
+    "options": [
+      "Welfare of minor",
+      "Age of minor",
+      "Gender of minor",
+      "None of the above"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The child's welfare is central. This is family/guardianship law rather than a CPC provision; the cited Act still needs independent source checking.",
+    "cue": "The child's welfare is central",
+    "reference": "Guardians and Wards Act, section 17",
+    "status": "unverified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-71",
+    "subject": "CPC",
+    "number": 71,
+    "page": 31,
+    "question": "As per Order VI Rule 16 of the Code of Civil Procedure 1908, the Court may at any stage of the proceedings order to be struck out or amend any matter in any pleading which may be unnecessary or scandalous or which may tend to prejudice, embarrass, or delay the _____ of the suit.",
+    "options": [
+      "Decision",
+      "Fair trial",
+      "Institution",
+      "Proceeding"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "The provision protects the fair trial of the suit.",
+    "cue": "The provision protects the fair trial of the suit.",
+    "reference": "Order VI rule 16",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-72",
+    "subject": "CPC",
+    "number": 72,
+    "page": 31,
+    "question": "As per Order VII, Rule 2 of the Code of Civil Procedure 1908, where the plaintiff seeks the recovery of money, the plaint shall state the precise _____.",
+    "options": [
+      "Amount claimed",
+      "Amount gained",
+      "Basis of the claim",
+      "Law upon the claim"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "State the precise amount claimed; the rule also provides for certain approximate statements.",
+    "cue": "State the precise amount claimed; the rule also provides for certain approximate statements.",
+    "reference": "Order VII rule 2",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-73",
+    "subject": "CPC",
+    "number": 73,
+    "page": 31,
+    "question": "Which of the following deals with where the subject-matter of the suit is immovable property in the Code of Civil Procedure?",
+    "options": [
+      "Order V, Rule 30",
+      "Order IX, Rule 12",
+      "Order VII, Rule 3",
+      "Order X, Rule 22"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Rule 3 requires sufficient identification of immovable property.",
+    "cue": "Rule 3 requires sufficient identification of immovable property.",
+    "reference": "Order VII rule 3",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-74",
+    "subject": "CPC",
+    "number": 74,
+    "page": 31,
+    "question": "As per Order VII Rule 10(1) of the Code of Civil Procedure 1908, the plaint shall at any stage of the suit be returned to be presented to the Court in which the suit should have been _____.",
+    "options": [
+      "Executed",
+      "Instituted",
+      "Proceeded",
+      "Progressed"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Return sends the plaint to the proper court for institution.",
+    "cue": "Return sends the plaint to the proper court for institution.",
+    "reference": "Order VII rule 10(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-75",
+    "subject": "CPC",
+    "number": 75,
+    "page": 31,
+    "question": "Rejection of plaint under order 7 Rule 11 of the CPC is a/an _____.",
+    "options": [
+      "Order",
+      "Decree",
+      "Interim Order",
+      "Both A and B"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Rejection of a plaint is expressly included in the definition of decree.",
+    "cue": "Rejection of a plaint is expressly included in the definition of decree.",
+    "reference": "Section 2(2); Order VII rule 11",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-76",
+    "subject": "CPC",
+    "number": 76,
+    "page": 31,
+    "question": "A plaint can be rejected only on any of the _____ grounds provided in the CPC.",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Six"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "The cited Pakistan Code formulation lists four grounds; amendments in a particular jurisdiction require separate checking.",
+    "cue": "The cited Pakistan Code formulation lists four grounds; amendments in a particular jurisdiction require separate checking.",
+    "reference": "Order VII rule 11",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-77",
+    "subject": "CPC",
+    "number": 77,
+    "page": 31,
+    "question": "As per Code of Civil Procedure, 1908, Order VII Rule 11, the plaint shall be rejected in all following cases BUT:",
+    "options": [
+      "Where it does not disclose a cause of action",
+      "Where the suit appears from the statement in the plaint to be barred by any law",
+      "Where the relief claimed is under-valued and the plaintiff, on being required by the Court to correct the valuation within a time to be fixed by the Court, fails to do so",
+      "Where the plaintiff seeks the recovery of money, the plaint stated the precise amount claimed"
+    ],
+    "answer": 3,
+    "bookAnswer": 0,
+    "explanation": "Stating the precise money claim complies with rule 2; it is not a rejection ground. The printed key A is wrong.",
+    "cue": "Stating the precise money claim complies with rule 2; it is not a rejection ground",
+    "reference": "Order VII rules 2 and 11",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-78",
+    "subject": "CPC",
+    "number": 78,
+    "page": 31,
+    "question": "As per Order VII Rule 12 of the Code of Civil Procedure 1908, where a plaint is rejected, the Judge shall record order to that effect with the reasons for such _____.",
+    "options": [
+      "Dismissal",
+      "Order",
+      "Refutation",
+      "Rejection"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Order VII rule 12 requires the Judge to record an order rejecting the plaint, with reasons for such order. The printed answer B matches the cited Pakistan Code wording.",
+    "cue": "Rejection: record an order with reasons.",
+    "reference": "Order VII rule 12",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-79",
+    "subject": "CPC",
+    "number": 79,
+    "page": 31,
+    "question": "As per Order VII Rule 22(1) of the CPC 1908, where a party is not found at the address given by him for service and no agent or _____ member of his family on whom a notice, summons or other process can be served is present, a copy of the notice, summons or other process shall be fixed to the outer door of the house.",
+    "options": [
+      "Adult female",
+      "Adult male",
+      "Any",
+      "Male"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "The cited rule uses adult male member; this is the wording of the source provision, not a general rule for every service situation.",
+    "cue": "The cited rule uses adult male member; this is the wording of the source provision, not a general rule for every service situation.",
+    "reference": "Order VII rule 22(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-80",
+    "subject": "CPC",
+    "number": 80,
+    "page": 31,
+    "question": "As per Order VIII, Rule 1 of the Code of Civil Procedure 1908, the defendant shall at or before the first hearing or within such time as the Court may permit, present _____ his defence.",
+    "options": [
+      "A legal record in",
+      "A written statement of",
+      "An argument in",
+      "An evidence in"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "The defendant's pleading is a written statement of defence. Time limits may vary with amendments.",
+    "cue": "The defendant's pleading is a written statement of defence",
+    "reference": "Order VIII rule 1",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-81",
+    "subject": "CPC",
+    "number": 81,
+    "page": 31,
+    "question": "As per Order VIII Rule 3 of the CPC 1908, it shall not be sufficient for a defendant in his written statement to deny generally the ground alleged by the plaintiff, but the defendant must deal _____ with each allegation of fact of which he does not admit the truth, except damages.",
+    "options": [
+      "Covertly",
+      "Implicitly",
+      "Specifically",
+      "Underhandedly"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Specific denials are required; a general denial is insufficient.",
+    "cue": "Specific denials are required; a general denial is insufficient.",
+    "reference": "Order VIII rule 3",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-82",
+    "subject": "CPC",
+    "number": 82,
+    "page": 32,
+    "question": "As per Code of Civil Procedure, 1908 Order VIII Rule 4, where a defendant denies an allegation of fact in the _____, he must not do so evasively but answer the point of substance.",
+    "options": [
+      "Appeal",
+      "Argument",
+      "Defense",
+      "Plaint"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "The denial must meet the substance of the allegation in the plaint.",
+    "cue": "The denial must meet the substance of the allegation in the plaint.",
+    "reference": "Order VIII rule 4",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-83",
+    "subject": "CPC",
+    "number": 83,
+    "page": 32,
+    "question": "As per illustration (c) of Order VIII, Rule 6 of The Code of Civil Procedure 1908, A sues B on a bill of exchange. B alleges that A has wrongfully neglected to ensure B's goods and is liable to him in compensation which he claims to set-off. The amount not being ascertained _____.",
+    "options": [
+      "Can be set-off",
+      "Cannot be set-off",
+      "Partially set-off",
+      "Shall be set-off"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "A legal set-off under this rule requires an ascertained sum; unassessed damages do not qualify.",
+    "cue": "A legal set-off under this rule requires an ascertained sum; unassessed damages do not qualify.",
+    "reference": "Order VIII rule 6 illustration (c)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-84",
+    "subject": "CPC",
+    "number": 84,
+    "page": 32,
+    "question": "As per Order VIII Rule 10 of the Code of Civil Procedure 1908, where any party from whom a written statement is so required fails to present the same within the time fixed by Court, the Court may pronounce judgment _____ or make such order in relation to the suit as it thinks fit.",
+    "options": [
+      "Against him",
+      "Against the petitioner",
+      "In favor of him",
+      "In favor of the petitioner"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The court may pronounce judgment against the defaulting party or make another appropriate order.",
+    "cue": "The court may pronounce judgment against the defaulting party or make another appropriate order.",
+    "reference": "Order VIII rule 10",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-85",
+    "subject": "CPC",
+    "number": 85,
+    "page": 32,
+    "question": "As per Order IX Rule 3 of The Code of Civil Procedure 1908, where neither party appears when the suit is called on for hearing, the Court may make an order that the _____.",
+    "options": [
+      "Suit be dismissed",
+      "Ex-parte proceedings be initiated",
+      "Summon be sent again",
+      "Warrant be issued"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "When neither side appears, dismissal is permitted.",
+    "cue": "When neither side appears, dismissal is permitted.",
+    "reference": "Order IX rule 3",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-86",
+    "subject": "CPC",
+    "number": 86,
+    "page": 32,
+    "question": "As per Code of Civil Procedure, 1908 Order IX, Rule 6, where the plaintiff appears and defendant does not appear when the suit is called on for hearing and it is proved that the summons was duly served, then the Court _____.",
+    "options": [
+      "May proceed bilaterally",
+      "May proceed ex-parte",
+      "May proceed further",
+      "May not proceed further"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Due service plus the defendant's absence permits ex parte proceedings.",
+    "cue": "Due service plus the defendant's absence permits ex parte proceedings.",
+    "reference": "Order IX rule 6",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-87",
+    "subject": "CPC",
+    "number": 87,
+    "page": 32,
+    "question": "As per Order IX Rule 6(2) of the Code of Civil Procedure 1908, where it is owing to the plaintiff's default that the summons was not _____ or was not served insufficient time, the Court shall order the plaintiff to pay the costs occasioned by the postponement.",
+    "options": [
+      "Duly served",
+      "Entertained",
+      "Posted",
+      "Sent"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Plaintiff-caused failure of due or timely service attracts postponement costs. The source's insufficient time is a typographical error for in sufficient time.",
+    "cue": "Plaintiff-caused failure of due or timely service attracts postponement costs",
+    "reference": "Order IX rule 6(2)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-88",
+    "subject": "CPC",
+    "number": 88,
+    "page": 32,
+    "question": "Order _____ rule 13 of the CPC provides remedy against ex-parte decree.",
+    "options": [
+      "09",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Order IX rule 13 provides the application to set aside an ex parte decree.",
+    "cue": "Order IX rule 13 provides the application to set aside an ex parte decree.",
+    "reference": "Order IX rule 13",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-89",
+    "subject": "CPC",
+    "number": 89,
+    "page": 32,
+    "question": "As per Order IX rule 13(1) of the C.P.C, in any case, in which a decree is passed ex-parte against a defendant, he may apply to the Court by which the decree was passed for an order _____.",
+    "options": [
+      "To set it aside",
+      "To continue with it",
+      "To return the fee",
+      "To give a notice to the other party"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The relief is setting aside the decree, on the rule's stated grounds.",
+    "cue": "The relief is setting aside the decree, on the rule's stated grounds.",
+    "reference": "Order IX rule 13",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-90",
+    "subject": "CPC",
+    "number": 90,
+    "page": 32,
+    "question": "As per Order XXXIX Rule 3 of the CPC 1908, the court shall in all cases, before granting an injunction direct notice of the application for the same to be given to the _____.",
+    "options": [
+      "Appellant",
+      "Claimant",
+      "Opposite party",
+      "Petitioner"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Notice normally goes to the opposite party. The stem omits the exception where delay would defeat the object of the injunction.",
+    "cue": "Notice normally goes to the opposite party",
+    "reference": "Order XXXIX rule 3",
+    "status": "disputed",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-91",
+    "subject": "CPC",
+    "number": 91,
+    "page": 32,
+    "question": "As per Order XXXIX Rule 4 of the Code of Civil Procedure 1908, any order for _____ may be discharged, or varied, or set aside by the Court on application made thereto by any party dissatisfied with such order.",
+    "options": [
+      "A relief",
+      "An injunction",
+      "Compensation",
+      "Damages"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Rule 4 concerns discharge, variation or setting aside of an injunction.",
+    "cue": "Rule 4 concerns discharge, variation or setting aside of an injunction.",
+    "reference": "Order XXXIX rule 4",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-92",
+    "subject": "CPC",
+    "number": 92,
+    "page": 32,
+    "question": "As per Code of Civil Procedure, 1908 Order 41, Rule 1, every appeal shall be preferred in the form of a _____ signed by the appellant or his pleader and presented to the Court or to such officer as it appoints in this behalf.",
+    "options": [
+      "Memorandum",
+      "Plaint",
+      "Suit",
+      "Written statement"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "An appeal is presented through a memorandum of appeal.",
+    "cue": "An appeal is presented through a memorandum of appeal.",
+    "reference": "Order XLI rule 1",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-93",
+    "subject": "CPC",
+    "number": 93,
+    "page": 33,
+    "question": "As per Order XLI, Rule 2 of the CPC 1908, the _____ shall set forth concisely and under distinct heads the grounds of objection to the decree appealed from without any argument or narrative, and such grounds shall be numbered consecutively.",
+    "options": [
+      "Claim",
+      "Memorandum",
+      "Plaint",
+      "Written statement"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "The answer is memorandum, but the source incorrectly cites Rule 2 instead of rule 1(2).",
+    "cue": "The answer is memorandum, but the source incorrectly cites Rule 2 instead of rule 1(2).",
+    "reference": "Order XLI rule 1(2)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-94",
+    "subject": "CPC",
+    "number": 94,
+    "page": 33,
+    "question": "As per Order XLI, Rule 5(2) of the Code of Civil Procedure 1908, Where an application is made for stay of execution of an appealable decree before the expiration of the time allowed for appealing there from, the court which _____ may on sufficient cause being shown order the execution to be stayed.",
+    "options": [
+      "Also have jurisdiction",
+      "In appellate",
+      "In superior",
+      "Passed the decree"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "The court that passed the decree may grant this stay on sufficient cause before appeal time expires.",
+    "cue": "The court that passed the decree may grant this stay on sufficient cause before appeal time expires.",
+    "reference": "Order XLI rule 5(2)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-95",
+    "subject": "CPC",
+    "number": 95,
+    "page": 33,
+    "question": "As per Order XLI Rule 9(1) of the Code of Civil Procedure 1908, where a memorandum of appeal is admitted, the _____ Court or the proper officer of that Court shall endorse thereon the date of presentation and shall register the appeal in a book to be kept for the purpose.",
+    "options": [
+      "Appellate",
+      "Civil",
+      "District",
+      "High"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The appellate court registers an admitted appeal.",
+    "cue": "The appellate court registers an admitted appeal.",
+    "reference": "Order XLI rule 9(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-96",
+    "subject": "CPC",
+    "number": 96,
+    "page": 33,
+    "question": "The court to amend a decree is the court that passed it. Where an appeal is preferred from a decree of a court of first instance the Appellate Court may _____.",
+    "options": [
+      "Dismiss the appeal under Order 41, Rule 11(1), without issuing any notice to the respondents",
+      "Confirm, reverse or vary the decree of the court of first instance (Order 41, Rule 32)",
+      "Either A or B",
+      "None of these"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Both listed appellate powers exist, subject to the relevant procedural requirements.",
+    "cue": "Both listed appellate powers exist, subject to the relevant procedural requirements.",
+    "reference": "Order XLI rules 11 and 32",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-97",
+    "subject": "CPC",
+    "number": 97,
+    "page": 33,
+    "question": "As per Code of Civil Procedure, 1908 Order 41, Rule 15, the notice to the respondent shall declare that if he does not appear in the _____ on the day so fixed the appeal will be heard ex-parte.",
+    "options": [
+      "Appellate court",
+      "District courts",
+      "Family court",
+      "Revenue court"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The respondent must appear in the appellate court.",
+    "cue": "The respondent must appear in the appellate court.",
+    "reference": "Order XLI rule 15",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-98",
+    "subject": "CPC",
+    "number": 98,
+    "page": 33,
+    "question": "As per Order XLI, Rule 17(2) of the Code of Civil Procedure 1908, where the appellant appears and the respondent does not appear, the appeal shall be heard _____.",
+    "options": [
+      "Ex-parte",
+      "In the presence of both the parties",
+      "In the presence of the defendant",
+      "In the presence of third party"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The appeal may proceed ex parte against the absent respondent.",
+    "cue": "The appeal may proceed ex parte against the absent respondent.",
+    "reference": "Order XLI rule 17(2)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-99",
+    "subject": "CPC",
+    "number": 99,
+    "page": 33,
+    "question": "As per Civil Procedure Code 1908, Order XLI Rule 22(5) of the CPC the provision relating to _____, so far they can made application apply to an objective under this rule.",
+    "options": [
+      "Ex parte appeal",
+      "First appeal",
+      "Pauper appeal",
+      "Second appeal"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "The book's garbled wording refers to applying provisions on pauper appeals, so far as applicable, to an objection under this rule.",
+    "cue": "The book's garbled wording refers to applying provisions on pauper appeals, so far as applicable, to an objection under this rule.",
+    "reference": "Order XLI rule 22(5)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-100",
+    "subject": "CPC",
+    "number": 100,
+    "page": 33,
+    "question": "Additional evidence in Appellate Court can be produced only in cases enumerated in CPC under _____.",
+    "options": [
+      "Order 21 Rule 28",
+      "Order 41 Rule 01",
+      "Order 41 Rule 27",
+      "Order 41 Rule 01"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Additional evidence on appeal is exceptional and governed by rule 27; B and D are duplicated in the book.",
+    "cue": "Additional evidence on appeal is exceptional and governed by rule 27; B and D are duplicated in the book.",
+    "reference": "Order XLI rule 27",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-101",
+    "subject": "CPC",
+    "number": 101,
+    "page": 33,
+    "question": "As per Order XLI, Rule 33 of the Code of Civil Procedure 1908, A claims a sum of money as due to him form X or Y, and in a suit against both obtains a decree against X. X appeals and A and Y are respondents. The Appellate Court decides in favour of X. It has power to pass a decree against _____.",
+    "options": [
+      "A",
+      "X",
+      "Y",
+      "X and Y"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "The appellate court can pass the appropriate decree against Y although Y did not appeal.",
+    "cue": "The appellate court can pass the appropriate decree against Y although Y did not appeal.",
+    "reference": "Order XLI rule 33 illustration",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-102",
+    "subject": "CPC",
+    "number": 102,
+    "page": 33,
+    "question": "As per Order XLIII, Rule 1(a) of the Code of Civil Procedure 1908, an appeal shall lie from an order under _____ returning a plaint to be presented to the proper Court orders under the provisions of Section 104.",
+    "options": [
+      "Rule 10 of Order VII",
+      "Rule 11 of Order VII",
+      "Rule 12 of Order VII",
+      "Rule 13 of Order VII"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Return of plaint under Order VII rule 10 is an appealable order; rejection is treated as a decree.",
+    "cue": "Return of plaint under Order VII rule 10 is an appealable order; rejection is treated as a decree.",
+    "reference": "Order XLIII rule 1(a)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-103",
+    "subject": "CPC",
+    "number": 103,
+    "page": 33,
+    "question": "As per Code of Civil Procedure, 1908 Order 43, Rule 1, an appeal shall lie from the following orders under the provisions of section 104, except an order under _____.",
+    "options": [
+      "Rule 10 of Order VII returning a plaint to be presented to the proper Court",
+      "Rule 10 of Order VIII pronouncing judgment against a party",
+      "Rule 4 of Order X pronouncing judgment against a party",
+      "Rule 21 of Order XVI"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Order XVI rule 21 is not among these specified appealable orders in the cited text.",
+    "cue": "Order XVI rule 21 is not among these specified appealable orders in the cited text.",
+    "reference": "Order XLIII rule 1",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-104",
+    "subject": "CPC",
+    "number": 104,
+    "page": 34,
+    "question": "As per Order XLIII Rule 1(c) of the Code of Civil Procedure 1908, an appeal shall lie from an order under rule 4 of Order _____ pronouncing judgment against party under the provisions of Section 104 of CPC.",
+    "options": [
+      "IX",
+      "X",
+      "XI",
+      "XII"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Order X rule 4 is intended. The source mislabels the clause: it is clause (e), not (c).",
+    "cue": "Order X rule 4 is intended",
+    "reference": "Order XLIII rule 1(e)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CPC-105",
+    "subject": "CPC",
+    "number": 105,
+    "page": 34,
+    "question": "According to the Code of Civil Procedure, 1908 order 43, Rule 4, the provisions of rule 3 shall mutatis mutandis, apply to all _____ filed before an appellate Court during the pendency of a suit.",
+    "options": [
+      "Applications",
+      "Plaint",
+      "Suits",
+      "Written statements"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Rule 4 applies the preceding notice procedure to applications before an appellate court during a suit.",
+    "cue": "Rule 4 applies the preceding notice procedure to applications before an appellate court during a suit.",
+    "reference": "Order XLIII rule 4",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-1",
+    "subject": "PPC",
+    "number": 1,
+    "page": 35,
+    "question": "Non-cognizable offence has been defined _____.",
+    "options": [
+      "Under section 4(m)",
+      "Under section 4(p)",
+      "Under section 4(i)",
+      "Under section 4(n)"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "The definition is in CrPC, despite this question being placed in the PPC chapter.",
+    "cue": "The definition is in CrPC, despite this question being placed in the PPC chapter.",
+    "reference": "CrPC section 4(1)(n)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-2",
+    "subject": "PPC",
+    "number": 2,
+    "page": 35,
+    "question": "As per section 08 of the Pakistan Penal Code 1860, the pronoun \"he\" and its derivatives are used for any person _____.",
+    "options": [
+      "Of transgender specie",
+      "Of the female specie",
+      "Of the male specie",
+      "Whether male or female"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "The statutory gender rule says whether male or female.",
+    "cue": "The statutory gender rule says whether male or female.",
+    "reference": "PPC section 8",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-3",
+    "subject": "PPC",
+    "number": 3,
+    "page": 35,
+    "question": "As per Section 10 of the Pakistan Penal Code, the word man denotes a male human being of _____.",
+    "options": [
+      "Above 07 years age",
+      "Above 16 years age",
+      "Above 18 years age",
+      "Any Age"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Man and woman in this definition do not require adulthood.",
+    "cue": "Man and woman in this definition do not require adulthood.",
+    "reference": "PPC section 10",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-4",
+    "subject": "PPC",
+    "number": 4,
+    "page": 35,
+    "question": "As per Section 11 of The Pakistan Penal Code, the word _____ includes any Company or Association, or body of persons, whether incorporated or not.",
+    "options": [
+      "Firm",
+      "Corporation",
+      "Person",
+      "Proprietor"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Person includes companies, associations and bodies of persons.",
+    "cue": "Person includes companies, associations and bodies of persons.",
+    "reference": "PPC section 11",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-5",
+    "subject": "PPC",
+    "number": 5,
+    "page": 35,
+    "question": "As per Section 17 of the Pakistan Penal Code 1860, the word \"Government\" denotes the person or persons authorized by law to administer _____ in Pakistan or in any part thereof.",
+    "options": [
+      "Executive Government",
+      "Federal Government",
+      "Local Government",
+      "Provincial Government"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Executive Government is the statutory expression.",
+    "cue": "Executive Government is the statutory expression.",
+    "reference": "PPC section 17",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-6",
+    "subject": "PPC",
+    "number": 6,
+    "page": 35,
+    "question": "As per explanation 2 of section 21 of the Pakistan Penal Code, 1860, wherever the words \"public servant\" occur, they shall be understood by every person who is in actual possession of the situation of a public servant _____ legal defect there may be in his right to hold that situation.",
+    "options": [
+      "Major",
+      "Minor",
+      "No",
+      "Whatever"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Actual possession of the public-servant position counts whatever legal defect exists in the right to hold it.",
+    "cue": "Actual possession of the public-servant position counts whatever legal defect exists in the right to hold it.",
+    "reference": "PPC section 21 explanation 2",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-7",
+    "subject": "PPC",
+    "number": 7,
+    "page": 35,
+    "question": "As per Section 28 of The Pakistan Penal Code 1860, A person is said to _____ who causes one thing to resemble another thing, intending by means of that resemblance to practice deception, or knowing it to be likely that deception will thereby be practiced.",
+    "options": [
+      "Counterfeit",
+      "Cheat",
+      "Fraud",
+      "All are correct"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Counterfeiting uses resemblance for intended or likely deception.",
+    "cue": "Counterfeiting uses resemblance for intended or likely deception.",
+    "reference": "PPC section 28",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-8",
+    "subject": "PPC",
+    "number": 8,
+    "page": 35,
+    "question": "Common Intention is disclosed by _____.",
+    "options": [
+      "The statement of the complaint",
+      "The facts disclosed in the evidence and surrounding circumstances of the case",
+      "The statement of the policy officer",
+      "The statement of the accused"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Common intention is inferred from evidence and circumstances, not automatically from a single statement. The book prints policy officer.",
+    "cue": "Common intention is inferred from evidence and circumstances, not automatically from a single statement",
+    "reference": "PPC section 34; evidentiary inference",
+    "status": "unverified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-9",
+    "subject": "PPC",
+    "number": 9,
+    "page": 35,
+    "question": "Ali and Bilal agree to murder Zia by severally and at different times giving him small dose of poison. Bilal administers the poison according to the agreement with intent to murder Zia. Zia dies from the effects of the several doses of poison so administered to him. Who is liable for death of Zia?",
+    "options": [
+      "Ali",
+      "Bilal",
+      "Zia",
+      "Both Ali and Bilal"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Intentional cooperation in the several acts constituting the offence makes both liable.",
+    "cue": "Intentional cooperation in the several acts constituting the offence makes both liable.",
+    "reference": "PPC section 37 illustration (a)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-10",
+    "subject": "PPC",
+    "number": 10,
+    "page": 35,
+    "question": "As per illustration of Section 39 of the Pakistan Penal Code 1860, A sets fire, by night, to an inhabited house in a large town, for the purpose of facilitating robbery and thus causes the death of a person. Here, A may not have intended to cause death, and may even be sorry that death has been caused by his act; yet, if he knew that he was likely to cause death, he has caused death _____.",
+    "options": [
+      "Involuntarily",
+      "Unintentionally",
+      "Voluntarily",
+      "With Robbery"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Voluntarily includes an effect caused by means known to be likely to cause it.",
+    "cue": "Voluntarily includes an effect caused by means known to be likely to cause it.",
+    "reference": "PPC section 39 illustration",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-11",
+    "subject": "PPC",
+    "number": 11,
+    "page": 35,
+    "question": "As per Section 40 of The Pakistan Penal Code 1860, The word \"offence\" is defined by the Pakistan Penal Code, 1860 Pakistan?",
+    "options": [
+      "The act or omission punishable by any law enforceable in Pakistan",
+      "A thing made punishable by this code",
+      "Both A and B",
+      "None of these"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "B is the default definition. Section 40 expands the term for specified provisions, so do not treat B as universal in every context.",
+    "cue": "B is the default definition",
+    "reference": "PPC section 40",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-12",
+    "subject": "PPC",
+    "number": 12,
+    "page": 36,
+    "question": "As per Section 44 of The Pakistan Penal Code 1860, The word \"Injury\" denotes any harm whatever illegally caused to person _____.",
+    "options": [
+      "In body",
+      "Mind",
+      "Reputation or property",
+      "All of these"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Injury includes illegal harm to body, mind, reputation or property.",
+    "cue": "Injury includes illegal harm to body, mind, reputation or property.",
+    "reference": "PPC section 44",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-13",
+    "subject": "PPC",
+    "number": 13,
+    "page": 36,
+    "question": "As per Section 52 of the Pakistan Penal Code, nothing is said to be done or believed in good faith which is done or believed without due care and _____.",
+    "options": [
+      "Attention",
+      "Caveat",
+      "Knowledge",
+      "License"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Good faith requires due care and attention.",
+    "cue": "Good faith requires due care and attention.",
+    "reference": "PPC section 52",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-14",
+    "subject": "PPC",
+    "number": 14,
+    "page": 36,
+    "question": "As per Section 76 of the Pakistan Penal Code, A, a soldier, fires on a mob by the order of his superior officer, in conformity, with the commands of the law. A has committed _____ offence.",
+    "options": [
+      "An",
+      "Mild",
+      "No",
+      "Serious"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "The illustration expressly requires conformity with law; a superior's unlawful order is not a blanket defence.",
+    "cue": "The illustration expressly requires conformity with law; a superior's unlawful order is not a blanket defence.",
+    "reference": "PPC section 76 illustration (a)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-15",
+    "subject": "PPC",
+    "number": 15,
+    "page": 36,
+    "question": "As per illustration to Section 80 of the Pakistan Penal Code 1860, A is at work with a hatchet; the head flies off and kill a man who is standing by. Here if there was no want of proper caution on the part of A, his act is _____ and not an offense.",
+    "options": [
+      "Civil liability",
+      "Excusable",
+      "Negligence",
+      "Tortious liability"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Accident in a lawful act with proper care and caution is excused.",
+    "cue": "Accident in a lawful act with proper care and caution is excused.",
+    "reference": "PPC section 80 illustration",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-16",
+    "subject": "PPC",
+    "number": 16,
+    "page": 36,
+    "question": "As per Section 81 of The Pakistan Penal Code 1860, Act likely to cause harm, but done without criminal intent, and to prevent other harm. Nothing is an offense merely by reason of its being done with the knowledge that it is likely to cause harm, if it be done without any criminal intention to cause harm, and in _____ for the purpose of preventing or avoiding other harm to person or property.",
+    "options": [
+      "Good Faith",
+      "Good intention",
+      "Melafide intention",
+      "All are correct"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The requirement is good faith, not merely a claimed good intention.",
+    "cue": "The requirement is good faith, not merely a claimed good intention.",
+    "reference": "PPC section 81",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-17",
+    "subject": "PPC",
+    "number": 17,
+    "page": 36,
+    "question": "As per Section 81 of the Pakistan Penal Code 1860, A, in a great fire, pulls down houses in order to prevent the conflagration from spreading. He does this with the intention in good faith of saving human life or property. Here, if it be found that the harm to be prevented was of such _____ as to excuse A's act, A is not guilty of the offence.",
+    "options": [
+      "A wild loss",
+      "A nature and so imminent",
+      "An extreme loss",
+      "A perilous nature"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "The nature and imminence of the danger matter to the necessity defence.",
+    "cue": "The nature and imminence of the danger matter to the necessity defence.",
+    "reference": "PPC section 81 illustration (b)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-18",
+    "subject": "PPC",
+    "number": 18,
+    "page": 36,
+    "question": "As per Section 82 of the Pakistan Penal Code, nothing is an offence, which is done by a child under _____ years of age.",
+    "options": [
+      "Seven",
+      "Eight",
+      "Nine",
+      "Ten"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "The current threshold is under ten. Older compilations still display seven; the official newer text records the 2016 amendment.",
+    "cue": "The current threshold is under ten",
+    "reference": "PPC section 82, amended 2016",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-19",
+    "subject": "PPC",
+    "number": 19,
+    "page": 36,
+    "question": "Section 84 PPC deals with _____.",
+    "options": [
+      "Legal insanity",
+      "Theft",
+      "Custody of child",
+      "None of these"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The defence requires incapacity of the specified kind at the time of the act due to unsoundness of mind; a diagnosis alone is insufficient.",
+    "cue": "The defence requires incapacity of the specified kind at the time of the act due to unsoundness of mind; a diagnosis alone is insufficient.",
+    "reference": "PPC section 84",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-20",
+    "subject": "PPC",
+    "number": 20,
+    "page": 36,
+    "question": "As per illustration to section 93 of the Pakistan Penal code 1860, A, a surgeon, in good faith, communicates to a patient his opinion that he cannot live. The patient dies as a consequence of the shock. A has committed _____ though he knew it to be likely that the communication might cause the patient's death.",
+    "options": [
+      "An offense",
+      "No offense",
+      "Offense of negligence",
+      "Tortious liability"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "A good-faith communication for the patient's benefit is protected.",
+    "cue": "A good-faith communication for the patient's benefit is protected.",
+    "reference": "PPC section 93 illustration",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-21",
+    "subject": "PPC",
+    "number": 21,
+    "page": 36,
+    "question": "As per Section 96 of the Pakistan Penal Code 1860, nothing is an offence which is done in the exercise of the right of _____.",
+    "options": [
+      "Private defense",
+      "Protection of property",
+      "Public defense",
+      "Self defense"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Private defence is the statutory umbrella, encompassing qualifying defence of body and property.",
+    "cue": "Private defence is the statutory umbrella, encompassing qualifying defence of body and property.",
+    "reference": "PPC section 96",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-22",
+    "subject": "PPC",
+    "number": 22,
+    "page": 36,
+    "question": "Any person convicted on a trial held by an Assistant Session Judge, or a District Magistrate and sentenced less than 4 years or not convicted U/S 124-A of the PPC may appeal before _____.",
+    "options": [
+      "Court of sessions",
+      "Magistrate Section 30",
+      "District Judge",
+      "High Court"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The book's intended answer is Sessions, but the compressed alternatives and exceptions are unclear. Read section 408's precise appellate conditions; this is a CrPC question.",
+    "cue": "The book's intended answer is Sessions, but the compressed alternatives and exceptions are unclear",
+    "reference": "CrPC section 408",
+    "status": "disputed",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-23",
+    "subject": "PPC",
+    "number": 23,
+    "page": 37,
+    "question": "In a cognizable case under PPC, the police will have all the powers to _____.",
+    "options": [
+      "Investigate except the power to arrest without warrant",
+      "Investigate including the power to arrest without warrant (Reference: Section 154, 156)",
+      "Investigate and arrest without warrant only after seeking permission from the Magistrate",
+      "Investigate and arrest without warrant only after informing the Magistrate having jurisdiction to inquire into or try the offence"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Police may investigate a cognizable case without a Magistrate's order and arrest without warrant where the legal arrest conditions are met.",
+    "cue": "Police may investigate a cognizable case without a Magistrate's order and arrest without warrant where the legal arrest conditions are met.",
+    "reference": "CrPC sections 4(1)(f), 54, 156",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-24",
+    "subject": "PPC",
+    "number": 24,
+    "page": 37,
+    "question": "Punishment for blasphemy as per section 295-C of PPC read in the light of Ismail Qureshi vs The government of Pakistan (PLD 1991 FSC 10) is _____.",
+    "options": [
+      "Death or imprisonment for life",
+      "Death and imprisonment for life and fine",
+      "Death and fine",
+      "None of these"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "The compilation relies on the Federal Shariat Court ruling affecting the alternative of life imprisonment. The judgment itself has not yet been checked for this item; excluded from scored mocks pending verification.",
+    "cue": "The compilation relies on the Federal Shariat Court ruling affecting the alternative of life imprisonment",
+    "reference": "PPC section 295-C; PLD 1991 FSC 10",
+    "status": "unverified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-25",
+    "subject": "PPC",
+    "number": 25,
+    "page": 37,
+    "question": "Under the P.P.C, Tazir means _____.",
+    "options": [
+      "A gift offered to the judge",
+      "A bribe amount agreed by an individual",
+      "Punishment other than qisas, diyat, arsh or daman",
+      "An offense"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Ta'zir is punishment other than the four specified categories.",
+    "cue": "Ta'zir is punishment other than the four specified categories.",
+    "reference": "PPC section 299(l)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-26",
+    "subject": "PPC",
+    "number": 26,
+    "page": 37,
+    "question": "Which of the following is an example of \"ta'zir\"?",
+    "options": [
+      "Payment of fine already fixed by law as \"arsh\" for an offence of causing hurt",
+      "Payment of half of diyat as arsh",
+      "Imprisonment for life",
+      "Payment of Diyat"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Imprisonment is outside qisas, diyat, arsh and daman; the other choices name those compensation categories.",
+    "cue": "Imprisonment is outside qisas, diyat, arsh and daman; the other choices name those compensation categories.",
+    "reference": "PPC section 299(l)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-27",
+    "subject": "PPC",
+    "number": 27,
+    "page": 37,
+    "question": "As per section 299(a), of the PPC, \"Adult\" means a person who has attained the age of ___.",
+    "options": [
+      "Puberty",
+      "Sixteen years",
+      "Eighteen years",
+      "Twenty-one years"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "For this chapter, adult means eighteen years.",
+    "cue": "For this chapter, adult means eighteen years.",
+    "reference": "PPC section 299(a)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-28",
+    "subject": "PPC",
+    "number": 28,
+    "page": 37,
+    "question": "As per Section 299(c) of the Pakistan Penal Code 1860, \"authorized medical officer\" means a medical officer or a Medical Board, howsoever designated, authorized by the _____.",
+    "options": [
+      "Judicial government",
+      "Local government",
+      "National government",
+      "Provincial government"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Authorization is by the Provincial Government.",
+    "cue": "Authorization is by the Provincial Government.",
+    "reference": "PPC section 299(c)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-29",
+    "subject": "PPC",
+    "number": 29,
+    "page": 37,
+    "question": "As per Section 299(D) of The Pakistan Penal Code 1860, _____ means the compensation determined by the court to be paid by the offender to the victim for causing hurt not liable to Arsh:",
+    "options": [
+      "Daman",
+      "Diyat",
+      "Arsh",
+      "None is correct"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Daman is court-determined compensation for hurt not liable to arsh.",
+    "cue": "Daman is court-determined compensation for hurt not liable to arsh.",
+    "reference": "PPC section 299(d)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-30",
+    "subject": "PPC",
+    "number": 30,
+    "page": 37,
+    "question": "Offence of Qatl-e-Amad can be compound by the _____.",
+    "options": [
+      "Legal Heirs of the victim",
+      "Complainant",
+      "Court",
+      "Advocate"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The eligible wali may compound qisas subject to law; this does not guarantee immunity from ta'zir under section 311.",
+    "cue": "The eligible wali may compound qisas subject to law; this does not guarantee immunity from ta'zir under section 311.",
+    "reference": "PPC sections 305 and 310",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-31",
+    "subject": "PPC",
+    "number": 31,
+    "page": 37,
+    "question": "Qatl-e-Amad not liable to Qisas _____.",
+    "options": [
+      "If the offender is close related of the victim",
+      "If the offender is a husband of the victim",
+      "When the offender is a minor or insane",
+      "All of these"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Minor or insane is an express category. Mere close relationship or marriage is not a general exemption.",
+    "cue": "Minor or insane is an express category",
+    "reference": "PPC section 306(a)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-32",
+    "subject": "PPC",
+    "number": 32,
+    "page": 37,
+    "question": "Qisas for Qatl-e-Amad shall not be enforced _____.",
+    "options": [
+      "When the offender dies before the enforcement of the Qisas",
+      "When the offender punished with Tazir",
+      "When the offender has close relation with the victim",
+      "None of these"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Death before enforcement is an express non-enforcement situation.",
+    "cue": "Death before enforcement is an express non-enforcement situation.",
+    "reference": "PPC section 307(a)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-33",
+    "subject": "PPC",
+    "number": 33,
+    "page": 37,
+    "question": "As per section 302(c) of the Pakistan Penal code 1860, whoever commits qatl-e-amd, subject to the provisions of chapter XVI, shall be punished with imprisonment of either description for a term which may extend to _____ where according to the injunctions of Islam the punishment of qisas is not applicable.",
+    "options": [
+      "Fourteen years",
+      "Eighteen years",
+      "Twenty-five years",
+      "Whole life"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "The stated maximum is twenty-five years, subject to the section and applicable qualifications.",
+    "cue": "The stated maximum is twenty-five years, subject to the section and applicable qualifications.",
+    "reference": "PPC section 302(c)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-34",
+    "subject": "PPC",
+    "number": 34,
+    "page": 37,
+    "question": "As per Section 303 of The Pakistan Penal Code 1860, whoever commits qatl, under ikrah-i-tam shall be punished with imprisonment for a term which may extend to twenty-five years but shall not be _____ and the person causing ikrah-i-tam shall be punished for the kind of qatl committed as a consequence of his ikrah-i-tam;",
+    "options": [
+      "Ten Years",
+      "5 years",
+      "3 Years",
+      "None is correct"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The book omits the words less than before the blank. The statutory range is ten to twenty-five years.",
+    "cue": "The book omits the words less than before the blank",
+    "reference": "PPC section 303(a)",
+    "status": "disputed",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-35",
+    "subject": "PPC",
+    "number": 35,
+    "page": 38,
+    "question": "As per Section 304(1)(b) of the Pakistan Penal Code 1860, proof of _____ liable to qisas shall be by the evidence as provided in Article 17 of the Qanun-e-Shahadat, 1984.",
+    "options": [
+      "Qatl-bis-sabab",
+      "Qatl-i-amd",
+      "Qatl-i-khata",
+      "Qatl-shibh-i-amd"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "This provision concerns proof of qatl-i-amd liable to qisas.",
+    "cue": "This provision concerns proof of qatl-i-amd liable to qisas.",
+    "reference": "PPC section 304(1)(b)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-36",
+    "subject": "PPC",
+    "number": 36,
+    "page": 38,
+    "question": "As per section, 305 of the Pakistan Penal Code, in the case of Qatl, if the victims has no Wali _____ shall have the right of Qisas.",
+    "options": [
+      "Deceased himself",
+      "The Court",
+      "The Government",
+      "The distant relative"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "If there is no heir, the Government is wali under the stated provision.",
+    "cue": "If there is no heir, the Government is wali under the stated provision.",
+    "reference": "PPC section 305",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-37",
+    "subject": "PPC",
+    "number": 37,
+    "page": 38,
+    "question": "As per Section 310 of the Pakistan Penal Code, in the case of qatl-i-amd, an adult and sane wali may, _____ on accepting badl-i-sulah, compound his right of qisas.",
+    "options": [
+      "After the trial",
+      "At any time",
+      "During the trial",
+      "Within three years of the trial"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "The provision says at any time; compounding remains subject to statutory safeguards and section 311.",
+    "cue": "The provision says at any time; compounding remains subject to statutory safeguards and section 311.",
+    "reference": "PPC section 310(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-38",
+    "subject": "PPC",
+    "number": 38,
+    "page": 38,
+    "question": "As per illustration (a) to section 318 of the Pakistan Penal Code 1860, A aims at a deer but misses the target and kills Z who is standing by, A is guilty of _____.",
+    "options": [
+      "Qatl-e-amd",
+      "Qatl-e-bis-sabab",
+      "Qatl-e-shibh-amd",
+      "Qatl-i-khata"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "The death results from a mistake of act, rather than an intention to kill a person.",
+    "cue": "The death results from a mistake of act, rather than an intention to kill a person.",
+    "reference": "PPC section 318 illustration (a)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-39",
+    "subject": "PPC",
+    "number": 39,
+    "page": 38,
+    "question": "The punishment for qatl-i-khata is _____.",
+    "options": [
+      "Life imprisonment",
+      "Payment half of diyat",
+      "Payment of diyat",
+      "Death penalty"
+    ],
+    "answer": 2,
+    "bookAnswer": 1,
+    "explanation": "Diyat is the basic punishment; specified rash or negligent acts may also attract imprisonment. The book's key B incorrectly says half diyat.",
+    "cue": "Diyat is the basic punishment; specified rash or negligent acts may also attract imprisonment",
+    "reference": "PPC section 319",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-40",
+    "subject": "PPC",
+    "number": 40,
+    "page": 38,
+    "question": "As per Section 323(1) of The Pakistan Penal Code 1860, the Court shall, subject to the Injunctions of Islam as laid down in the Holy Qur'an and Sunnah and keeping in view the financial position of the convict and the heirs of the victim, fix the value of diyat which shall not be less than the value of _____ thousand six hundred and thirty grams of silver.",
+    "options": [
+      "Twenty",
+      "Thirty",
+      "Forty",
+      "Fifty"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "The statutory silver benchmark is 30,630 grams. Do not substitute an old rupee valuation.",
+    "cue": "The statutory silver benchmark is 30,630 grams",
+    "reference": "PPC section 323(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-41",
+    "subject": "PPC",
+    "number": 41,
+    "page": 38,
+    "question": "As per Section 325 of the Pakistan Penal Code 1860, Attempt to commit suicide is _____.",
+    "options": [
+      "Not punishable at all",
+      "Is punishable with simple imprisonment of 3 months or with fine or with both",
+      "Is punishable with imprisonment of 6 months or with fine or with both",
+      "Is punishable with imprisonment of one year or with fine or with both"
+    ],
+    "answer": null,
+    "bookAnswer": 3,
+    "explanation": "Historical question: book D describes former section 325. The enacted 2022 amendment omitted section 325. Do not memorize the old penalty as current law; the present-tense stem is invalid.",
+    "cue": "Historical question: book D describes former section 325",
+    "reference": "Criminal Laws (Amendment) Act 2022, section 2",
+    "status": "historical",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-42",
+    "subject": "PPC",
+    "number": 42,
+    "page": 38,
+    "question": "Whoever shall have been habitually associated with any other or others for the purpose of committing robbery or child-stealing by means of or accompanied with Qatl is termed as _____.",
+    "options": [
+      "Habitual offender",
+      "Murdered",
+      "Kidnapper",
+      "Thug"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Section 326 defines a thug by habitual association for robbery or child-stealing by means of, or accompanied by, qatl.",
+    "cue": "Habitual association for these acts = thug.",
+    "reference": "PPC section 326",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-43",
+    "subject": "PPC",
+    "number": 43,
+    "page": 38,
+    "question": "As per Section 332 of the Pakistan Penal Code, which one of the following is not the kind of hurt?",
+    "options": [
+      "Grievous hurt",
+      "Itlafiudw",
+      "Itlafisalahiyyatiudw",
+      "Shajjah"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The listed categories include itlaf-i-udw, itlaf-i-salahiyyat-i-udw and shajjah; grievous hurt is not a named category here.",
+    "cue": "The listed categories include itlaf-i-udw, itlaf-i-salahiyyat-i-udw and shajjah; grievous hurt is not a named category here.",
+    "reference": "PPC section 332(2)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-44",
+    "subject": "PPC",
+    "number": 44,
+    "page": 38,
+    "question": "As per Section 333 of The Pakistan Penal Code 1860, whoever dismembers, amputates, severs any limb or organ of the body of another person is said to cause _____.",
+    "options": [
+      "Ghayr-jaifah",
+      "Itlaf-i-salahiyyat-i-udw",
+      "Itlaf-i-udw",
+      "Shajjah-i-Khafifah"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Itlaf-i-udw concerns severing a limb or organ; loss of its functioning is a different category.",
+    "cue": "Itlaf-i-udw concerns severing a limb or organ; loss of its functioning is a different category.",
+    "reference": "PPC section 333",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-45",
+    "subject": "PPC",
+    "number": 45,
+    "page": 38,
+    "question": "Which of these is not the kind of Shajjah?",
+    "options": [
+      "Mudihah",
+      "Manaqillah",
+      "Badiah",
+      "Amah"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Mudihah, munaqqilah and ammah are shajjah categories. Badi'ah belongs to ghayr-jaifah under section 337E.",
+    "cue": "Mudihah, munaqqilah and ammah are shajjah categories",
+    "reference": "PPC section 337(3)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-46",
+    "subject": "PPC",
+    "number": 46,
+    "page": 38,
+    "question": "As per section 337-A(iii) of the Pakistan Penal Code, Shajjah Hashimah to any person, shall be liable to Arsh which shall be _____ percent of the diyat and may also be punished with imprisonment of either description for a term which may extent to ten years as ta'zir.",
+    "options": [
+      "Five",
+      "Ten",
+      "Twenty",
+      "Twenty-five"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Hashimah carries arsh of ten percent of diyat; the provision also permits ta'zir.",
+    "cue": "Hashimah carries arsh of ten percent of diyat; the provision also permits ta'zir.",
+    "reference": "PPC section 337A(iii)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-47",
+    "subject": "PPC",
+    "number": 47,
+    "page": 39,
+    "question": "The word \"jurh\" has been defined in Pakistan Penal Code (1860) in section _____.",
+    "options": [
+      "337",
+      "337-A",
+      "337-B",
+      "337-C"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Jurh concerns wounds to parts other than the head or face.",
+    "cue": "Jurh concerns wounds to parts other than the head or face.",
+    "reference": "PPC section 337B",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-48",
+    "subject": "PPC",
+    "number": 48,
+    "page": 39,
+    "question": "As per Section 337-H(2) of the Pakistan Penal Code, whoever does any act so rashly or negligently as to endanger human life or the personal safety of other, shall be punished with imprisonment of either-description for a term which may extend to _____ or with fine, or with both.",
+    "options": [
+      "Three months",
+      "Six months",
+      "One year",
+      "Three years"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The endangerment offence in subsection (2) carries up to three months; causing hurt is treated separately.",
+    "cue": "The endangerment offence in subsection (2) carries up to three months; causing hurt is treated separately.",
+    "reference": "PPC section 337H(2)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-49",
+    "subject": "PPC",
+    "number": 49,
+    "page": 39,
+    "question": "The amount of arsh for causing itlaf of a finger of a hand or foot shall be _____ of the diyat.",
+    "options": [
+      "One-tenth",
+      "One-fifth",
+      "One-half",
+      "Two-third"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "A single finger or toe corresponds to one-tenth of diyat.",
+    "cue": "A single finger or toe corresponds to one-tenth of diyat.",
+    "reference": "PPC section 337R",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-50",
+    "subject": "PPC",
+    "number": 50,
+    "page": 39,
+    "question": "As per Section 337-U of The Pakistan Penal Code 1860, the arsh for causing itlaf of a tooth, other than a milk tooth shall be _____ of the diyat.",
+    "options": [
+      "One-twentieth",
+      "One-tenth",
+      "One Third",
+      "None is correct"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "A permanent tooth corresponds to one-twentieth of diyat.",
+    "cue": "A permanent tooth corresponds to one-twentieth of diyat.",
+    "reference": "PPC section 337U",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-51",
+    "subject": "PPC",
+    "number": 51,
+    "page": 39,
+    "question": "As per section 339 of the Pakistan Penal Code 1860, whoever voluntarily obstructs any person so as to prevent that person from proceeding in any direction in which that person has a right to proceed, is said wrongfully to _____ that person.",
+    "options": [
+      "Confine",
+      "Detain",
+      "Imprison",
+      "Restrain"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Wrongful restraint prevents movement in a permitted direction; confinement encloses within limits.",
+    "cue": "Wrongful restraint prevents movement in a permitted direction; confinement encloses within limits.",
+    "reference": "PPC section 339",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-52",
+    "subject": "PPC",
+    "number": 52,
+    "page": 39,
+    "question": "As per Section 343 of Pakistan Penal Code 1860, whoever wrongfully confines any person for _____, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "options": [
+      "Less than three days",
+      "Three or more days",
+      "10 Days or more",
+      "None is correct"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "The section's threshold is three or more days.",
+    "cue": "The section's threshold is three or more days.",
+    "reference": "PPC section 343",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-53",
+    "subject": "PPC",
+    "number": 53,
+    "page": 39,
+    "question": "As per Section 350 of The Pakistan Penal Code 1860, whoever intentionally uses force to any person, without that person's consent, in order to the committing of any offense, or intending by the use of such force to cause, or knowing it to be likely that by the use of such force he will cause injury, fear or annoyance to the person to whom the force is used, is said to use _____ to that other.",
+    "options": [
+      "Force",
+      "Criminal Force",
+      "Assault",
+      "None is correct"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Criminal force requires intentional nonconsensual force with the specified unlawful purpose or likely effects.",
+    "cue": "Criminal force requires intentional nonconsensual force with the specified unlawful purpose or likely effects.",
+    "reference": "PPC section 350",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-54",
+    "subject": "PPC",
+    "number": 54,
+    "page": 39,
+    "question": "As per Section 351 of the Pakistan Penal Code 1860, whoever makes any gesture, or any preparation intending or knowing it to be likely that such gesture or preparation will cause any person present to apprehend that he who makes that gesture or preparation is about to use of criminal force to that person, is said to commit a/an _____.",
+    "options": [
+      "Assault",
+      "Battery",
+      "Criminal force",
+      "Force"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Assault concerns apprehension of imminent criminal force; physical contact is unnecessary.",
+    "cue": "Assault concerns apprehension of imminent criminal force; physical contact is unnecessary.",
+    "reference": "PPC section 351",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-55",
+    "subject": "PPC",
+    "number": 55,
+    "page": 39,
+    "question": "As per illustration C to section 351 of the Pakistan Penal Code, which crime is committed if A pickup a stick, saying to B, \"I will give you a beating\"?",
+    "options": [
+      "A might have committed battery",
+      "A might have committed criminal force",
+      "A might have committed wrongful restraint",
+      "A might have committed an assault"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Words give threatening meaning to the gesture of taking up the stick.",
+    "cue": "Words give threatening meaning to the gesture of taking up the stick.",
+    "reference": "PPC section 351 illustration (c)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-56",
+    "subject": "PPC",
+    "number": 56,
+    "page": 39,
+    "question": "As per section 362 of the Pakistan Penal Code, which crime is under the PPC if a person compels by force, or by any deceitful means induces, any person to go from any place?",
+    "options": [
+      "Battery",
+      "Abduction",
+      "Criminal force",
+      "Kidnapping"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "This defines abduction. Whether it is punishable depends on an applicable offence and its additional elements.",
+    "cue": "This defines abduction",
+    "reference": "PPC section 362",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-57",
+    "subject": "PPC",
+    "number": 57,
+    "page": 39,
+    "question": "As per Section 364 of The Pakistan Penal Code 1860, whoever kidnaps or abducts any person in order that such person may be murdered or may be so disposed of as to be put in danger of being murdered, shall be punished with imprisonment for life or rigorous imprisonment for a term which may _____ and shall also be liable to fine.",
+    "options": [
+      "Extend to seven years",
+      "Extend to ten years",
+      "Extend to Fourteen years",
+      "None is correct"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "The alternative fixed-term maximum is ten years, alongside the stated life-imprisonment alternative and fine.",
+    "cue": "The alternative fixed-term maximum is ten years, alongside the stated life-imprisonment alternative and fine.",
+    "reference": "PPC section 364",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-58",
+    "subject": "PPC",
+    "number": 58,
+    "page": 40,
+    "question": "As per Section 365 of the Pakistan Penal Code 1860, whoever kidnaps or abducts any person with intent to cause that person to be secretly and wrongfully confined, shall be punished with imprisonment of either description for a term which may extend to _____ years, and shall also be liable to fine.",
+    "options": [
+      "Three",
+      "Seven",
+      "Ten",
+      "Fourteen"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "The maximum term is seven years plus liability to fine.",
+    "cue": "The maximum term is seven years plus liability to fine.",
+    "reference": "PPC section 365",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-59",
+    "subject": "PPC",
+    "number": 59,
+    "page": 40,
+    "question": "Punishment of theft in dwelling house is imprisonment of either description for a term which may extend to _____ years.",
+    "options": [
+      "Three",
+      "Seven",
+      "Ten",
+      "Fourteen"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Section 380 provides up to seven years and also liability to fine, omitted from this stem.",
+    "cue": "Section 380 provides up to seven years and also liability to fine, omitted from this stem.",
+    "reference": "PPC section 380",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-60",
+    "subject": "PPC",
+    "number": 60,
+    "page": 40,
+    "question": "As per Section 383 of The Pakistan Penal Code 1860, whoever intentionally puts any person in fear or any injury to that person, or to any other, and thereby dishonestly induces the person so put in fear to deliver to any person any property or valuable security or anything signed or sealed which may be converted into a valuable security, commits:",
+    "options": [
+      "Extortion",
+      "Assault",
+      "Robbery",
+      "None is correct"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Fear of injury plus dishonest inducement to deliver property defines extortion.",
+    "cue": "Fear of injury plus dishonest inducement to deliver property defines extortion.",
+    "reference": "PPC section 383",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-61",
+    "subject": "PPC",
+    "number": 61,
+    "page": 40,
+    "question": "As per Section 385 of The Pakistan Penal Code 1860, whoever, in order to the committing of _____, puts any person in fear, or attempts to put any person in fear, of an injury, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "options": [
+      "Abduction",
+      "Blackmailing",
+      "Extortion",
+      "Wrongful confinement"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "The section concerns putting or attempting to put a person in fear in order to commit extortion.",
+    "cue": "The section concerns putting or attempting to put a person in fear in order to commit extortion.",
+    "reference": "PPC section 385",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-62",
+    "subject": "PPC",
+    "number": 62,
+    "page": 40,
+    "question": "A holds Z down, and fraudulently takes Z's money and jewels from Z's clothes, without Z's consent. Here A has committed theft, and in order to the committing of that theft, has voluntarily caused wrongful restraint to Z. A has therefore committed _____.",
+    "options": [
+      "Theft without consent",
+      "Dacoity",
+      "Robbery",
+      "Extortion"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Theft accompanied by the specified wrongful restraint becomes robbery.",
+    "cue": "Theft accompanied by the specified wrongful restraint becomes robbery.",
+    "reference": "PPC section 390 illustration (a)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-63",
+    "subject": "PPC",
+    "number": 63,
+    "page": 40,
+    "question": "As per Section 393 of The Pakistan Penal Code 1860, whoever attempts to commit _____ shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine.",
+    "options": [
+      "Robbery",
+      "Dacoity",
+      "Theft",
+      "Extortion"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Section 393 punishes attempted robbery.",
+    "cue": "Section 393 punishes attempted robbery.",
+    "reference": "PPC section 393",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-64",
+    "subject": "PPC",
+    "number": 64,
+    "page": 40,
+    "question": "As per Section 399 of the Pakistan Penal Code 1860, whoever makes any preparation for committing dacoity, shall be punished with _____ imprisonment for a term which may extend to ten years, and shall also be liable to fine.",
+    "options": [
+      "Painful",
+      "Rigorous",
+      "Simple",
+      "Solitary"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Preparation for dacoity is itself punishable with rigorous imprisonment and fine.",
+    "cue": "Preparation for dacoity is itself punishable with rigorous imprisonment and fine.",
+    "reference": "PPC section 399",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-65",
+    "subject": "PPC",
+    "number": 65,
+    "page": 40,
+    "question": "As per Section 406 of the Pakistan Penal Code 1860, whoever, commits criminal breach of _____ shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+    "options": [
+      "Trust",
+      "Trust by agent",
+      "Trust by banker",
+      "Trust by public servant"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Section 406 is the general punishment for criminal breach of trust; specified fiduciaries are addressed elsewhere.",
+    "cue": "Section 406 is the general punishment for criminal breach of trust; specified fiduciaries are addressed elsewhere.",
+    "reference": "PPC section 406",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-66",
+    "subject": "PPC",
+    "number": 66,
+    "page": 40,
+    "question": "As per illustration (a) of section 425 of the Pakistan Penal Code 1860, A voluntarily burns a valuable security belonging to Z intending to cause wrongful loss to Z. A has committed _____.",
+    "options": [
+      "Mischief",
+      "Nuisance",
+      "Both A and B",
+      "Cheating"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Destroying the security to cause wrongful loss is mischief.",
+    "cue": "Destroying the security to cause wrongful loss is mischief.",
+    "reference": "PPC section 425 illustration (a)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-PPC-67",
+    "subject": "PPC",
+    "number": 67,
+    "page": 40,
+    "question": "As per section 430 of the Pakistan Penal Code 1860, punishment for mischief by injury to works of irrigation or by wrongfully diverting water shall be imprisonment extendable to _____.",
+    "options": [
+      "Five years or Fine or both",
+      "Ten years or fine or both",
+      "Life imprisonment",
+      "Four years or fine or both"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Section 430 specifies up to five years, or fine, or both.",
+    "cue": "Section 430 specifies up to five years, or fine, or both.",
+    "reference": "PPC section 430",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-1",
+    "subject": "CrPC",
+    "number": 1,
+    "page": 41,
+    "question": "Criminal Procedure Code is _____.",
+    "options": [
+      "Unduly rigid and does not make room for any special law & procedure",
+      "Not unduly rigid and makes room for any special law & procedure and generally gives precedence to such special law and procedure (Reference: Section 1)",
+      "Not unduly rigid and makes room for any special law & procedure but generally gives precedence to the law & procedure given under the Code",
+      "Either A or C"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Special law, special jurisdiction and prescribed special procedure are saved unless the Code specifically provides otherwise.",
+    "cue": "Special law, special jurisdiction and prescribed special procedure are saved unless the Code specifically provides otherwise.",
+    "reference": "CrPC section 1(2)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-2",
+    "subject": "CrPC",
+    "number": 2,
+    "page": 41,
+    "question": "This Act may be called the Code of Criminal Procedure, 1898, and it shall come into force on the first day of _____ 1898.",
+    "options": [
+      "May",
+      "June",
+      "July",
+      "August"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "The commencement date is 1 July 1898.",
+    "cue": "The commencement date is 1 July 1898.",
+    "reference": "CrPC section 1(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-3",
+    "subject": "CrPC",
+    "number": 3,
+    "page": 41,
+    "question": "What is true to Code of Criminal Procedure _____.",
+    "options": [
+      "It is mainly, though not purely, an adjective or procedural law",
+      "There are also certain provisions which are partly in the nature of substantive law",
+      "Both A. & B. (Reference: PLD 2002 Cent.St,1953)",
+      "Neither A nor B"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "The book describes the Code as primarily procedural with some substantive elements. Its secondary citation has not been independently verified.",
+    "cue": "The book describes the Code as primarily procedural with some substantive elements",
+    "reference": "Nature of CrPC; book citation PLD 2002 Cent.St 1953",
+    "status": "unverified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-4",
+    "subject": "CrPC",
+    "number": 4,
+    "page": 41,
+    "question": "Cognizable offence under PPC has been defined _____.",
+    "options": [
+      "Under section 4A. of Cr.P.C.",
+      "Under section 4(f) of Cr.P.C.",
+      "Under section 4(g) of Cr.P.C.",
+      "Under section 4(h) of Cr.P.C."
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Cognizable offences permit warrantless arrest in accordance with the Second Schedule or applicable law.",
+    "cue": "Cognizable offences permit warrantless arrest in accordance with the Second Schedule or applicable law.",
+    "reference": "CrPC section 4(1)(f)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-5",
+    "subject": "CrPC",
+    "number": 5,
+    "page": 41,
+    "question": "As per Section 4(j) of the Code of Criminal Procedure 1898, \"High Court\" means the highest court of _____ or revision for a province.",
+    "options": [
+      "Civil appeal",
+      "Criminal appeal",
+      "Second appeal",
+      "Final appeal"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "The definition refers to criminal appeal or revision.",
+    "cue": "The definition refers to criminal appeal or revision.",
+    "reference": "CrPC section 4(1)(j)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-6",
+    "subject": "CrPC",
+    "number": 6,
+    "page": 41,
+    "question": "As per The Code of Criminal Procedure 1898, Section 4(1) \"Investigation\" includes all the proceedings under this Code for the collection of evidence conducted by a police-officer or by any person (other than a Magistrate) who is authorized by a _____ in this behalf:",
+    "options": [
+      "Magistrate",
+      "Deputy Superintendent of Police",
+      "Court of Session",
+      "High Court"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The authorized non-police investigator acts under a Magistrate's authorization.",
+    "cue": "The authorized non-police investigator acts under a Magistrate's authorization.",
+    "reference": "CrPC section 4(1)(l)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-7",
+    "subject": "CrPC",
+    "number": 7,
+    "page": 41,
+    "question": "As per section 4(1)(h) of the Cr.P.C, _____ means the allegation made orally or in writing to a Magistrate, with a view to his taking action, under this Code that some person whether known or unknown, has committed an offence, but it does not include the report of a police officer.",
+    "options": [
+      "FIR",
+      "Complaint",
+      "Report",
+      "Application"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "A complaint to a Magistrate is distinct from a police report and an FIR.",
+    "cue": "A complaint to a Magistrate is distinct from a police report and an FIR.",
+    "reference": "CrPC section 4(1)(h)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-8",
+    "subject": "CrPC",
+    "number": 8,
+    "page": 42,
+    "question": "As per section 4(1)(l) under the CrPC, _____ includes all the proceedings under this code for collection of evidence conducted by a Police Officer or any person (other than a Magistrate) who is authorized by a Magistrate on this behalf.",
+    "options": [
+      "Charged",
+      "Inquiry",
+      "Judicial proceeding",
+      "Investigation"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Collection of evidence by the stated investigator is investigation.",
+    "cue": "Collection of evidence by the stated investigator is investigation.",
+    "reference": "CrPC section 4(1)(l)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-9",
+    "subject": "CrPC",
+    "number": 9,
+    "page": 42,
+    "question": "If a private person arrests a person having reason to believe that person arrested is a proclaimed offender than the private person shall without any unnecessary delay shall make over arrested person to _____.",
+    "options": [
+      "Nearby interrogation center",
+      "Police Officer",
+      "Judicial Officer",
+      "Nearby Magistrate"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Hand the arrested person to a police officer, or take him to the nearest police station if none is available.",
+    "cue": "Hand the arrested person to a police officer, or take him to the nearest police station if none is available.",
+    "reference": "CrPC section 59(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-10",
+    "subject": "CrPC",
+    "number": 10,
+    "page": 42,
+    "question": "As per Section 4(1)(k) of Criminal Procedure Code 1898, _____ includes every inquiry other than a trial conducted under this Code by a Magistrate or Court.",
+    "options": [
+      "Examination",
+      "Inquiry",
+      "Investigation",
+      "Report"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Inquiry is the judicial process other than trial; investigation collects evidence.",
+    "cue": "Inquiry is the judicial process other than trial; investigation collects evidence.",
+    "reference": "CrPC section 4(1)(k)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-11",
+    "subject": "CrPC",
+    "number": 11,
+    "page": 42,
+    "question": "In Cr.P.C \"Offence\" means any act or omission made punishable by any law for the time being in force; it also includes any act in respect of which a complainant may be made under Section 20 of the _____.",
+    "options": [
+      "Cattle Trespass Act, 1871",
+      "Compulsory Primary Education Act 1994",
+      "Enforcement of shariah Act 1991",
+      "General Clauses Act 1897"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The definition expressly includes complaints under section 20 of the Cattle Trespass Act 1871.",
+    "cue": "The definition expressly includes complaints under section 20 of the Cattle Trespass Act 1871.",
+    "reference": "CrPC section 4(1)(o)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-12",
+    "subject": "CrPC",
+    "number": 12,
+    "page": 42,
+    "question": "The investigation report compiled by the officer in charge of the police station shall be forwarded to magistrate through _____.",
+    "options": [
+      "Public Prosecutor",
+      "Attorney General of Pakistan",
+      "District Attorney",
+      "Inspector General of Police"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The cited Code provides the report route through the Public Prosecutor.",
+    "cue": "The cited Code provides the report route through the Public Prosecutor.",
+    "reference": "CrPC section 173(1)(a)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-13",
+    "subject": "CrPC",
+    "number": 13,
+    "page": 42,
+    "question": "As per Section 46(1) of the Criminal Procedure Code 1898, in making an arrest the police officer or other person making the same shall actually _____ or confine the body of the person to be arrested, unless there, be a submission to the custody by word or action.",
+    "options": [
+      "Hold",
+      "Restrain",
+      "Restrict",
+      "Touch"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Arrest involves touching or confining the body unless the person submits to custody.",
+    "cue": "Arrest involves touching or confining the body unless the person submits to custody.",
+    "reference": "CrPC section 46(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-14",
+    "subject": "CrPC",
+    "number": 14,
+    "page": 42,
+    "question": "Warrant is a _____.",
+    "options": [
+      "Secret document",
+      "Private document",
+      "Public document",
+      "None of these"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "A judicial warrant records an official act and is a public document.",
+    "cue": "A judicial warrant records an official act and is a public document.",
+    "reference": "QSO Article 85; CrPC section 75",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-15",
+    "subject": "CrPC",
+    "number": 15,
+    "page": 42,
+    "question": "A warrant of arrest is a command _____.",
+    "options": [
+      "Must be a written order",
+      "Signed, sealed and issued by Magistrate",
+      "Addressed to police offices",
+      "All of these"
+    ],
+    "answer": null,
+    "bookAnswer": 3,
+    "explanation": "The book intends D, but the wording is overbroad: warrants are issued by a Court, and may in specified circumstances be directed to persons other than police. No uniquely complete option fits.",
+    "cue": "The book intends D, but the wording is overbroad: warrants are issued by a Court, and may in specified circumstances be directed to persons other than police",
+    "reference": "CrPC sections 75–78",
+    "status": "disputed",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-16",
+    "subject": "CrPC",
+    "number": 16,
+    "page": 42,
+    "question": "As per section 50 of the Code of Criminal Procedure 1898, the person arrested _____ be subjected to more restraint than is necessary to prevent his escape.",
+    "options": [
+      "May",
+      "May not",
+      "Shall",
+      "Shall not"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Only restraint necessary to prevent escape is allowed.",
+    "cue": "Only restraint necessary to prevent escape is allowed.",
+    "reference": "CrPC section 50",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-17",
+    "subject": "CrPC",
+    "number": 17,
+    "page": 42,
+    "question": "Under Section 58 of the Cr.P.C, a police-officer may, for the purpose of arresting without warrant, any person whom he is authorized to arrest under Chapter V, pursue such person into _____.",
+    "options": [
+      "Any place in Pakistan",
+      "Within the jurisdiction of concerned police station only",
+      "Within the jurisdiction of concerned district only",
+      "Within the jurisdiction of concerned subdivision only"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Authorized pursuit is not restricted to the officer's police-station or district boundary.",
+    "cue": "Authorized pursuit is not restricted to the officer's police-station or district boundary.",
+    "reference": "CrPC section 58",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-18",
+    "subject": "CrPC",
+    "number": 18,
+    "page": 43,
+    "question": "As per section, 59 of the CrPC, a private person may arrest a person under the Cr.P.C who in his view commits _____.",
+    "options": [
+      "A Non-bailable and cognizable offence or any proclaimed offender",
+      "A non-cognizable offence",
+      "A bailable offence",
+      "A non-bailable offence only"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The witnessed offence must be both non-bailable and cognizable; proclaimed offenders are a separate statutory category.",
+    "cue": "The witnessed offence must be both non-bailable and cognizable; proclaimed offenders are a separate statutory category.",
+    "reference": "CrPC section 59(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-19",
+    "subject": "CrPC",
+    "number": 19,
+    "page": 43,
+    "question": "Under section _____ of Cr.P.C, a police officer making an arrest without warrant shall take or send the person arrested before Magistrate or before an officer in-charge of police station.",
+    "options": [
+      "62",
+      "59",
+      "61",
+      "60"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Section 60 requires production without unnecessary delay, subject to bail provisions.",
+    "cue": "Section 60 requires production without unnecessary delay, subject to bail provisions.",
+    "reference": "CrPC section 60",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-20",
+    "subject": "CrPC",
+    "number": 20,
+    "page": 43,
+    "question": "As per The Code of Criminal Procedure 1898 section 61. Persons arrested not to be detained for more than twenty-four hours. No police-officer shall detain in custody a person arrested without warrant for a longer period than under all the circumstances of the case is reasonable.",
+    "options": [
+      "Twenty-four hours",
+      "7 Days",
+      "14 Days",
+      "15 Days"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Without a Magistrate's special order under section 167, the limit is 24 hours excluding necessary travel to court.",
+    "cue": "Without a Magistrate's special order under section 167, the limit is 24 hours excluding necessary travel to court.",
+    "reference": "CrPC section 61",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-21",
+    "subject": "CrPC",
+    "number": 21,
+    "page": 43,
+    "question": "Which section of Cr. P.C. contemplates service of summons?",
+    "options": [
+      "Section 20",
+      "Section 40",
+      "Section 50",
+      "Section 69"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Section 69 addresses service of summons.",
+    "cue": "Section 69 addresses service of summons.",
+    "reference": "CrPC section 69",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-22",
+    "subject": "CrPC",
+    "number": 22,
+    "page": 43,
+    "question": "_____ required under section 94 of Cr.P.C mere to produce a document or other thing shall be deemed to have compelled with the requisition if he causes such document or thing to be produced instead of attending personally to produce the same.",
+    "options": [
+      "Revenue officer",
+      "Public servant",
+      "Any person",
+      "Government servant"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Any person required merely to produce an item can arrange its production rather than attend personally.",
+    "cue": "Any person required merely to produce an item can arrange its production rather than attend personally.",
+    "reference": "CrPC section 94(2)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-23",
+    "subject": "CrPC",
+    "number": 23,
+    "page": 43,
+    "question": "As per Section 94(2) of the Cr. P. C, any person required under this section merely to produce a document or other thing _____ deemed to have complied with the requisition if he causes such document or thing to be produced instead of attending personally to produce the same.",
+    "options": [
+      "May be",
+      "May not be",
+      "Shall be",
+      "Shall not be"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Causing production fulfils a requisition solely for production.",
+    "cue": "Causing production fulfils a requisition solely for production.",
+    "reference": "CrPC section 94(2)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-24",
+    "subject": "CrPC",
+    "number": 24,
+    "page": 43,
+    "question": "To which court _____ shall a person, who has interest in a book in respect of which in order of forfeiture has been made under section 99-A of the Cr.P.C, apply to set aside such an order.",
+    "options": [
+      "The Magistrate of 1st class",
+      "The High Court",
+      "Magistrate of 2nd class",
+      "District and Sessions Court"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "The application to set aside the forfeiture order lies to the High Court under this provision.",
+    "cue": "The application to set aside the forfeiture order lies to the High Court under this provision.",
+    "reference": "CrPC section 99B",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-25",
+    "subject": "CrPC",
+    "number": 25,
+    "page": 43,
+    "question": "As per Section 99-B of Cr.P.C, \"any person having any interest in any newspaper, book or other document in respect of which an order of forfeiture has been made under section 99A of Cr.P.C, or any other law from the date of such order, apply to _____ to set aside such order\".",
+    "options": [
+      "The High Court",
+      "The Supreme Court",
+      "The Magistrate",
+      "The Sessions Court"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The High Court is the forum. The book omits words concerning the time limit from the quoted stem.",
+    "cue": "The High Court is the forum",
+    "reference": "CrPC section 99B",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-26",
+    "subject": "CrPC",
+    "number": 26,
+    "page": 43,
+    "question": "As per section 104 of the Code of Criminal Procedure 1898, _____ may, if it thinks fit, impound any document or thing produced before it under this code.",
+    "options": [
+      "Any Court",
+      "Court of Magistrate First Class",
+      "Court of Session",
+      "Court of District Magistrate"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The power is conferred on any Court, not just one named class.",
+    "cue": "The power is conferred on any Court, not just one named class.",
+    "reference": "CrPC section 104",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-27",
+    "subject": "CrPC",
+    "number": 27,
+    "page": 43,
+    "question": "When any Magistrate not empowered to proceed under section 107(1) of the Cr.P.C has reason to believe that any person is likely to commit a breach of the peace which cannot be prevented otherwise than by detaining such person in custody, such Magistrate may _____ for his arrest.",
+    "options": [
+      "Order",
+      "Proceed",
+      "After recording his reasons, order his arrest",
+      "After recording his reasons, issue a warrant"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "The provision requires recorded reasons and a warrant, subject to the statutory process.",
+    "cue": "The provision requires recorded reasons and a warrant, subject to the statutory process.",
+    "reference": "CrPC section 107(3)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-28",
+    "subject": "CrPC",
+    "number": 28,
+    "page": 44,
+    "question": "Under which section _____ of Cr.P.C can a Magistrate of 1st class require habitual robber, house-breaker, thief or forger within his jurisdiction to execute a bound which sureties for his good behavior for a period of 3 years.",
+    "options": [
+      "109",
+      "111",
+      "110",
+      "112"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Section 110 concerns security for good behaviour from habitual offenders for a period not exceeding three years.",
+    "cue": "Section 110 concerns security for good behaviour from habitual offenders for a period not exceeding three years.",
+    "reference": "CrPC section 110",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-29",
+    "subject": "CrPC",
+    "number": 29,
+    "page": 44,
+    "question": "As per Section 113 of the Criminal Procedure Code 1898, if the person in respect of whom order under Section 112 of the Cr.P.C is made is present in Court, it shall be _____ to him or, if he so desires, the substance thereof shall be explained to him.",
+    "options": [
+      "Delivered",
+      "Handed over",
+      "Passed",
+      "Read over"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Read the order over, or explain its substance if requested.",
+    "cue": "Read the order over, or explain its substance if requested.",
+    "reference": "CrPC section 113",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-30",
+    "subject": "CrPC",
+    "number": 30,
+    "page": 44,
+    "question": "As per section 116 of the Code of Criminal Procedure 1898, the Magistrate may, if he sees sufficient cause, dispense with the personal attendance of any person called upon to show-cause why he should not be ordered to execute a bond for keeping the peace, and may permit him to appear by _____.",
+    "options": [
+      "A close relative",
+      "A friend",
+      "A pleader",
+      "An agent"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "The permitted substitute appearance is by a pleader.",
+    "cue": "The permitted substitute appearance is by a pleader.",
+    "reference": "CrPC section 116",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-31",
+    "subject": "CrPC",
+    "number": 31,
+    "page": 44,
+    "question": "As per Section 135 (B) The Code of Criminal Procedure Code 1898, the person against whom such order is made shall appear in accordance with such order and either show cause against the same, or apply to the Magistrate by whom it was made to appoint a jury to try whether the same is _____.",
+    "options": [
+      "Reasonable and proper",
+      "Liable to be set aside",
+      "Valid",
+      "Null & Void"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The quoted provision asks whether the nuisance-removal order is reasonable and proper.",
+    "cue": "The quoted provision asks whether the nuisance-removal order is reasonable and proper.",
+    "reference": "CrPC section 135(b)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-32",
+    "subject": "CrPC",
+    "number": 32,
+    "page": 44,
+    "question": "As per Section 137(1) of Criminal Procedure Code 1898, if he (a person against whom an order has been passed under section 133 of the Cr.P.C) appears and shows cause against the order, the Magistrate shall take _____.",
+    "options": [
+      "Action",
+      "Evidence",
+      "Notice",
+      "Record"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "The Magistrate takes evidence in the manner provided in Chapter XX, as the cited text of section 137(1) specifies.",
+    "cue": "The Magistrate takes evidence in the matter as in a summons case.",
+    "reference": "CrPC section 137(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-33",
+    "subject": "CrPC",
+    "number": 33,
+    "page": 44,
+    "question": "As per Section 143 of the Cr.P.C, a magistrate of the 1st class may order any person not to repeat or continue a public nuisance, as defined in the _____ or any special or local law.",
+    "options": [
+      "Code of civil procedure",
+      "Criminal procedure code",
+      "Pakistan Penal Code",
+      "Qanun-e-shahadat"
+    ],
+    "answer": 2,
+    "bookAnswer": 1,
+    "explanation": "The definition reference is the Pakistan Penal Code. The printed key B wrongly points back to CrPC.",
+    "cue": "The definition reference is the Pakistan Penal Code",
+    "reference": "CrPC section 143",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-34",
+    "subject": "CrPC",
+    "number": 34,
+    "page": 44,
+    "question": "As per section 144(3) of the Cr.P.C, an order under this section may be directed to a particular individual or to the _____ when frequenting visiting a particular place.",
+    "options": [
+      "Specific area",
+      "Specific body of person",
+      "Specific community",
+      "Public general"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "An order may address the public generally when frequenting or visiting a particular place.",
+    "cue": "An order may address the public generally when frequenting or visiting a particular place.",
+    "reference": "CrPC section 144(3)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-35",
+    "subject": "CrPC",
+    "number": 35,
+    "page": 44,
+    "question": "Section _____ of Cr.P.C deals with information of cognizable offences.",
+    "options": [
+      "150",
+      "151",
+      "154",
+      "164"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Information relating to commission of a cognizable offence is recorded under section 154.",
+    "cue": "Information relating to commission of a cognizable offence is recorded under section 154.",
+    "reference": "CrPC section 154",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-36",
+    "subject": "CrPC",
+    "number": 36,
+    "page": 44,
+    "question": "As per section 155(1) of the Code of Criminal Procedure 1898, when information is given to an officer in charge of a police station of the commission within the limits of such station of a non-cognizable offense, he shall enter a book to be kept as aforesaid the substance of such information and refer the information to the _____.",
+    "options": [
+      "Additional Session Judge",
+      "Magistrate",
+      "Senior Civil Judge",
+      "Session Judge"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "The statute says refer the informant to the Magistrate; the book prints information instead of informant.",
+    "cue": "The statute says refer the informant to the Magistrate; the book prints information instead of informant.",
+    "reference": "CrPC section 155(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-37",
+    "subject": "CrPC",
+    "number": 37,
+    "page": 44,
+    "question": "A Magistrate of the 1st Class or 2nd Class Magistrate specially empowered has the power to direct the police to investigate into non cognizable offence in PPC under _____.",
+    "options": [
+      "Section 156(1) of Cr PC",
+      "Section 156(2) of Cr PC",
+      "Section 155(2) of Cr PC",
+      "All of these"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "Non-cognizable investigation requires the order specified in section 155(2).",
+    "cue": "Non-cognizable investigation requires the order specified in section 155(2).",
+    "reference": "CrPC section 155(2)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-38",
+    "subject": "CrPC",
+    "number": 38,
+    "page": 45,
+    "question": "A Magistrate has the power under Cr. P.C. to direct the police to investigate into _____.",
+    "options": [
+      "A non-cognizable offence",
+      "A cognizable offence",
+      "Only a non-cognizable offence, as in a cognizable offence the police is under a duty to investigate",
+      "Both A and B (Reference: Section 156(3))"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Both categories are covered by distinct provisions; 156(3) alone concerns cognizable investigation.",
+    "cue": "Both categories are covered by distinct provisions; 156(3) alone concerns cognizable investigation.",
+    "reference": "CrPC sections 155(2) and 156(3)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-39",
+    "subject": "CrPC",
+    "number": 39,
+    "page": 45,
+    "question": "As per Section 158(1) of Criminal Procedure Code 1898, every report sent to a Magistrate under Section 157 shall, if the Provincial Government so directs, be submitted through such _____ as the Provincial Government, by general or special order, appoints in that behalf.",
+    "options": [
+      "Deputy Commissioner",
+      "Investigation Officer",
+      "Superior Officer of Police",
+      "Zila Nazim"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "The specified channel is a superior officer of police appointed for that purpose.",
+    "cue": "The specified channel is a superior officer of police appointed for that purpose.",
+    "reference": "CrPC section 158(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-40",
+    "subject": "CrPC",
+    "number": 40,
+    "page": 45,
+    "question": "The Magistrate shall make memorandum at the foot of record of confession to the effect at provided in section _____ of the criminal procedure code 1998.",
+    "options": [
+      "161",
+      "164",
+      "165",
+      "170"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Section 164 prescribes the confession memorandum. The book's year 1998 is a typo for 1898.",
+    "cue": "Section 164 prescribes the confession memorandum",
+    "reference": "CrPC section 164(3)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-41",
+    "subject": "CrPC",
+    "number": 41,
+    "page": 45,
+    "question": "As per Section 164(1-A) of Criminal Procedure Code 1898, any such statement may be recorded by such Magistrate (Magistrate of first and second class) in the presence of the accused and the accused given an opportunity of _____ the witness making the statement.",
+    "options": [
+      "Cross-examination",
+      "Examination in chief of",
+      "Initially examining",
+      "Re-examine"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "The stated opportunity is cross-examination of the witness; recording authority remains subject to the section's qualifications.",
+    "cue": "The stated opportunity is cross-examination of the witness; recording authority remains subject to the section's qualifications.",
+    "reference": "CrPC section 164(1A)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-42",
+    "subject": "CrPC",
+    "number": 42,
+    "page": 45,
+    "question": "As per The Code of Criminal Procedure 1898, Section 168 when any _____ has made any investigation under this chapter, he shall report the result of such investigation to the officer in charge of the police-station.",
+    "options": [
+      "Duty Police officer",
+      "Investigation officer",
+      "Senior Police officer",
+      "Subordinate Police officer"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "A subordinate officer reports investigation results to the station officer in charge.",
+    "cue": "A subordinate officer reports investigation results to the station officer in charge.",
+    "reference": "CrPC section 168",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-43",
+    "subject": "CrPC",
+    "number": 43,
+    "page": 45,
+    "question": "As per section 200 of the Code of Criminal Procedure 1898, A magistrate taking cognizance of an offense on the complaint shall at once examine the complainant upon oath, and the substance of the examination shall be reduced to writing and shall be signed by the complainant, and also by the _____.",
+    "options": [
+      "Concerned police officer",
+      "Defendant",
+      "Magistrate",
+      "Prosecution Witness"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "The Magistrate also signs the written substance of the examination, subject to the section's exceptions.",
+    "cue": "The Magistrate also signs the written substance of the examination, subject to the section's exceptions.",
+    "reference": "CrPC section 200",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-44",
+    "subject": "CrPC",
+    "number": 44,
+    "page": 45,
+    "question": "As per The Code of Criminal Procedure 1898, Section 201. Procedure by Magistrate not competent to take cognizance of the case. (1) If the complaint has been made in writing to a Magistrate who is not competent to take cognizance of the case, he shall return the complaint for presentation to the _____ to that effect.",
+    "options": [
+      "Court of session",
+      "Proper Court with an endorsement",
+      "High Court",
+      "All are correct"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Return the written complaint for presentation to the proper court with an endorsement.",
+    "cue": "Return the written complaint for presentation to the proper court with an endorsement.",
+    "reference": "CrPC section 201(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-45",
+    "subject": "CrPC",
+    "number": 45,
+    "page": 45,
+    "question": "As per Section 201(1) of Criminal Procedure Code 1898, if the complaint has been made in writing to a _____ who is not competent to take cognizance of the case; he shall return the complaint for presentation to the proper Court with an endorsement to that effect.",
+    "options": [
+      "Assistant Commissioner",
+      "Civil Judge",
+      "Deputy Commissioner",
+      "Magistrate"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "This procedure addresses a Magistrate lacking competence to take cognizance.",
+    "cue": "This procedure addresses a Magistrate lacking competence to take cognizance.",
+    "reference": "CrPC section 201(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-46",
+    "subject": "CrPC",
+    "number": 46,
+    "page": 45,
+    "question": "As per section 202(2) of the Cr.P.C, a court of session may, instead of directing an investigation under the provision of sub-section (1), direct the investigation to be made by any magistrate subordinate to it for the purpose of ascertaining the _____ of the complaint.",
+    "options": [
+      "Court fees",
+      "Jurisdiction of the case",
+      "Legal value",
+      "Truth or falsehood"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "The inquiry or investigation assesses the truth or falsehood of the complaint before process issues.",
+    "cue": "The inquiry or investigation assesses the truth or falsehood of the complaint before process issues.",
+    "reference": "CrPC section 202(2)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-47",
+    "subject": "CrPC",
+    "number": 47,
+    "page": 46,
+    "question": "As per section 204(3) of the Code of Criminal Procedure 1898, when by any law for the time being in force any process fees or other fees are payable, no process shall be issued until the fees are paid, and if such fees are not paid within a _____ Time the court may dismiss the complaint.",
+    "options": [
+      "Agreed",
+      "Fixed",
+      "Predetermined",
+      "Reasonable"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "Failure to pay within a reasonable time permits dismissal.",
+    "cue": "Failure to pay within a reasonable time permits dismissal.",
+    "reference": "CrPC section 204(3)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-48",
+    "subject": "CrPC",
+    "number": 48,
+    "page": 46,
+    "question": "The session court is competent to acquit an accused during trial at any stage under _____ Cr.P.C.",
+    "options": [
+      "Section 265-K",
+      "Section 265-A",
+      "Section 270-A",
+      "Section 270-C"
+    ],
+    "answer": 0,
+    "bookAnswer": 1,
+    "explanation": "Section 265K permits acquittal where there is no probability of conviction after hearing the prosecutor and accused and recording reasons. The printed key B is wrong.",
+    "cue": "Section 265K permits acquittal where there is no probability of conviction after hearing the prosecutor and accused and recording reasons",
+    "reference": "CrPC section 265K",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-49",
+    "subject": "CrPC",
+    "number": 49,
+    "page": 46,
+    "question": "Predecessor is _____.",
+    "options": [
+      "One who goes after another in a given state, position or office, and does not necessarily expresses any relation of illegal privity",
+      "One who goes before another in a given state, position or office, and does not necessarily expresses any relation of legal privity (Reference: Section 350)",
+      "One who goes before another in a given state, position or office, and does not necessarily expresses any relation of illegal privity",
+      "One who goes after another in a given state, position or office, and does not necessarily expresses any relation of legal privity"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Predecessor means the earlier holder of the office; successor means the later one. The extended wording is the book's explanation, not a statutory definition.",
+    "cue": "Predecessor means the earlier holder of the office; successor means the later one",
+    "reference": "CrPC section 350; terminology",
+    "status": "unverified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-50",
+    "subject": "CrPC",
+    "number": 50,
+    "page": 46,
+    "question": "As per section 404 of the Cr.P.C, \"_____ shall lie from any judgment or order of a Criminal Court except as provided for by this Code or by any other law for the time being in force\".",
+    "options": [
+      "No proceedings",
+      "No appeal",
+      "No acquittal",
+      "No compromise"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "A criminal appeal must be authorized by law; it is not automatic from every order.",
+    "cue": "A criminal appeal must be authorized by law; it is not automatic from every order.",
+    "reference": "CrPC section 404",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-51",
+    "subject": "CrPC",
+    "number": 51,
+    "page": 46,
+    "question": "As per section 406-A of the Cr.P.C, \"Any person aggrieved by an order refusing to accept or reject a surety under section 122 may appeal against such order to the _____\".",
+    "options": [
+      "Magistrate Court",
+      "District Court",
+      "High Court",
+      "Court of Session"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "The appeal lies to the Court of Session under the cited provision.",
+    "cue": "The appeal lies to the Court of Session under the cited provision.",
+    "reference": "CrPC section 406A",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-52",
+    "subject": "CrPC",
+    "number": 52,
+    "page": 46,
+    "question": "As per Section 408 of the Criminal Procedure Code 1898, any person convicted on a trial held by an Assistant Sessions Judge, a District Magistrate (Special Magistrate) or a Judicial Magistrate, or any person sentenced under Section 349 of the Cr.P.C may appeal to the _____.",
+    "options": [
+      "Court of Session",
+      "High Court",
+      "Special Court",
+      "Supreme Court"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Court of Session is the general forum under this section; the book omits exceptions in its provisos.",
+    "cue": "Court of Session is the general forum under this section; the book omits exceptions in its provisos.",
+    "reference": "CrPC section 408",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-53",
+    "subject": "CrPC",
+    "number": 53,
+    "page": 46,
+    "question": "As per section 410 of the Cr.P.C, \"Any person convicted on a trial held by a Sessions Judge, or an additional Sessions Judge, may appeal to _____\".",
+    "options": [
+      "Any Appellate Court",
+      "The Supreme Court",
+      "The High Court",
+      "None of these"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "An appeal from a Sessions or Additional Sessions Judge conviction goes to the High Court.",
+    "cue": "An appeal from a Sessions or Additional Sessions Judge conviction goes to the High Court.",
+    "reference": "CrPC section 410",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-54",
+    "subject": "CrPC",
+    "number": 54,
+    "page": 46,
+    "question": "As per section 412 of the Cr.P.C, notwithstanding anything hereinbefore contained, where an accused person has pleaded guilty and has been convicted by a High Court, A court of session or Magistrate of First Class on such plea, there _____ appeal except as either extent or legality of the sentence.",
+    "options": [
+      "May be",
+      "May not be",
+      "Shall be",
+      "Shall be no"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "The permitted challenge is to the extent or legality of sentence, not a general appeal against the guilty-plea conviction.",
+    "cue": "The permitted challenge is to the extent or legality of sentence, not a general appeal against the guilty-plea conviction.",
+    "reference": "CrPC section 412",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-55",
+    "subject": "CrPC",
+    "number": 55,
+    "page": 46,
+    "question": "As per Section 419. Of The Code of Criminal Procedure 1898, Every appeal shall be made in the form of _____ in writing presented by the appellant or his pleader, and every such petition shall (unless the Court to which it is presented otherwise directs) be accompanied by a copy of the judgment or order appealed against.",
+    "options": [
+      "Petition",
+      "Memorandum",
+      "Application",
+      "None is correct"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Criminal appeals use a petition in writing; contrast the CPC memorandum of appeal.",
+    "cue": "Criminal appeals use a petition in writing; contrast the CPC memorandum of appeal.",
+    "reference": "CrPC section 419",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-56",
+    "subject": "CrPC",
+    "number": 56,
+    "page": 47,
+    "question": "Give your legal opinion as per Section 429 of the Cr.P.C. when judges composing the Court of appeal are equally divided in opinion regarding a criminal case _____.",
+    "options": [
+      "It shall be appealed to the Higher Court",
+      "The decision of the senior judge shall prevail",
+      "A fresh trial should be held",
+      "It shall be laid before another judge of the same court"
+    ],
+    "answer": 3,
+    "bookAnswer": 3,
+    "explanation": "The case and opinions go to another judge of the same court; the senior judge does not automatically prevail.",
+    "cue": "The case and opinions go to another judge of the same court; the senior judge does not automatically prevail.",
+    "reference": "CrPC section 429",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-57",
+    "subject": "CrPC",
+    "number": 57,
+    "page": 47,
+    "question": "As per section 497(1) of the Cr.P.C, when any person accused of any non-bailable offence is arrested or detained without warrant by an officer in charge of a police station, or appears or is brought before a Court, he _____ released on-bail.",
+    "options": [
+      "May be",
+      "May not be",
+      "Shall be",
+      "Shall not be"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "May is the opening rule, subject to the prohibitory clause and statutory exceptions. Non-bailable does not mean bail is impossible.",
+    "cue": "May is the opening rule, subject to the prohibitory clause and statutory exceptions",
+    "reference": "CrPC section 497(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-58",
+    "subject": "CrPC",
+    "number": 58,
+    "page": 47,
+    "question": "Which of the following deals with the discharge from custody?",
+    "options": [
+      "Section 403 Cr. P.C.",
+      "Section 500 Cr. P.C.",
+      "Section 388 Cr. P.C.",
+      "Section 512 Cr. PC"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Section 500 addresses discharge once the required bond is executed, subject to other lawful detention.",
+    "cue": "Section 500 addresses discharge once the required bond is executed, subject to other lawful detention.",
+    "reference": "CrPC section 500",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-59",
+    "subject": "CrPC",
+    "number": 59,
+    "page": 47,
+    "question": "As per section 502(1) of the Code of Criminal Procedure 1898, all or any sureties for the attendance and appearance of a person released on bail may _____ apply to a magistrate to discharge the bond, either wholly or so far as relates to the applicants.",
+    "options": [
+      "At anytime",
+      "Within ten days",
+      "Within fifteen days",
+      "Within twenty days"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "Sureties can apply at any time; the section then prescribes the procedure.",
+    "cue": "Sureties can apply at any time; the section then prescribes the procedure.",
+    "reference": "CrPC section 502(1)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-60",
+    "subject": "CrPC",
+    "number": 60,
+    "page": 47,
+    "question": "The early release of prisoner is called _____.",
+    "options": [
+      "Bail",
+      "Pre release",
+      "Lien",
+      "Parole"
+    ],
+    "answer": null,
+    "bookAnswer": 0,
+    "explanation": "The likely intended concept is parole, but early release can also result from remission or other mechanisms. The book keys bail, which is not a general synonym for early release of a sentenced prisoner. Excluded from scored mocks.",
+    "cue": "The likely intended concept is parole, but early release can also result from remission or other mechanisms",
+    "reference": "Parole terminology; source question ambiguous",
+    "status": "disputed",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-61",
+    "subject": "CrPC",
+    "number": 61,
+    "page": 47,
+    "question": "Salman is continuously detained for a non-bailable offence not punishable with death for 25 months. Give your legal opinion as per the Cr.P.C, whether Salman can be granted bail:",
+    "options": [
+      "No, if the trial is delayed by his own omission",
+      "No, if the trial is delayed by the prosecution",
+      "Yes, if the trial is not delayed by his action or omission",
+      "No, because it's the discretion of the court"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "C captures statutory delay bail, but the full provision includes exclusions such as specified prior convictions, hardened/dangerous offenders and terrorism offences; the stem omits them.",
+    "cue": "C captures statutory delay bail, but the full provision includes exclusions such as specified prior convictions, hardened/dangerous offenders and terrorism offences; the stem omits them.",
+    "reference": "CrPC section 497(1), delay provisos",
+    "status": "disputed",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-62",
+    "subject": "CrPC",
+    "number": 62,
+    "page": 47,
+    "question": "Which classification of offence comes under Criminal Procedure Code?",
+    "options": [
+      "Cognizable & non-cognizable",
+      "Summons cases & warrant cases",
+      "Bailable & non-bailable",
+      "All of these"
+    ],
+    "answer": null,
+    "bookAnswer": 3,
+    "explanation": "The book keys all of these. However the cited Pakistan Code has omitted the former summons-case and warrant-case definitions at section 4(1)(v) and (w). Both A and C remain valid classifications, with no combined option. Excluded from scored mocks.",
+    "cue": "Check current classifications, not an old all-of-these key.",
+    "reference": "CrPC section 4 and Second Schedule",
+    "status": "disputed",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-63",
+    "subject": "CrPC",
+    "number": 63,
+    "page": 47,
+    "question": "Classification of offences given in the Code of Criminal Procedure under _____.",
+    "options": [
+      "Section 320",
+      "The 1st Schedule",
+      "The 2nd Schedule",
+      "Section 482"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "The Second Schedule tabulates offences and procedural classifications.",
+    "cue": "The Second Schedule tabulates offences and procedural classifications.",
+    "reference": "CrPC Second Schedule",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-64",
+    "subject": "CrPC",
+    "number": 64,
+    "page": 47,
+    "question": "Classification of compoundable and non compoundable offences has been provided under _____.",
+    "options": [
+      "1st schedule",
+      "2nd Schedule",
+      "S .330 of Cr.P.C.",
+      "S .333 of Cr.P.C."
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "The Second Schedule includes compoundability; section 345 supplies the governing compounding provisions and tables.",
+    "cue": "The Second Schedule includes compoundability; section 345 supplies the governing compounding provisions and tables.",
+    "reference": "CrPC Second Schedule; section 345",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-65",
+    "subject": "CrPC",
+    "number": 65,
+    "page": 47,
+    "question": "In which of the following accomplice is not competent witness _____.",
+    "options": [
+      "Offences punishable with Death",
+      "Offences punishable with hadd",
+      "Offences punishable with confiscation of property",
+      "None of these"
+    ],
+    "answer": 1,
+    "bookAnswer": 1,
+    "explanation": "Article 16 excludes offences punishable with hadd from its rule on accomplice competence.",
+    "cue": "Article 16 excludes offences punishable with hadd from its rule on accomplice competence.",
+    "reference": "QSO Article 16",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-66",
+    "subject": "CrPC",
+    "number": 66,
+    "page": 47,
+    "question": "Trial is a judicial proceeding which ends in _____.",
+    "options": [
+      "Conviction",
+      "Acquittal",
+      "Both A and B",
+      "None of these"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "A completed trial ordinarily determines conviction or acquittal; this teaching shorthand does not cover every procedural termination.",
+    "cue": "A completed trial ordinarily determines conviction or acquittal; this teaching shorthand does not cover every procedural termination.",
+    "reference": "Criminal trial terminology",
+    "status": "unverified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-67",
+    "subject": "CrPC",
+    "number": 67,
+    "page": 48,
+    "question": "If withdrawal of prosecution is made after charge has been framed, the accused shall get _____.",
+    "options": [
+      "Acquitted",
+      "Convicted",
+      "Both possibilities are there",
+      "None of the above"
+    ],
+    "answer": 0,
+    "bookAnswer": 0,
+    "explanation": "With court consent, withdrawal after charge results in acquittal; before charge the result is generally discharge.",
+    "cue": "With court consent, withdrawal after charge results in acquittal; before charge the result is generally discharge.",
+    "reference": "CrPC section 494(b)",
+    "status": "verified",
+    "sourceType": "book"
+  },
+  {
+    "id": "book-CrPC-68",
+    "subject": "CrPC",
+    "number": 68,
+    "page": 48,
+    "question": "Session judge can pass _____.",
+    "options": [
+      "Only death sentence",
+      "Only ten years imprisonment",
+      "Any sentence authorized by law and death sentence subject to confirmation by High Courts",
+      "None of these"
+    ],
+    "answer": 2,
+    "bookAnswer": 2,
+    "explanation": "A Sessions or Additional Sessions Judge can impose any sentence authorized by law; death requires High Court confirmation.",
+    "cue": "A Sessions or Additional Sessions Judge can impose any sentence authorized by law; death requires High Court confirmation.",
+    "reference": "CrPC section 31(2)",
+    "status": "verified",
+    "sourceType": "book"
+  }
+]

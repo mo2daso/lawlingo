@@ -1,0 +1,53 @@
+{
+  "book": 604,
+  "foundations": 200,
+  "lessons": 56,
+  "bySubject": {
+    "CPC": {
+      "total": 105,
+      "verified": 97
+    },
+    "QSO": {
+      "total": 114,
+      "verified": 106
+    },
+    "Constitution": {
+      "total": 63,
+      "verified": 55
+    },
+    "Ethics": {
+      "total": 34,
+      "verified": 32
+    },
+    "PPC": {
+      "total": 67,
+      "verified": 62
+    },
+    "CrPC": {
+      "total": 68,
+      "verified": 61
+    },
+    "Cases": {
+      "total": 37,
+      "verified": 25
+    },
+    "International": {
+      "total": 42,
+      "verified": 38
+    },
+    "English": {
+      "total": 37,
+      "verified": 26
+    },
+    "Islamic": {
+      "total": 37,
+      "verified": 6
+    }
+  },
+  "byStatus": {
+    "verified": 508,
+    "unverified": 62,
+    "disputed": 25,
+    "historical": 9
+  }
+}

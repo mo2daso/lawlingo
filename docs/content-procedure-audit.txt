@@ -1,0 +1,44 @@
+PROCEDURE / CRIMINAL LAW BOOK EXTRACTION AUDIT
+240 questions: CPC105 (PDF25-34), PPC67 (PDF35-40; key41), CrPC68 (PDF41-48).
+All24 relevant page scans were viewed, including the three answer tables. Stems and options transcribed from scans; whitespace and option labels normalized. Obvious source typos generally retained and explained.
+Statuses: {'verified': 220, 'unverified': 10, 'disputed': 9, 'historical': 1}
+Primary references: sources/CPC-Pakistan-Code.pdf; sources/CrPC-Pakistan-Code.pdf; sources/PPC-Pakistan-Code-updated.pdf; sources/PPC-325-Repeal-2022.pdf.
+Original sources/PPC-Pakistan-Code.pdf is outdated: it retains the pre2016 age threshold and omitted section325. Do not use that old file for these issues.
+Verified means checked against the cited provision for the tested answer; it is not a guarantee that every regional amendment or judicial gloss is covered. Provincial procedure/time-limit variations require caution.
+Corrected source answers (A=0):
+book-CPC-40: printed C -> D. The complete phrase is shall be instituted. The printed key C leaves the sentence incomplete.
+book-CPC-51: printed D -> C. Subsection (2) expressly bars another appeal from an order passed in appeal under this section. The printed key D is wrong.
+book-CPC-55: printed D -> C. Failure to exercise jurisdiction that was never vested is not a revision ground. The printed key D is wrong.
+book-CPC-77: printed A -> D. Stating the precise money claim complies with rule 2; it is not a rejection ground. The printed key A is wrong.
+book-PPC-39: printed B -> C. Diyat is the basic punishment; specified rash or negligent acts may also attract imprisonment. The book's key B incorrectly says half diyat.
+book-CrPC-33: printed B -> C. The definition reference is the Pakistan Penal Code. The printed key B wrongly points back to CrPC.
+book-CrPC-48: printed B -> A. Section 265K permits acquittal where there is no probability of conviction after hearing the prosecutor and accused and recording reasons. The printed key B is wrong.
+Excluded or restricted questions:
+book-CPC-16: unverified. Balance of probabilities is the ordinary civil standard; beyond reasonable doubt belongs to criminal proof.
+book-CPC-20: disputed. The intended answer is D, but the stem is overbroad: the previously instituted suit, parties, substantial issues and competent jurisdiction must satisfy section 10.
+book-CPC-25: unverified. The book applies the principle to suits and execution proceedings. This extension requires case-law treatment beyond the bare wording of section 11.
+book-CPC-28: disputed. No option gives section 12, whose heading is Bar to further suit. The printed key D is unsafe; excluded from scored practice.
+book-CPC-36: unverified. The book chooses natural persons. Corporate venue is dealt with through business and statutory explanations; this interpretive answer has not been independently case-law verified.
+book-CPC-69: unverified. The book means consideration performed at the time of contract: present consideration. This question is not a CPC provision.
+book-CPC-70: unverified. The child's welfare is central. This is family/guardianship law rather than a CPC provision; the cited Act still needs independent source checking.
+book-CPC-90: disputed. Notice normally goes to the opposite party. The stem omits the exception where delay would defeat the object of the injunction.
+book-PPC-8: unverified. Common intention is inferred from evidence and circumstances, not automatically from a single statement. The book prints policy officer.
+book-PPC-22: disputed. The book's intended answer is Sessions, but the compressed alternatives and exceptions are unclear. Read section 408's precise appellate conditions; this is a CrPC question.
+book-PPC-24: unverified. The compilation relies on the Federal Shariat Court ruling affecting the alternative of life imprisonment. The judgment itself has not yet been checked for this item; excluded from scored mocks pending verification.
+book-PPC-34: disputed. The book omits the words less than before the blank. The statutory range is ten to twenty-five years.
+book-PPC-41: historical. Historical question: book D describes former section 325. The enacted 2022 amendment omitted section 325. Do not memorize the old penalty as current law; the present-tense stem is invalid.
+book-CrPC-3: unverified. The book describes the Code as primarily procedural with some substantive elements. Its secondary citation has not been independently verified.
+book-CrPC-15: disputed. The book intends D, but the wording is overbroad: warrants are issued by a Court, and may in specified circumstances be directed to persons other than police. No uniquely complete option fits.
+book-CrPC-49: unverified. Predecessor means the earlier holder of the office; successor means the later one. The extended wording is the book's explanation, not a statutory definition.
+book-CrPC-60: disputed. The likely intended concept is parole, but early release can also result from remission or other mechanisms. The book keys bail, which is not a general synonym for early release of a sentenced prisoner. Excluded from scored mocks.
+book-CrPC-61: disputed. C captures statutory delay bail, but the full provision includes exclusions such as specified prior convictions, hardened/dangerous offenders and terrorism offences; the stem omits them.
+book-CrPC-62: disputed. The book keys all of these. However the cited Pakistan Code has omitted the former summons-case and warrant-case definitions at section 4(1)(v) and (w). Both A and C remain valid classifications, with no combined option. Excluded from scored mocks.
+book-CrPC-66: unverified. A completed trial ordinarily determines conviction or acquittal; this teaching shorthand does not cover every procedural termination.
+Important checks: CPC78 bookB is correct: official rule12 says reasons for such order. PPC42 is current section326 (thug), not historical section310.
+Foundation review: read all80 existing authored CPC/PPC/CrPC questions, answers and explanations in study-build/data.json. No conflicting outdated age/s325 facts or other correction identified.
+Structural checks passed: all240 unique IDs, contiguous chapter numbers, four options each, valid indices, no verified item with null answer.
+Full accurate answer verification remains dependent on official sources being current; private book is not an authenticated HEC past paper.
+MOBILE RELEASE REVIEW — 14 October 2026
+CPC100 has duplicate distractors B/D in the printed source. Answer C remains
+verified, but the question is now excluded from scored mocks. Book lesson and
+source options are preserved. The graded bank now has 493 eligible book items.

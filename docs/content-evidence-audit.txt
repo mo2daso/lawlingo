@@ -1,0 +1,39 @@
+EVIDENCE AND ETHICS BOOK AUDIT — 13 October 2026
+
+Coverage: all 114 QSO questions on actual PDF pages 49–61; all 34 Ethics questions on pages 62–65. Original printed page number is actual PDF page minus one.
+Output: content-evidence.json, 148 records.
+138 have a checked intended answer; 8 disputed/malformed and 2 unverified are excluded from scored use (answer=null).
+All allocated scans, including answer-key grids, were visually inspected. OCR was not used as an answer key.
+
+Wording: many long statutory stems were condensed and repetitive statute-title prefixes shortened, with question substance retained. Per-record wording=condensed identifies these. Original alternatives retained with spelling/label cleanup. These must not be marketed as exact HEC past-paper wording or exact facsimile book transcription. Original page scans permit direct comparison.
+sourceType=book means private National Academy compilation, not authenticated HEC exam provenance.
+
+Answer key corrections:
+QSO 4: key B (Evidence) -> D (Fact); Article 2(1)(d), illustration (d).
+QSO 8: key C (conclusive) -> B (relevant but not conclusive); Article 56 illustration.
+QSO 53: key B -> C (all induced confessions provable is false); Article 37. Admission/confession distinction and Article 113 discretion explained.
+QSO 92: key A (person B) -> C (claimant A); Article 118 illustration (a).
+
+Excluded from scoring:
+QSO31: vague apparent-relevance alternative; key D cannot safely substitute for statutory relevance.
+QSO36: questionable broad doctrinal 'exception' characterisation, not Article 20's actual language.
+QSO54: pure fact vs mixed law/fact classification needs cited case authority.
+QSO63: stem has extra 'cannot be proved'; proper illustration permits crowd remarks; book intended B.
+QSO72: death-illness divorce issue belongs to personal law; key C unsupported here.
+QSO84: private-company prospectus alternative creates ambiguity without facts about public records.
+QSO87: 'may not present' is wrong for 'need not prove'; Court may require proof of admissions.
+QSO109: cross-examination intended, but chief can allow leading questions too, making both option ambiguous.
+Ethics22: Rule165 miscited; actual Rule175-B (gross professional misconduct).
+Ethics28: Rule170 miscited; general right to decline is Rule171.
+
+Other caveats in explanations:
+QSO17 repentance exception; QSO25 compelled-answer protection; QSO26/98 accomplice competence vs prudence; QSO56 Hudood exception; QSO64 child capacity; QSO75/76 bad-character exceptions; QSO93 no presumed precise death date; QSO95 legitimacy exceptions; QSO100/109 leading-question exceptions; QSO110/111 oath rule not criminal/Hudood; QSO112–114 modern-device admission is discretionary and authenticity is still required.
+Ethics6 tests exact statutory word among everyday synonyms; Ethics23/26 book syntax cleaned. Various shall/may alternatives test precise statutory wording rather than a wholly different substantive rule.
+Book Q94 duplicate B labels were normalised by physical option order: Possession, Adverse possession, Ownership, All.
+
+Authorities checked locally:
+sources/QSO-Pakistan-Code.pdf and extracted study-build/QSO-Pakistan-Code.txt (Pakistan Code official consolidation).
+sources/Professional-ethics-rules.pdf and extracted study-build/Professional-ethics-rules.txt (Chapter XII, pages53–59).
+Existing sources/QSO-Amendment-2025.pdf changes Article113 wording from 'rule or pleading' to 'rule of pleading'; no included answer is changed by this wording correction.
+Official QSO source file itself says last amended 2017; do not claim comprehensive gazette audit through 2026. The provided 2025 amendment is accounted for, but future changes require ongoing checking.
+

@@ -1,0 +1,4301 @@
+{
+  "questions": [
+    {
+      "id": "CPC-1",
+      "subject": "CPC",
+      "topic": "Judgment",
+      "q": "The judge explains the reasons for a decree. What is this statement called?",
+      "answer": "Judgment",
+      "wrong": [
+        "Plaint",
+        "Written statement",
+        "Decree-holder"
+      ],
+      "why": "A judgment gives the reasons. A decree formally records the determination of rights. The two belong together but are different documents.",
+      "cue": "Judgment = why; decree = result.",
+      "ref": "Section 2(9)",
+      "source": "CPC",
+      "scenario": "The court says why Ayesha succeeds, explaining the factual and legal reasons. Which document supplies those reasons?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-2",
+      "subject": "CPC",
+      "topic": "Decree",
+      "q": "Which description best fits a decree?",
+      "answer": "Formal adjudication conclusively determining rights in the suit",
+      "wrong": [
+        "Every procedural direction",
+        "A witness statement",
+        "The plaint"
+      ],
+      "why": "A decree determines rights in controversy and may be preliminary or final. An ordinary procedural order does not automatically become a decree.",
+      "cue": "Decree decides rights.",
+      "ref": "Section 2(2)",
+      "source": "CPC",
+      "scenario": "A court formally settles the parties' rights over disputed land. Which CPC term fits that formal determination?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-3",
+      "subject": "CPC",
+      "topic": "Rejection versus default",
+      "q": "Which is included in the CPC definition of a decree?",
+      "answer": "Rejection of a plaint",
+      "wrong": [
+        "Dismissal for default",
+        "Every adjournment",
+        "Every witness summons"
+      ],
+      "why": "Rejection of a plaint is expressly included. Dismissal for default is expressly excluded. This distinction affects the available remedy.",
+      "cue": "Reject = decree; default = excluded.",
+      "ref": "Section 2(2)",
+      "source": "CPC",
+      "scenario": "Two outcomes occur: one plaint is rejected; another suit is dismissed because nobody attends. Which outcome counts as a decree under the definition?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-4",
+      "subject": "CPC",
+      "topic": "Code and rules",
+      "q": "In the CPC definition, Code includes what?",
+      "answer": "Rules",
+      "wrong": [
+        "Only Acts of Parliament",
+        "Only judgments",
+        "Only decrees"
+      ],
+      "why": "The definition brings the procedural rules within the Code. Do not treat the First Schedule as a separate unrelated law.",
+      "cue": "Code carries its rules.",
+      "ref": "Section 2(1)",
+      "source": "CPC",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "CPC-5",
+      "subject": "CPC",
+      "topic": "Decree-holder",
+      "q": "Who is a decree-holder?",
+      "answer": "A person with a decree or executable order in their favour",
+      "wrong": [
+        "Only the person who first filed the suit",
+        "Every witness",
+        "The presiding judge"
+      ],
+      "why": "The definition follows the benefit of the decree or executable order. A defendant can also obtain a decree in their favour.",
+      "cue": "Holder holds the benefit.",
+      "ref": "Section 2(3)",
+      "source": "CPC",
+      "scenario": "Bilal wins an executable order even though Ayesha originally filed the suit. What does Bilal become?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-6",
+      "subject": "CPC",
+      "topic": "Judgment-debtor",
+      "q": "An executable order is made against Bilal. What is his CPC description?",
+      "answer": "Judgment-debtor",
+      "wrong": [
+        "Decree-holder",
+        "Next friend",
+        "Commissioner"
+      ],
+      "why": "The judgment-debtor is the person against whom a decree or executable order is made. It does not mean every person accused of owing money.",
+      "cue": "Debtor = order against.",
+      "ref": "Section 2(10)",
+      "source": "CPC",
+      "scenario": "A decree orders Ayesha to pay Bilal. What is Ayesha's description under the CPC?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-7",
+      "subject": "CPC",
+      "topic": "Civil jurisdiction",
+      "q": "Civil courts generally try civil suits except those whose cognizance is what?",
+      "answer": "Expressly or impliedly barred",
+      "wrong": [
+        "Opposed by the defendant",
+        "Unpopular",
+        "Filed without a witness"
+      ],
+      "why": "Section 9 begins with general civil jurisdiction, then recognises legal bars. A defendant's objection alone does not remove jurisdiction.",
+      "cue": "Civil suits enter unless law bars them.",
+      "ref": "Section 9",
+      "source": "CPC",
+      "scenario": "Bilal says the civil court cannot hear a case merely because he objects. What kind of bar is actually recognised by section 9?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-8",
+      "subject": "CPC",
+      "topic": "Res sub judice",
+      "q": "The same substantial issue is already in a previously instituted qualifying suit. Which provision concerns staying the later trial?",
+      "answer": "Section 10",
+      "wrong": [
+        "Section 11",
+        "Section 15",
+        "Section 96"
+      ],
+      "why": "Section 10 concerns a pending earlier suit, subject to its party and jurisdiction conditions. It stays trial; it does not decide the merits.",
+      "cue": "10 = still pending.",
+      "ref": "Section 10",
+      "source": "CPC",
+      "scenario": "The earlier suit is still pending and the statutory identity requirements are met. Which section addresses stopping the later trial?",
+      "refDrill": false
+    },
+    {
+      "id": "CPC-9",
+      "subject": "CPC",
+      "topic": "Res judicata",
+      "q": "A competent court has already finally decided the same issue between the relevant parties. Which principle may bar trying it again?",
+      "answer": "Res judicata",
+      "wrong": [
+        "Res sub judice",
+        "Set-off",
+        "Interpleader"
+      ],
+      "why": "Section 11 deals with an issue already heard and finally decided, with the statutory identity requirements. Pending litigation is section 10.",
+      "cue": "11 = already decided.",
+      "ref": "Section 11",
+      "source": "CPC",
+      "scenario": "Ayesha wants to retry an issue finally decided by a competent court between the relevant parties. Which principle is the obstacle?",
+      "refDrill": false
+    },
+    {
+      "id": "CPC-10",
+      "subject": "CPC",
+      "topic": "Constructive res judicata",
+      "q": "A ground might and ought to have been raised in the former suit. Which provision treats it as directly and substantially in issue?",
+      "answer": "Explanation IV to section 11",
+      "wrong": [
+        "Section 10 alone",
+        "Order VII rule 10",
+        "Section 75"
+      ],
+      "why": "Constructive res judicata prevents a party withholding a necessary ground and starting another round of litigation about it.",
+      "cue": "Might + ought = should have raised it.",
+      "ref": "Section 11, Explanation IV",
+      "source": "CPC",
+      "scenario": "Bilal saves a ground that he could and should have raised, hoping to litigate it later. Which provision addresses that tactic?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-11",
+      "subject": "CPC",
+      "topic": "Fraud against a judgment",
+      "q": "A person challenges a final judgment for fraud, misrepresentation or want of jurisdiction. Section 12(2) directs an application to whom?",
+      "answer": "The court that passed the final judgment, decree or order",
+      "wrong": [
+        "Any police station",
+        "Any court chosen by the applicant",
+        "An arbitrator automatically"
+      ],
+      "why": "The specified remedy is an application to the court that passed the final decision, rather than a separate suit on these grounds.",
+      "cue": "12(2): return to the deciding court.",
+      "ref": "Section 12(2)",
+      "source": "CPC",
+      "scenario": "Ayesha alleges that the final decree was obtained by fraud. Where does section 12(2) direct her application?",
+      "refDrill": false
+    },
+    {
+      "id": "CPC-12",
+      "subject": "CPC",
+      "topic": "Lowest competent court",
+      "q": "Where should a suit ordinarily be instituted under section 15?",
+      "answer": "The court of the lowest grade competent to try it",
+      "wrong": [
+        "The Supreme Court first",
+        "The highest available court",
+        "Any court regardless of competence"
+      ],
+      "why": "Both grade and competence matter. A lower court without the required jurisdiction does not become competent merely because it is lower.",
+      "cue": "Lowest competent, not simply lowest.",
+      "ref": "Section 15",
+      "source": "CPC",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "CPC-13",
+      "subject": "CPC",
+      "topic": "Immovable property",
+      "q": "Subject to statutory qualifications, a suit for partition of land belongs where?",
+      "answer": "Where the property is situated",
+      "wrong": [
+        "Where the plaintiff prefers",
+        "Where the witness lives",
+        "Always Islamabad"
+      ],
+      "why": "Section 16 connects specified property suits with the property's location, subject to jurisdictional limits and its proviso.",
+      "cue": "Land points to its location.",
+      "ref": "Section 16",
+      "source": "CPC",
+      "scenario": "A partition dispute concerns a plot in Lahore. Subject to the Code's qualifications, which location connects the suit to its court?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-14",
+      "subject": "CPC",
+      "topic": "Property across jurisdictions",
+      "q": "Land lies within two court jurisdictions. Under section 17, where may a qualifying suit be brought?",
+      "answer": "A competent court where any part is situated",
+      "wrong": [
+        "Only where the plaintiff lives",
+        "Only the Supreme Court",
+        "Both courts in separate identical suits"
+      ],
+      "why": "A court with part of the property in its area may hear it if the entire claim falls within its pecuniary competence.",
+      "cue": "Any part; competence for the whole claim.",
+      "ref": "Section 17",
+      "source": "CPC",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "CPC-15",
+      "subject": "CPC",
+      "topic": "Wrong to person or movables",
+      "q": "A wrong occurs in Quetta; the defendant resides in Karachi. Under section 19, the plaintiff may ordinarily choose which forum?",
+      "answer": "Either the place of wrong or defendant's residence",
+      "wrong": [
+        "Only the plaintiff's residence",
+        "Only the nearest High Court",
+        "Only Quetta in every case"
+      ],
+      "why": "For compensation for wrong to a person or movable property, section 19 offers the specified alternatives to the plaintiff.",
+      "cue": "Wrong-place or defendant-place.",
+      "ref": "Section 19",
+      "source": "CPC",
+      "scenario": "Bilal lives in Karachi but the alleged personal wrong occurred in Quetta. What choice does section 19 generally give Ayesha?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-16",
+      "subject": "CPC",
+      "topic": "Other suits",
+      "q": "Section 20 links other suits to the defendant's location or what?",
+      "answer": "Where the cause of action arises wholly or partly",
+      "wrong": [
+        "Where the lawyer studied",
+        "Where a newspaper is printed in every case",
+        "Where the plaintiff was born"
+      ],
+      "why": "A material part of the cause of action may support territorial jurisdiction. The plaintiff's convenience alone is insufficient.",
+      "cue": "Defendant or cause of action.",
+      "ref": "Section 20",
+      "source": "CPC",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "CPC-17",
+      "subject": "CPC",
+      "topic": "Execution disputes",
+      "q": "Questions between the suit's parties about execution, discharge or satisfaction are normally decided by whom?",
+      "answer": "The executing court",
+      "wrong": [
+        "A new court through a separate suit",
+        "The police",
+        "The registrar alone"
+      ],
+      "why": "Section 47 directs these questions to the court executing the decree and avoids a separate suit about them.",
+      "cue": "Execution problems stay in execution.",
+      "ref": "Section 47",
+      "source": "CPC",
+      "scenario": "The parties disagree about whether a decree has been satisfied. Who should ordinarily resolve this rather than a fresh suit?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-18",
+      "subject": "CPC",
+      "topic": "Commissions",
+      "q": "Which is a purpose for which a civil court may issue a commission under section 75?",
+      "answer": "Local investigation",
+      "wrong": [
+        "Declaring a criminal conviction",
+        "Replacing the court's decree",
+        "Appointing a legislator"
+      ],
+      "why": "Commissions can assist with examination, local investigation, accounts and partition. The court retains the judicial decision.",
+      "cue": "Commission assists; court decides.",
+      "ref": "Section 75",
+      "source": "CPC",
+      "scenario": "The judge needs someone to inspect the disputed location and report. Which commission purpose fits?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-19",
+      "subject": "CPC",
+      "topic": "Original decrees",
+      "q": "Subject to the Code and other applicable law, section 96 concerns appeals from what?",
+      "answer": "Original decrees",
+      "wrong": [
+        "Every witness answer",
+        "Every police decision",
+        "Only administrative letters"
+      ],
+      "why": "Section 96 provides the general route of appeal from an original decree. Exceptions still matter, including consent decrees.",
+      "cue": "96 = original decree appeal.",
+      "ref": "Section 96(1)",
+      "source": "CPC",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "CPC-20",
+      "subject": "CPC",
+      "topic": "Ex parte decree",
+      "q": "Does section 96 permit an appeal from an original decree passed ex parte?",
+      "answer": "Yes",
+      "wrong": [
+        "Never",
+        "Only if both parties consent",
+        "Only through an arbitrator"
+      ],
+      "why": "Section 96(2) expressly allows it. Order IX rule 13 supplies a different remedy to set aside an ex parte decree on its own grounds.",
+      "cue": "Ex parte does not erase appeal.",
+      "ref": "Section 96(2)",
+      "source": "CPC",
+      "scenario": "A decree is entered while Bilal is absent. Is an appeal from an original ex parte decree permitted by section 96(2)?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-21",
+      "subject": "CPC",
+      "topic": "Consent decree",
+      "q": "Under section 96(3), is an appeal available from a decree passed with the parties' consent?",
+      "answer": "No appeal under this provision",
+      "wrong": [
+        "Always",
+        "Only because one party changed their mind",
+        "Automatically after seven days"
+      ],
+      "why": "A consent decree is excluded from this appeal route. A distinct allegation such as fraud raises different questions and remedies.",
+      "cue": "Consent closes the ordinary appeal route.",
+      "ref": "Section 96(3)",
+      "source": "CPC",
+      "scenario": "Both parties consent to a decree, then one merely changes their mind. Is the ordinary section 96 appeal available?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-22",
+      "subject": "CPC",
+      "topic": "Appealable orders",
+      "q": "Which section identifies orders from which appeals lie?",
+      "answer": "Section 104",
+      "wrong": [
+        "Section 10",
+        "Section 47",
+        "Section 151"
+      ],
+      "why": "Appeals from orders require a statutory basis. Section 104 and Order XLIII should be learned together.",
+      "cue": "104 + 43 = orders on appeal.",
+      "ref": "Section 104; Order XLIII",
+      "source": "CPC",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "CPC-23",
+      "subject": "CPC",
+      "topic": "Revision",
+      "q": "Section 115 principally addresses what kind of defect in a qualifying decided case?",
+      "answer": "Jurisdictional error or illegal/materially irregular exercise of jurisdiction",
+      "wrong": [
+        "Any disagreement with any fact",
+        "A new criminal charge",
+        "A wish to change lawyers"
+      ],
+      "why": "Revision is not a second ordinary appeal. The listed jurisdictional conditions and absence of an appeal to the High Court matter.",
+      "cue": "Revision checks jurisdiction.",
+      "ref": "Section 115",
+      "source": "CPC",
+      "scenario": "A subordinate court failed to exercise a jurisdiction vested in it, and the other statutory requirements are met. What kind of problem does revision address?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-24",
+      "subject": "CPC",
+      "topic": "Inherent powers",
+      "q": "Which section preserves orders needed for justice or prevention of abuse of process?",
+      "answer": "Section 151",
+      "wrong": [
+        "Section 15",
+        "Section 75",
+        "Section 96"
+      ],
+      "why": "Section 151 saves inherent powers. It is not permission to ignore an express rule of the Code.",
+      "cue": "151 = justice and no abuse.",
+      "ref": "Section 151",
+      "source": "CPC",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "CPC-25",
+      "subject": "CPC",
+      "topic": "Joinder",
+      "q": "Order I primarily deals with what?",
+      "answer": "Parties to suits",
+      "wrong": [
+        "Pleadings generally",
+        "Temporary injunctions",
+        "Appeals from orders"
+      ],
+      "why": "Think first about who belongs in the case. Joinder provisions concern plaintiffs and defendants and the conditions for including them.",
+      "cue": "I = who is in.",
+      "ref": "Order I",
+      "source": "CPC",
+      "scenario": "Ayesha needs to decide whom to join as a defendant. Which Order should she open first?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-26",
+      "subject": "CPC",
+      "topic": "Pleadings",
+      "q": "Under Order VI rule 1, pleading means what?",
+      "answer": "Plaint or written statement",
+      "wrong": [
+        "Only oral evidence",
+        "Only a judgment",
+        "Only a police complaint"
+      ],
+      "why": "The plaintiff's plaint and defendant's written statement set out the competing cases. Evidence proves those cases later.",
+      "cue": "Two pleadings: claim and defence.",
+      "ref": "Order VI rule 1",
+      "source": "CPC",
+      "scenario": "Ayesha files her claim and Bilal files his defence. What collective label covers those two papers?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-27",
+      "subject": "CPC",
+      "topic": "Material facts",
+      "q": "What should pleadings state under Order VI rule 2?",
+      "answer": "Material facts relied on, rather than the evidence proving them",
+      "wrong": [
+        "Every witness's full testimony",
+        "Only conclusions with no facts",
+        "Only quotations from cases"
+      ],
+      "why": "State the essential facts needed for the claim or defence. Do not confuse the facts to be proved with the evidence used to prove them.",
+      "cue": "Plead facts; prove with evidence.",
+      "ref": "Order VI rule 2",
+      "source": "CPC",
+      "scenario": "Ayesha is drafting her plaint. Should she narrate every witness's testimony or identify the essential facts?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-28",
+      "subject": "CPC",
+      "topic": "Amending pleadings",
+      "q": "Which rule generally concerns alteration or amendment of pleadings?",
+      "answer": "Order VI rule 17",
+      "wrong": [
+        "Order VII rule 10",
+        "Order IX rule 3",
+        "Order XLI rule 5"
+      ],
+      "why": "Amendment may help determine the real questions in controversy, subject to the court's conditions and applicable law.",
+      "cue": "VI-17 = edit the pleading.",
+      "ref": "Order VI rule 17",
+      "source": "CPC",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "CPC-29",
+      "subject": "CPC",
+      "topic": "Plaint",
+      "q": "Which Order primarily sets out rules about the plaint?",
+      "answer": "Order VII",
+      "wrong": [
+        "Order VIII",
+        "Order IX",
+        "Order XXXIX"
+      ],
+      "why": "The plaint presents the plaintiff's claim. It includes essential particulars, and the Order also addresses return and rejection.",
+      "cue": "VII = plaintiff's paper.",
+      "ref": "Order VII",
+      "source": "CPC",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "CPC-30",
+      "subject": "CPC",
+      "topic": "Return of plaint",
+      "q": "The plaint belongs before a different court. Which rule deals with returning it for proper presentation?",
+      "answer": "Order VII rule 10",
+      "wrong": [
+        "Order VII rule 11",
+        "Order VI rule 1",
+        "Order IX rule 13"
+      ],
+      "why": "Return addresses the proper court for institution. Rejection under rule 11 concerns specified defects or legal bars.",
+      "cue": "10 returns; 11 rejects.",
+      "ref": "Order VII rule 10",
+      "source": "CPC",
+      "scenario": "The judge says this claim should have been presented in another competent court. Which rule concerns returning the plaint?",
+      "refDrill": false
+    },
+    {
+      "id": "CPC-31",
+      "subject": "CPC",
+      "topic": "No cause of action",
+      "q": "A plaint discloses no cause of action. Which rule provides for rejection?",
+      "answer": "Order VII rule 11",
+      "wrong": [
+        "Order VII rule 10",
+        "Order VIII rule 6",
+        "Order I rule 1"
+      ],
+      "why": "Failure to disclose a cause of action is a listed rejection ground. Merely losing on evidence at trial is a different situation.",
+      "cue": "No cause disclosed = rule 11.",
+      "ref": "Order VII rule 11(a)",
+      "source": "CPC",
+      "scenario": "Even accepting its assertions, the plaint discloses no cause of action. Which rule supplies the rejection ground?",
+      "refDrill": false
+    },
+    {
+      "id": "CPC-32",
+      "subject": "CPC",
+      "topic": "Written statement",
+      "q": "Which Order principally concerns the written statement and set-off?",
+      "answer": "Order VIII",
+      "wrong": [
+        "Order VII",
+        "Order VI only",
+        "Order XLI"
+      ],
+      "why": "This is the defendant's response. Connect the sequence: VI general pleadings, VII plaint, VIII defence.",
+      "cue": "6 both; 7 claim; 8 defence.",
+      "ref": "Order VIII",
+      "source": "CPC",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "CPC-33",
+      "subject": "CPC",
+      "topic": "Specific denial",
+      "q": "A defendant says only 'everything is denied'. What does Order VIII require instead?",
+      "answer": "Specific and non-evasive answers to allegations of fact",
+      "wrong": [
+        "Silence on every allegation",
+        "Only a new claim",
+        "Only a witness list"
+      ],
+      "why": "Rules 3 and 4 require specific denials addressing the substance. A vague blanket denial is not a safe substitute.",
+      "cue": "Answer the actual allegation.",
+      "ref": "Order VIII rules 3-4",
+      "source": "CPC",
+      "scenario": "Bilal's defence says only 'I deny everything'. What type of response do the pleading rules require?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-34",
+      "subject": "CPC",
+      "topic": "Set-off",
+      "q": "For the legal set-off described in Order VIII rule 6, the money claimed must be what?",
+      "answer": "An ascertained sum legally recoverable, with the rule's other conditions",
+      "wrong": [
+        "Any speculative future loss",
+        "Any moral complaint",
+        "An unvalued accusation"
+      ],
+      "why": "The rule concerns an ascertained monetary cross-demand and includes capacity and jurisdiction conditions. Unassessed damages do not meet that basic requirement.",
+      "cue": "Set-off needs a settled sum.",
+      "ref": "Order VIII rule 6",
+      "source": "CPC",
+      "scenario": "Bilal wants to set off an unassessed claim for damages. What feature required for legal set-off is missing?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-35",
+      "subject": "CPC",
+      "topic": "Neither party appears",
+      "q": "Under Order IX rule 3, what may the court do if neither party appears?",
+      "answer": "Dismiss the suit",
+      "wrong": [
+        "Automatically decree the whole claim",
+        "Convict the defendant",
+        "Automatically decide the evidence"
+      ],
+      "why": "This is dismissal for default, not a decision proving the claim false on its merits. Restoration provisions should be considered separately.",
+      "cue": "No one appears: suit may go.",
+      "ref": "Order IX rule 3",
+      "source": "CPC",
+      "scenario": "Neither Ayesha nor Bilal comes when their suit is called. What may the court order under Order IX rule 3?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-36",
+      "subject": "CPC",
+      "topic": "Ex parte proceedings",
+      "q": "Plaintiff appears, defendant does not, and summons was duly served. What may the court do?",
+      "answer": "Proceed ex parte",
+      "wrong": [
+        "Automatically award every amount claimed without proof",
+        "Transfer to the police",
+        "Treat service as unnecessary"
+      ],
+      "why": "The court may proceed without the defendant under Order IX. The plaintiff still has to establish the case as required.",
+      "cue": "Absent after due service = ex parte.",
+      "ref": "Order IX rule 6",
+      "source": "CPC",
+      "scenario": "Ayesha attends. Bilal, duly served, does not. How may the court proceed?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-37",
+      "subject": "CPC",
+      "topic": "Setting aside ex parte",
+      "q": "Which provision addresses setting aside an ex parte decree for non-service or sufficient cause preventing appearance?",
+      "answer": "Order IX rule 13",
+      "wrong": [
+        "Order I rule 1",
+        "Order VII rule 2",
+        "Order XLI rule 1"
+      ],
+      "why": "Apply to the court that passed the decree. The rule's grounds and applicable conditions must be established.",
+      "cue": "IX-13 = explain the absence.",
+      "ref": "Order IX rule 13",
+      "source": "CPC",
+      "scenario": "Bilal shows sufficient cause that prevented his attendance when the decree was passed ex parte. Which provision supplies the set-aside route?",
+      "refDrill": false
+    },
+    {
+      "id": "CPC-38",
+      "subject": "CPC",
+      "topic": "Temporary protection",
+      "q": "Which Order concerns temporary injunctions and interlocutory orders?",
+      "answer": "Order XXXIX",
+      "wrong": [
+        "Order XLI",
+        "Order XLIII",
+        "Order VIII"
+      ],
+      "why": "An injunction can preserve the position pending adjudication. It is not itself the final determination of all rights.",
+      "cue": "39 = protect for now.",
+      "ref": "Order XXXIX",
+      "source": "CPC",
+      "scenario": "Ayesha wants temporary protection while a civil dispute is decided. Which Order concerns that relief?",
+      "refDrill": false
+    },
+    {
+      "id": "CPC-39",
+      "subject": "CPC",
+      "topic": "Appeal and stay",
+      "q": "Does merely filing an appeal automatically stay execution of a decree?",
+      "answer": "No",
+      "wrong": [
+        "Yes in every case",
+        "Only if the appeal is handwritten",
+        "Only if counsel requests orally outside court"
+      ],
+      "why": "Order XLI rule 5 says an appeal does not by itself operate as a stay. A stay order must be obtained on the applicable grounds.",
+      "cue": "Appeal filed is not stay granted.",
+      "ref": "Order XLI rule 5",
+      "source": "CPC",
+      "scenario": "Bilal files an appeal and assumes execution has stopped automatically. Is that assumption correct?",
+      "refDrill": true
+    },
+    {
+      "id": "CPC-40",
+      "subject": "CPC",
+      "topic": "Appeal paperwork",
+      "q": "What form does an appeal under Order XLI rule 1 take?",
+      "answer": "A memorandum signed by appellant or pleader",
+      "wrong": [
+        "An FIR",
+        "A fresh plaint in every case",
+        "An unsigned witness note"
+      ],
+      "why": "The memorandum sets out grounds of appeal. Order XLI addresses appeals from original decrees; XLIII addresses appeals from orders.",
+      "cue": "41 memorandum; 43 orders.",
+      "ref": "Order XLI rule 1; Order XLIII",
+      "source": "CPC",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "QSO-1",
+      "subject": "QSO",
+      "topic": "Scope",
+      "q": "Which proceeding is excluded from QSO's general application clause?",
+      "answer": "Proceedings before an arbitrator",
+      "wrong": [
+        "Court martial proceedings",
+        "Judicial proceedings in a court",
+        "Judicial proceedings before a tribunal"
+      ],
+      "why": "Article 1 applies broadly to judicial proceedings, including courts martial and tribunals, but expressly excludes proceedings before an arbitrator.",
+      "cue": "Arbitrator is the stated exception.",
+      "ref": "Article 1",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "QSO-2",
+      "subject": "QSO",
+      "topic": "Facts",
+      "q": "Can a person's intention or state of mind count as a fact under QSO?",
+      "answer": "Yes",
+      "wrong": [
+        "Only physical objects are facts",
+        "Only written statements are facts",
+        "Only a confession is a fact"
+      ],
+      "why": "The definition includes mental conditions of which a person is conscious. A fact need not be something you can touch.",
+      "cue": "Facts can be mental too.",
+      "ref": "Article 2",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "QSO-3",
+      "subject": "QSO",
+      "topic": "Not proved",
+      "q": "A fact is neither proved nor disproved. What is its classification?",
+      "answer": "Not proved",
+      "wrong": [
+        "Disproved",
+        "Conclusive proof",
+        "Judicially noticed"
+      ],
+      "why": "Not proved means the evidence has established neither existence nor non-existence to the required standard. It is not the same as disproved.",
+      "cue": "Uncertain is not disproved.",
+      "ref": "Article 2",
+      "source": "QSO",
+      "scenario": "After hearing both sides, the court is satisfied neither that a fact exists nor that it does not. How is it classified?",
+      "refDrill": true
+    },
+    {
+      "id": "QSO-4",
+      "subject": "QSO",
+      "topic": "Oral evidence",
+      "q": "Witness statements permitted or required by the court about facts under inquiry are what?",
+      "answer": "Oral evidence",
+      "wrong": [
+        "Documentary evidence",
+        "Judicial notice",
+        "Estoppel"
+      ],
+      "why": "QSO distinguishes witness statements from documents produced for inspection. Both may count as evidence through different routes.",
+      "cue": "Witness speaks = oral evidence.",
+      "ref": "Article 2",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "QSO-5",
+      "subject": "QSO",
+      "topic": "Competence",
+      "q": "Does young age alone automatically make a witness incompetent?",
+      "answer": "No; understanding questions and giving rational answers matters",
+      "wrong": [
+        "Yes, always",
+        "Only if the witness owns property",
+        "Only if both parties agree"
+      ],
+      "why": "Article 3 uses a functional test, including whether age or another condition prevents understanding or rational answers.",
+      "cue": "Ability to understand matters.",
+      "ref": "Article 3",
+      "source": "QSO",
+      "scenario": "A child understands the questions and can answer rationally. Does age alone automatically exclude the testimony?",
+      "refDrill": true
+    },
+    {
+      "id": "QSO-6",
+      "subject": "QSO",
+      "topic": "Marriage communications",
+      "q": "What does Article 5 principally protect, subject to its exceptions?",
+      "answer": "Communications made during marriage",
+      "wrong": [
+        "All facts ever seen by a married person",
+        "Every public conversation",
+        "Only marriage certificates"
+      ],
+      "why": "Communications made during marriage are protected even after the marriage ends. The maker or representative may consent. Exceptions include suits between spouses and prosecution of one for a crime against the other.",
+      "cue": "Communication privilege, not total silence.",
+      "ref": "Article 5",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "QSO-7",
+      "subject": "QSO",
+      "topic": "Professional privilege",
+      "q": "What is the general rule about an advocate disclosing protected client communications?",
+      "answer": "Disclosure is restricted without express client consent, subject to exceptions",
+      "wrong": [
+        "Every communication must be published",
+        "Privilege ends automatically when the case ends",
+        "Only written advice is protected"
+      ],
+      "why": "Article 9 protects professional communications but excludes, for example, communications furthering an illegal purpose. The obligation continues after employment ends.",
+      "cue": "Legal advice is confidential, not a shield for illegality.",
+      "ref": "Article 9",
+      "source": "QSO",
+      "scenario": "A former client ends the retainer. Does that alone allow disclosure of protected communications? Choose the general rule.",
+      "refDrill": true
+    },
+    {
+      "id": "QSO-8",
+      "subject": "QSO",
+      "topic": "Accomplice",
+      "q": "Under Article 16, is an accomplice generally a competent witness, apart from its stated hadd exception?",
+      "answer": "Yes",
+      "wrong": [
+        "Never",
+        "Only in civil cases",
+        "Only if a judge becomes counsel"
+      ],
+      "why": "Competence is distinct from the caution about corroboration. Do not confuse 'can testify' with 'must automatically be believed'.",
+      "cue": "Competent does not mean unquestionable.",
+      "ref": "Article 16",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "QSO-9",
+      "subject": "QSO",
+      "topic": "Relevant evidence",
+      "q": "Which Article permits evidence of facts in issue and legally relevant facts?",
+      "answer": "Article 18",
+      "wrong": [
+        "Article 9",
+        "Article 71",
+        "Article 117"
+      ],
+      "why": "Relevance has to come through QSO. A fact being interesting or prejudicial does not by itself make it legally relevant.",
+      "cue": "18 opens the relevance gate.",
+      "ref": "Article 18",
+      "source": "QSO",
+      "scenario": "Ayesha wants to present an interesting but legally unrelated rumour. Which Article limits evidence to facts in issue and relevant facts?",
+      "refDrill": false
+    },
+    {
+      "id": "QSO-10",
+      "subject": "QSO",
+      "topic": "Same transaction",
+      "q": "Facts so connected with a fact in issue as to form part of the same transaction are addressed by which Article?",
+      "answer": "Article 19",
+      "wrong": [
+        "Article 30",
+        "Article 59",
+        "Article 114"
+      ],
+      "why": "The connection is transactional, not merely that two events occurred on the same day. This is commonly studied as res gestae.",
+      "cue": "Same transaction = 19.",
+      "ref": "Article 19",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "QSO-11",
+      "subject": "QSO",
+      "topic": "Motive and conduct",
+      "q": "Which Article concerns motive, preparation and previous or subsequent conduct?",
+      "answer": "Article 21",
+      "wrong": [
+        "Article 18",
+        "Article 72",
+        "Article 140"
+      ],
+      "why": "Motive can explain why; preparation can show planning; conduct may illuminate events. They remain subject to the Article's conditions.",
+      "cue": "21: why, preparation, behaviour.",
+      "ref": "Article 21",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "QSO-12",
+      "subject": "QSO",
+      "topic": "Identity and context",
+      "q": "Facts necessary to explain or introduce a relevant fact, including identity where relevant, fall under which Article?",
+      "answer": "Article 22",
+      "wrong": [
+        "Article 46",
+        "Article 117",
+        "Article 163"
+      ],
+      "why": "Context and identification can make other evidence understandable. Article 22 is broader than simply naming a person.",
+      "cue": "22 supplies context.",
+      "ref": "Article 22",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "QSO-13",
+      "subject": "QSO",
+      "topic": "Admissions",
+      "q": "A statement suggesting an inference about a fact in issue or relevant fact is generally called what?",
+      "answer": "An admission",
+      "wrong": [
+        "A decree",
+        "An appeal",
+        "A commission"
+      ],
+      "why": "Article 30 defines admissions. Whether a statement is an admission and against whom it is provable depends on the following Articles.",
+      "cue": "Admission points toward an inference.",
+      "ref": "Article 30",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "QSO-14",
+      "subject": "QSO",
+      "topic": "Admission versus confession",
+      "q": "Which is the safer distinction?",
+      "answer": "An admission is broader; a confession concerns acknowledgment of guilt",
+      "wrong": [
+        "Every admission is necessarily a full confession",
+        "Admissions occur only in criminal trials",
+        "Confessions concern only civil suits"
+      ],
+      "why": "A person may admit one fact without confessing the offence. Avoid treating an isolated incriminating fact as automatically a complete confession.",
+      "cue": "Confession is narrower than admission.",
+      "ref": "Articles 30 and 37-43",
+      "source": "QSO",
+      "scenario": "Bilal admits he was at the location but denies committing the offence. Which statement best explains why that is not automatically a confession?",
+      "refDrill": true
+    },
+    {
+      "id": "QSO-15",
+      "subject": "QSO",
+      "topic": "Induced confession",
+      "q": "A qualifying inducement, threat or promise from a person in authority can make a confession what?",
+      "answer": "Irrelevant in criminal proceedings under Article 37",
+      "wrong": [
+        "Automatically conclusive",
+        "A civil decree",
+        "Always mandatory evidence"
+      ],
+      "why": "Article 37 protects against confessions affected by the specified improper inducement, threat or promise. Its conditions must be satisfied.",
+      "cue": "Pressure can spoil a confession.",
+      "ref": "Article 37",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "QSO-16",
+      "subject": "QSO",
+      "topic": "Confession to police",
+      "q": "What is the general rule under Article 38?",
+      "answer": "A confession to a police officer cannot be proved against the accused",
+      "wrong": [
+        "Every police confession is conclusive",
+        "Only written police confessions are allowed",
+        "A constable can waive the rule"
+      ],
+      "why": "The prohibition concerns confession to a police officer. Discovery information has a limited separate rule in Article 40.",
+      "cue": "Police confession: general exclusion.",
+      "ref": "Article 38",
+      "source": "QSO",
+      "scenario": "An accused confesses to a police officer. Which statement gives Article 38's general rule?",
+      "refDrill": true
+    },
+    {
+      "id": "QSO-17",
+      "subject": "QSO",
+      "topic": "Custody confession",
+      "q": "Under Article 39, a confession in police custody is generally excluded unless made in whose immediate presence?",
+      "answer": "A Magistrate",
+      "wrong": [
+        "Any constable",
+        "The complainant",
+        "Any neighbour"
+      ],
+      "why": "The rule concerns custody even where the statement is made to someone other than police. Article 40 separately addresses discovery.",
+      "cue": "Custody: remember the Magistrate exception.",
+      "ref": "Article 39",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "QSO-18",
+      "subject": "QSO",
+      "topic": "Discovery information",
+      "q": "Police discover an object from information supplied by an accused in custody. How much information may Article 40 permit to be proved?",
+      "answer": "Only the portion distinctly relating to the discovered fact",
+      "wrong": [
+        "The entire confession automatically",
+        "Every rumour mentioned",
+        "Nothing under any circumstances"
+      ],
+      "why": "Discovery is a limited exception. It does not make the whole confession admissible merely because one item was found.",
+      "cue": "Discovery admits the connected portion.",
+      "ref": "Article 40",
+      "source": "QSO",
+      "scenario": "An accused's statement leads police to an object, but also contains a long confession. How much does the discovery rule potentially admit?",
+      "refDrill": true
+    },
+    {
+      "id": "QSO-19",
+      "subject": "QSO",
+      "topic": "Dying declaration",
+      "q": "Does a qualifying statement about the cause of death require the maker to have expected death?",
+      "answer": "No",
+      "wrong": [
+        "Always",
+        "Only in civil matters",
+        "Only if police wrote it"
+      ],
+      "why": "Article 46(1) does not require expectation of death. The cause of the maker's death must come into question and other requirements apply.",
+      "cue": "Cause of death, not expectation of death.",
+      "ref": "Article 46(1)",
+      "source": "QSO",
+      "scenario": "A person describes the cause of an injury, expecting recovery, but later dies. Must expectation of death have existed for Article 46(1)?",
+      "refDrill": true
+    },
+    {
+      "id": "QSO-20",
+      "subject": "QSO",
+      "topic": "Expert opinion",
+      "q": "Opinions of persons specially skilled in relevant fields are addressed by which Article?",
+      "answer": "Article 59",
+      "wrong": [
+        "Article 19",
+        "Article 113",
+        "Article 140"
+      ],
+      "why": "Experts assist on the matters specified, such as science, art and handwriting. Their opinion does not automatically bind the court.",
+      "cue": "59 = specialist assistance.",
+      "ref": "Article 59",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "QSO-21",
+      "subject": "QSO",
+      "topic": "Character in civil cases",
+      "q": "Is character generally relevant simply to prove conduct imputed in a civil case?",
+      "answer": "No, subject to the Article's qualification",
+      "wrong": [
+        "Always",
+        "Only if popular",
+        "Only if mentioned by counsel"
+      ],
+      "why": "Article 66 generally excludes this use, while character may emerge from otherwise relevant facts. Damage-related character is a separate rule.",
+      "cue": "Civil conduct is not proved by reputation alone.",
+      "ref": "Article 66",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "QSO-22",
+      "subject": "QSO",
+      "topic": "Good character",
+      "q": "In criminal proceedings, is the accused's previous good character relevant?",
+      "answer": "Yes",
+      "wrong": [
+        "Never",
+        "Only after acquittal",
+        "Only if a police officer approves"
+      ],
+      "why": "Article 67 permits previous good character. It does not guarantee acquittal; all evidence still has to be assessed.",
+      "cue": "Good character may help, not decide.",
+      "ref": "Article 67",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "QSO-23",
+      "subject": "QSO",
+      "topic": "Direct oral evidence",
+      "q": "If evidence concerns something that could be seen, the witness should ordinarily be someone who did what?",
+      "answer": "Saw it",
+      "wrong": [
+        "Heard a neighbour describe it",
+        "Read a rumour",
+        "Guessed it"
+      ],
+      "why": "Article 71 generally requires direct oral evidence: the witness must have the corresponding personal perception.",
+      "cue": "Seen by me, not told to me.",
+      "ref": "Article 71",
+      "source": "QSO",
+      "scenario": "A witness says, 'My neighbour told me she saw it.' If the fact could be seen, whose perception does Article 71 ordinarily require?",
+      "refDrill": true
+    },
+    {
+      "id": "QSO-24",
+      "subject": "QSO",
+      "topic": "Document contents",
+      "q": "Document contents may be proved through which categories?",
+      "answer": "Primary or secondary evidence",
+      "wrong": [
+        "Only oral gossip",
+        "Only an FIR",
+        "Only character evidence"
+      ],
+      "why": "Article 72 introduces primary and secondary evidence. Secondary evidence is not freely interchangeable with an available original; Article 76 gives conditions.",
+      "cue": "Documents: original route or permitted substitute.",
+      "ref": "Articles 72 and 76",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "QSO-25",
+      "subject": "QSO",
+      "topic": "Primary evidence",
+      "q": "What is the basic definition of primary evidence?",
+      "answer": "The document itself produced for court inspection",
+      "wrong": [
+        "Any unverified recollection",
+        "Every photocopy automatically",
+        "A lawyer's summary"
+      ],
+      "why": "Article 73 starts with the document itself. Its explanations deal with counterparts and other situations, so 'only one possible original' is too simple.",
+      "cue": "Primary: the document itself.",
+      "ref": "Article 73",
+      "source": "QSO",
+      "scenario": "Ayesha brings the actual signed document for the court to inspect. Which basic evidence category is this?",
+      "refDrill": true
+    },
+    {
+      "id": "QSO-26",
+      "subject": "QSO",
+      "topic": "Secondary evidence",
+      "q": "Which is a recognised type of secondary evidence, subject to admissibility conditions?",
+      "answer": "A certified copy given under law",
+      "wrong": [
+        "Any anonymous rumour",
+        "A judge's private guess",
+        "A wholly unrelated original"
+      ],
+      "why": "Article 74 lists types of secondary evidence; Article 76 governs when secondary evidence of contents may be given.",
+      "cue": "A copy needs a legal route.",
+      "ref": "Articles 74 and 76",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "QSO-27",
+      "subject": "QSO",
+      "topic": "Public documents",
+      "q": "Records of acts of public officers are classified under which Article?",
+      "answer": "Article 85",
+      "wrong": [
+        "Article 59",
+        "Article 117",
+        "Article 132"
+      ],
+      "why": "Article 85 identifies public documents. Article 86 says other documents are private; proof rules then differ.",
+      "cue": "85 public; 86 private.",
+      "ref": "Articles 85-86",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "QSO-28",
+      "subject": "QSO",
+      "topic": "Judicial notice",
+      "q": "Must a fact judicially noticeable be proved by ordinary evidence?",
+      "answer": "No",
+      "wrong": [
+        "Always",
+        "Only through two witnesses",
+        "Only through a confession"
+      ],
+      "why": "Article 111 dispenses with proof of facts of which judicial notice is taken. Article 112 lists matters for judicial notice.",
+      "cue": "Judicial notice saves proof.",
+      "ref": "Articles 111-112",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "QSO-29",
+      "subject": "QSO",
+      "topic": "Admitted facts",
+      "q": "Do facts admitted in the ways specified by Article 113 normally need proof?",
+      "answer": "No, but the court may require proof",
+      "wrong": [
+        "Always need four witnesses",
+        "Only need police approval",
+        "Cannot ever be proved"
+      ],
+      "why": "The court retains discretion to demand proof despite an admission. The 2025 amendment corrects 'rule or pleading' to 'rule of pleading'.",
+      "cue": "Admission can save proof; court keeps discretion.",
+      "ref": "Article 113",
+      "source": "QSO",
+      "scenario": "The parties admit a fact in the required manner. What is the normal proof position, including the court's discretion?",
+      "refDrill": true
+    },
+    {
+      "id": "QSO-30",
+      "subject": "QSO",
+      "topic": "Estoppel",
+      "q": "A person intentionally causes another to believe and act on a fact. What may prevent later denial in the relevant proceedings?",
+      "answer": "Estoppel",
+      "wrong": [
+        "Res sub judice",
+        "Set-off",
+        "Joinder"
+      ],
+      "why": "Article 114 addresses representation and reliance. It is not simply a penalty for changing an opinion.",
+      "cue": "Representation + reliance = estoppel issue.",
+      "ref": "Article 114",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "QSO-31",
+      "subject": "QSO",
+      "topic": "Burden of proof",
+      "q": "Who normally proves facts asserted to obtain a judgment on a claimed right or liability?",
+      "answer": "The person asserting those facts",
+      "wrong": [
+        "The oldest witness",
+        "The judge personally",
+        "Always the defendant"
+      ],
+      "why": "Article 117 links the burden to the facts a person asks the court to rely on. The burden may differ for distinct issues.",
+      "cue": "You assert the necessary fact; you prove it.",
+      "ref": "Article 117",
+      "source": "QSO",
+      "scenario": "Ayesha says a will gives her the land and asks the court for possession. Who normally proves the necessary facts she asserts?",
+      "refDrill": true
+    },
+    {
+      "id": "QSO-32",
+      "subject": "QSO",
+      "topic": "No evidence test",
+      "q": "Article 118 places the burden on whom if neither side gave evidence?",
+      "answer": "The person who would fail",
+      "wrong": [
+        "Always the plaintiff regardless of issue",
+        "Always the defendant",
+        "The court clerk"
+      ],
+      "why": "Ask who loses if the record remains empty. This is a practical way to identify the burden in the particular proceeding.",
+      "cue": "Who loses on an empty record?",
+      "ref": "Article 118",
+      "source": "QSO",
+      "scenario": "Imagine neither side produces any evidence. Which party does Article 118 use to identify the burden?",
+      "refDrill": true
+    },
+    {
+      "id": "QSO-33",
+      "subject": "QSO",
+      "topic": "Special knowledge",
+      "q": "A fact is especially within a person's knowledge. Article 122 generally places its burden on whom?",
+      "answer": "That person",
+      "wrong": [
+        "Every other party equally",
+        "The media",
+        "Only the judge"
+      ],
+      "why": "This rule concerns specially known facts. It does not erase the prosecution's overall responsibility to establish an offence.",
+      "cue": "Your special knowledge, your proof of that fact.",
+      "ref": "Article 122",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "QSO-34",
+      "subject": "QSO",
+      "topic": "Alive within thirty years",
+      "q": "A person is shown to have been alive within thirty years. Who bears the burden of proving death?",
+      "answer": "The person asserting death",
+      "wrong": [
+        "The person asserting life automatically",
+        "The nearest court",
+        "The oldest relative"
+      ],
+      "why": "Article 123 supplies this allocation, subject to Article 124's special seven-year rule. Do not swap the two periods.",
+      "cue": "30-year rule starts with shown life.",
+      "ref": "Article 123",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "QSO-35",
+      "subject": "QSO",
+      "topic": "Not heard of for seven years",
+      "q": "A person has not been heard of for seven years by those who would naturally hear. Who must prove the person is alive?",
+      "answer": "The person asserting life",
+      "wrong": [
+        "Always the missing person",
+        "The government in every case",
+        "Any stranger"
+      ],
+      "why": "Article 124 changes the burden concerning life. It does not automatically establish a precise date or time of death.",
+      "cue": "Seven years: burden shifts, date does not appear.",
+      "ref": "Article 124",
+      "source": "QSO",
+      "scenario": "The natural contacts of a missing person have heard nothing for seven years. Who bears the burden of showing the person is alive?",
+      "refDrill": true
+    },
+    {
+      "id": "QSO-36",
+      "subject": "QSO",
+      "topic": "Examination sequence",
+      "q": "The adverse party questions a witness. What is this called?",
+      "answer": "Cross-examination",
+      "wrong": [
+        "Examination-in-chief",
+        "Re-examination",
+        "Judicial notice"
+      ],
+      "why": "The party calling the witness conducts examination-in-chief; the opponent cross-examines; the calling party may then re-examine.",
+      "cue": "Own side, other side, own side again.",
+      "ref": "Articles 132-133",
+      "source": "QSO",
+      "scenario": "Bilal's advocate questions Ayesha's witness. What is that stage called?",
+      "refDrill": true
+    },
+    {
+      "id": "QSO-37",
+      "subject": "QSO",
+      "topic": "Leading questions",
+      "q": "Questions suggesting the desired answer are generally allowed in which examination?",
+      "answer": "Cross-examination",
+      "wrong": [
+        "Every examination without restriction",
+        "Only re-examination",
+        "Only in pleadings"
+      ],
+      "why": "Articles 136-138 distinguish the definition and permitted use. In chief or re-examination, objection and court permission matter.",
+      "cue": "Leading is generally for cross.",
+      "ref": "Articles 136-138",
+      "source": "QSO",
+      "scenario": "An advocate asks, 'You were at the gate at 9 pm, weren't you?' In which stage are leading questions generally permitted?",
+      "refDrill": true
+    },
+    {
+      "id": "QSO-38",
+      "subject": "QSO",
+      "topic": "Previous written statements",
+      "q": "Before proving a contradictory written statement, what must be drawn to the witness's attention?",
+      "answer": "The relevant parts intended for contradiction",
+      "wrong": [
+        "Every unrelated document",
+        "Only the document's colour",
+        "Nothing at all"
+      ],
+      "why": "Article 140 requires attention to the specific parts relied on when contradiction is intended. A vague allegation is not enough.",
+      "cue": "Point to the actual contradiction.",
+      "ref": "Article 140",
+      "source": "QSO",
+      "scenario": "Counsel intends to contradict a witness using an old written account. What part of the procedure must happen before proving the contradiction?",
+      "refDrill": true
+    },
+    {
+      "id": "QSO-39",
+      "subject": "QSO",
+      "topic": "Hostile witness",
+      "q": "Who may permit the party calling a witness to ask questions ordinarily put in cross-examination?",
+      "answer": "The court",
+      "wrong": [
+        "The witness alone",
+        "The police officer alone",
+        "The opposing client alone"
+      ],
+      "why": "Article 150 gives the court discretion. A party cannot assume automatic permission merely by calling a witness hostile.",
+      "cue": "Court permits cross of your own witness.",
+      "ref": "Article 150",
+      "source": "QSO",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "QSO-40",
+      "subject": "QSO",
+      "topic": "Modern devices",
+      "q": "Article 164 permits the court to consider evidence made available through what?",
+      "answer": "Modern devices or techniques",
+      "wrong": [
+        "Only handwritten notes",
+        "Only oral traditions",
+        "Only court stamps"
+      ],
+      "why": "Electronic or scientific material can be produced through this provision, but reliability and proof still matter. Technology does not make evidence automatically true.",
+      "cue": "Modern method; still examine reliability.",
+      "ref": "Article 164",
+      "source": "QSO",
+      "scenario": "A party has a recording made by a modern device. Which type of evidence does Article 164 potentially permit, subject to proper proof?",
+      "refDrill": true
+    },
+    {
+      "id": "Constitution-1",
+      "subject": "Constitution",
+      "topic": "Sovereignty",
+      "q": "In the constitutional Preamble, sovereignty over the entire universe belongs to whom?",
+      "answer": "Almighty Allah alone",
+      "wrong": [
+        "Parliament without qualification",
+        "The President personally",
+        "The judiciary alone"
+      ],
+      "why": "The Preamble places sovereignty with Almighty Allah and describes authority exercised by Pakistan's people through prescribed limits as a sacred trust.",
+      "cue": "Sovereignty; then delegated authority.",
+      "ref": "Preamble",
+      "source": "Constitution",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "Constitution-2",
+      "subject": "Constitution",
+      "topic": "Objectives Resolution",
+      "q": "Which Article makes the Objectives Resolution a substantive part of the Constitution?",
+      "answer": "Article 2A",
+      "wrong": [
+        "Article 10A",
+        "Article 19A",
+        "Article 25A"
+      ],
+      "why": "The letter A matters: Article 2 concerns Islam as the State religion; Article 2A concerns the Objectives Resolution.",
+      "cue": "2A = Objectives Resolution.",
+      "ref": "Article 2A",
+      "source": "Constitution",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Constitution-3",
+      "subject": "Constitution",
+      "topic": "Inconsistent laws",
+      "q": "Under Article 8, a law inconsistent with fundamental rights is void to what extent?",
+      "answer": "To the extent of the inconsistency",
+      "wrong": [
+        "The whole legal system becomes void",
+        "Only if a minister agrees",
+        "Never"
+      ],
+      "why": "The phrase limits invalidity to the inconsistent part, subject to Article 8's own provisions. It does not automatically erase every part of every law.",
+      "cue": "8 removes the inconsistent part.",
+      "ref": "Article 8",
+      "source": "Constitution",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Constitution-4",
+      "subject": "Constitution",
+      "topic": "Life and liberty",
+      "q": "Which Article protects life and liberty except in accordance with law?",
+      "answer": "Article 9",
+      "wrong": [
+        "Article 19",
+        "Article 29",
+        "Article 39"
+      ],
+      "why": "Article 9 protects security of person. Distinguish it from the procedural guarantees of fair trial in Article 10A.",
+      "cue": "9 = life and liberty.",
+      "ref": "Article 9",
+      "source": "Constitution",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Constitution-5",
+      "subject": "Constitution",
+      "topic": "Fair trial",
+      "q": "A person's civil rights or a criminal charge are being determined. Which Article expressly provides fair trial and due process?",
+      "answer": "Article 10A",
+      "wrong": [
+        "Article 2A",
+        "Article 19A",
+        "Article 25A"
+      ],
+      "why": "Article 10A applies to determination of civil rights and obligations as well as criminal charges. It is not confined to criminal trials.",
+      "cue": "10A = fair hearing.",
+      "ref": "Article 10A",
+      "source": "Constitution",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Constitution-6",
+      "subject": "Constitution",
+      "topic": "Dignity",
+      "q": "Which Article protects dignity and, subject to law, privacy of the home?",
+      "answer": "Article 14",
+      "wrong": [
+        "Article 17",
+        "Article 24",
+        "Article 40"
+      ],
+      "why": "Article 14 also prohibits torture for extracting evidence. Link dignity with the home and protection from coercive evidence extraction.",
+      "cue": "14 = dignity and home.",
+      "ref": "Article 14",
+      "source": "Constitution",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Constitution-7",
+      "subject": "Constitution",
+      "topic": "Speech",
+      "q": "Freedom of speech and expression, subject to listed reasonable restrictions, is under which Article?",
+      "answer": "Article 19",
+      "wrong": [
+        "Article 9",
+        "Article 25",
+        "Article 32"
+      ],
+      "why": "The right is constitutionally protected but not unlimited. Article 19A is a separate right to information.",
+      "cue": "19 speaks; 19A asks for information.",
+      "ref": "Article 19",
+      "source": "Constitution",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Constitution-8",
+      "subject": "Constitution",
+      "topic": "Information",
+      "q": "Which Article grants citizens access to information in matters of public importance, subject to law?",
+      "answer": "Article 19A",
+      "wrong": [
+        "Article 10A",
+        "Article 25A",
+        "Article 2A"
+      ],
+      "why": "The right has its own provision and qualifications. Do not swap it with speech under Article 19.",
+      "cue": "A after 19 = access.",
+      "ref": "Article 19A",
+      "source": "Constitution",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Constitution-9",
+      "subject": "Constitution",
+      "topic": "Equality",
+      "q": "Equality before law and equal protection of law are principally in which Article?",
+      "answer": "Article 25",
+      "wrong": [
+        "Article 24",
+        "Article 26 only",
+        "Article 50"
+      ],
+      "why": "Article 25 is the general equality provision. Other Articles address specific contexts such as public places and public employment.",
+      "cue": "25 = equality.",
+      "ref": "Article 25",
+      "source": "Constitution",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Constitution-10",
+      "subject": "Constitution",
+      "topic": "Education",
+      "q": "Article 25A provides free and compulsory education for which ages?",
+      "answer": "Five to sixteen years",
+      "wrong": [
+        "Five to eighteen years",
+        "Six to fourteen years",
+        "Seven to twenty-one years"
+      ],
+      "why": "The exact constitutional range is five to sixteen, in the manner determined by law. Do not import age limits from another jurisdiction.",
+      "cue": "25A: 5 to 16.",
+      "ref": "Article 25A",
+      "source": "Constitution",
+      "scenario": "You see an education question offering 5-16, 5-18, 6-14 and 7-21. Which range does Article 25A use?",
+      "refDrill": false
+    },
+    {
+      "id": "Constitution-11",
+      "subject": "Constitution",
+      "topic": "Parliament",
+      "q": "Majlis-e-Shoora consists of which three components?",
+      "answer": "President, National Assembly and Senate",
+      "wrong": [
+        "Prime Minister, Cabinet and courts",
+        "National Assembly and provinces only",
+        "Senate and Supreme Court only"
+      ],
+      "why": "Article 50 includes the President even though the President is not a chamber. Pakistan has two parliamentary Houses.",
+      "cue": "President + two Houses.",
+      "ref": "Article 50",
+      "source": "Constitution",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "Constitution-12",
+      "subject": "Constitution",
+      "topic": "Assembly term",
+      "q": "Unless sooner dissolved, the National Assembly's term is how long from its first meeting?",
+      "answer": "Five years",
+      "wrong": [
+        "Three years",
+        "Four years",
+        "Six years"
+      ],
+      "why": "The starting point is its first meeting, not election day. Earlier dissolution is expressly possible.",
+      "cue": "Five years from first meeting.",
+      "ref": "Article 52",
+      "source": "Constitution",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "Constitution-13",
+      "subject": "Constitution",
+      "topic": "Senate continuity",
+      "q": "Which statement about the Senate is correct?",
+      "answer": "It is not subject to dissolution",
+      "wrong": [
+        "It dissolves with every National Assembly",
+        "It is elected for one year",
+        "It is dissolved by every budget"
+      ],
+      "why": "The Senate is a continuing House with staggered terms. Avoid confusing its members' terms with the life of the House.",
+      "cue": "Senate continues.",
+      "ref": "Article 59",
+      "source": "Constitution",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "Constitution-14",
+      "subject": "Constitution",
+      "topic": "National Assembly age",
+      "q": "What minimum age does Article 62 prescribe for National Assembly membership?",
+      "answer": "Twenty-five years",
+      "wrong": [
+        "Twenty-one years",
+        "Thirty years",
+        "Forty years"
+      ],
+      "why": "Twenty-five concerns the National Assembly; the Senate's age qualification is thirty. Other qualifications also apply.",
+      "cue": "NA 25; Senate 30.",
+      "ref": "Article 62",
+      "source": "Constitution",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Constitution-15",
+      "subject": "Constitution",
+      "topic": "Absence from sittings",
+      "q": "Without leave, absence for how many consecutive days of a House's sittings may lead the House to declare a seat vacant?",
+      "answer": "Forty",
+      "wrong": [
+        "Twenty",
+        "Thirty",
+        "Sixty"
+      ],
+      "why": "Count consecutive sitting days under Article 64(2), not simply forty calendar days on holiday.",
+      "cue": "40 sitting days without leave.",
+      "ref": "Article 64(2)",
+      "source": "Constitution",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Constitution-16",
+      "subject": "Constitution",
+      "topic": "Money bills",
+      "q": "A Money Bill originates in which House?",
+      "answer": "National Assembly",
+      "wrong": [
+        "Senate only",
+        "Either House without distinction",
+        "The Supreme Court"
+      ],
+      "why": "Article 73 gives the National Assembly the originating role. The Senate has a recommendation role under the constitutional procedure.",
+      "cue": "Money starts in NA.",
+      "ref": "Article 73",
+      "source": "Constitution",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "Constitution-17",
+      "subject": "Constitution",
+      "topic": "Updated original jurisdiction",
+      "q": "Under the Constitution updated to 21 November 2025, which court has exclusive original jurisdiction over disputes between two or more Governments?",
+      "answer": "Federal Constitutional Court",
+      "wrong": [
+        "Supreme Court under the former Article 184",
+        "Any civil court",
+        "Federal Shariat Court"
+      ],
+      "why": "Article 175E now provides this jurisdiction. Article 184 was omitted by the Twenty-seventh Amendment. Older sample papers need their historical date kept visible.",
+      "cue": "Current: 175E and FCC.",
+      "ref": "Article 175E; 2025 edition",
+      "source": "Constitution",
+      "scenario": "An old sample says Supreme Court and Article 184. A question instead expressly asks for the position in the November 2025 Constitution. Which court now hears inter-government disputes?",
+      "refDrill": false
+    },
+    {
+      "id": "Constitution-18",
+      "subject": "Constitution",
+      "topic": "Updated binding precedent",
+      "q": "Under amended Article 189, which court's legal decisions bind all other courts including the Supreme Court?",
+      "answer": "Federal Constitutional Court",
+      "wrong": [
+        "Every district court",
+        "Any tribunal",
+        "The Senate"
+      ],
+      "why": "The updated Article distinguishes FCC decisions from Supreme Court decisions, which bind other courts except the FCC.",
+      "cue": "FCC decisions bind SC too.",
+      "ref": "Article 189; 2025 edition",
+      "source": "Constitution",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "Constitution-19",
+      "subject": "Constitution",
+      "topic": "High Court appointment age",
+      "q": "In the Constitution updated to 21 November 2025, the minimum age for a High Court judge is what?",
+      "answer": "Forty years",
+      "wrong": [
+        "Forty-five years",
+        "Fifty years",
+        "Thirty-five years"
+      ],
+      "why": "Article 193(2) now states forty, together with citizenship and experience requirements. The older forty-five-year answer should not be used as current law.",
+      "cue": "Updated HC minimum = 40.",
+      "ref": "Article 193(2); 2025 edition",
+      "source": "Constitution",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Constitution-20",
+      "subject": "Constitution",
+      "topic": "High Court writ jurisdiction",
+      "q": "Which Article principally sets out the High Court's constitutional jurisdiction?",
+      "answer": "Article 199",
+      "wrong": [
+        "Article 99",
+        "Article 59",
+        "Article 25A"
+      ],
+      "why": "Article 199 addresses specified orders and jurisdictional conditions. Read it with applicable constitutional-bench provisions rather than assuming old institutional arrangements.",
+      "cue": "199 = High Court constitutional orders.",
+      "ref": "Article 199",
+      "source": "Constitution",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Ethics-1",
+      "subject": "Ethics",
+      "topic": "Professional dignity",
+      "q": "Rule 134 requires an advocate to uphold what?",
+      "answer": "Professional dignity and their own standing",
+      "wrong": [
+        "Only personal profit",
+        "Only the client's popularity",
+        "Only the number of cases won"
+      ],
+      "why": "The duty concerns the profession and the individual advocate. Winning does not justify conduct that damages either.",
+      "cue": "Protect the profession and yourself.",
+      "ref": "Rule 134",
+      "source": "Ethics",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "Ethics-2",
+      "subject": "Ethics",
+      "topic": "Solicitation",
+      "q": "What is the general rule about soliciting professional employment by advertisement?",
+      "answer": "It is prohibited, with limited ordinary-listing exceptions",
+      "wrong": [
+        "Unlimited advertising is required",
+        "Only judges may advertise for the advocate",
+        "It is always lawful if free"
+      ],
+      "why": "Rule 135 permits limited ordinary cards, nameplates and directory listings within its conditions, not unrestricted personal promotion.",
+      "cue": "Informational listing is not open-ended solicitation.",
+      "ref": "Rule 135",
+      "source": "Ethics",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "Ethics-3",
+      "subject": "Ethics",
+      "topic": "Unlicensed solicitors",
+      "q": "May an advocate pay an unlicensed person to bring clients or share legal compensation with them?",
+      "answer": "No",
+      "wrong": [
+        "Yes whenever paid in cash",
+        "Yes if the client is wealthy",
+        "Only during vacations"
+      ],
+      "why": "Rule 136 forbids employing or remunerating any other person to solicit professional work. Its separate restrictions address sharing compensation with an unlicensed person or assisting unauthorised practice.",
+      "cue": "No paid touts or unlicensed fee-sharing.",
+      "ref": "Rule 136",
+      "source": "Ethics",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "Ethics-4",
+      "subject": "Ethics",
+      "topic": "Represented opponent",
+      "q": "An opposing party has counsel. May you discuss the controversy directly in counsel's absence and without consent?",
+      "answer": "No",
+      "wrong": [
+        "Yes if you expect to win",
+        "Yes if the client asks",
+        "Only if no letter is written"
+      ],
+      "why": "Rule 137 protects represented parties from being approached behind their advocate's back about the dispute.",
+      "cue": "Go through the advocate.",
+      "ref": "Rule 137",
+      "source": "Ethics",
+      "scenario": "The other side has an advocate. You want to negotiate the disputed issue directly without that advocate's presence or consent. Is that permitted?",
+      "refDrill": true
+    },
+    {
+      "id": "Ethics-5",
+      "subject": "Ethics",
+      "topic": "Private approaches to judges",
+      "q": "What should an advocate avoid concerning a contested pending matter?",
+      "answer": "Private merits communications behind opposing counsel's back",
+      "wrong": [
+        "Open-court argument",
+        "Serving documents on the other side",
+        "Citing a relevant statute"
+      ],
+      "why": "Rule 138 also requires a copy to opposing counsel for relevant written communications, with stated exceptions.",
+      "cue": "No back-channel merits arguments.",
+      "ref": "Rule 138",
+      "source": "Ethics",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "Ethics-6",
+      "subject": "Ethics",
+      "topic": "Additional counsel",
+      "q": "The client wishes to engage another advocate. What is the proper general response?",
+      "answer": "Respect the client's choice; address the first advocate's dues",
+      "wrong": [
+        "Treat it automatically as an insult",
+        "Forbid the client to choose",
+        "Hide the case file forever"
+      ],
+      "why": "Rule 139 says additional assistance need not imply lack of confidence. It also addresses payment of the first advocate's dues before association.",
+      "cue": "Client chooses the team.",
+      "ref": "Rule 139",
+      "source": "Ethics",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "Ethics-7",
+      "subject": "Ethics",
+      "topic": "Division of fees",
+      "q": "Rule 141 permits fee division on what basis?",
+      "answer": "With another advocate according to agreed division of work",
+      "wrong": [
+        "With any unlicensed introducer",
+        "With a witness for favourable testimony",
+        "With the judge"
+      ],
+      "why": "The exception is tied to another advocate and actual division of work as expressed in their agreement.",
+      "cue": "Share work, then fees.",
+      "ref": "Rule 141",
+      "source": "Ethics",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "Ethics-8",
+      "subject": "Ethics",
+      "topic": "Seniors and juniors",
+      "q": "Alongside courtesy, seniors are expected to be what toward junior members?",
+      "answer": "Helpful",
+      "wrong": [
+        "Hostile",
+        "Indifferent",
+        "Demanding of personal gifts"
+      ],
+      "why": "Rule 143 pairs juniors' respect with seniors' courtesy and helpfulness. The relationship carries reciprocal responsibilities.",
+      "cue": "Respect up; help down.",
+      "ref": "Rule 143",
+      "source": "Ethics",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "Ethics-9",
+      "subject": "Ethics",
+      "topic": "Adverse interest",
+      "q": "Can an advocate acquire an interest adverse to the client in property involved in the case?",
+      "answer": "No",
+      "wrong": [
+        "Always",
+        "Only secretly",
+        "Only if the case is delayed"
+      ],
+      "why": "Rule 145 prevents this conflict. An advocate should not use the representation to obtain a competing personal stake.",
+      "cue": "Your client is not your competitor.",
+      "ref": "Rule 145",
+      "source": "Ethics",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "Ethics-10",
+      "subject": "Ethics",
+      "topic": "Disclosing connections",
+      "q": "Before accepting employment, what does Rule 147 require disclosure of?",
+      "answer": "Relevant relation with the adverse party and interest in the subject matter",
+      "wrong": [
+        "Every unrelated childhood memory",
+        "Only academic marks",
+        "Only preferred court timings"
+      ],
+      "why": "The client needs to know potentially relevant relationships and interests before the advocate accepts the work.",
+      "cue": "Disclose the connection first.",
+      "ref": "Rule 147",
+      "source": "Ethics",
+      "scenario": "Your potential client does not know your connection with the opposing party. What must you disclose before taking the work?",
+      "refDrill": true
+    },
+    {
+      "id": "Ethics-11",
+      "subject": "Ethics",
+      "topic": "Conflicting interests",
+      "q": "Which Rule directly says an advocate shall not represent conflicting interests?",
+      "answer": "Rule 148",
+      "wrong": [
+        "Rule 134",
+        "Rule 166",
+        "Rule 175B"
+      ],
+      "why": "The rule protects independent loyalty in representation. Being paid by both sides does not remove the conflict.",
+      "cue": "148 = conflicting interests.",
+      "ref": "Rule 148",
+      "source": "Ethics",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Ethics-12",
+      "subject": "Ethics",
+      "topic": "Client property",
+      "q": "What must an advocate do with client money or property?",
+      "answer": "Keep it separate from their own and promptly report receipt",
+      "wrong": [
+        "Treat it as personal income immediately",
+        "Lend it without permission",
+        "Hide its receipt"
+      ],
+      "why": "Rule 150 prohibits commingling and requires prompt reporting of receipt. Possession does not equal ownership.",
+      "cue": "Client funds stay client funds.",
+      "ref": "Rule 150",
+      "source": "Ethics",
+      "scenario": "Money belonging to a client arrives in your hands. How should it be handled?",
+      "refDrill": true
+    },
+    {
+      "id": "Ethics-13",
+      "subject": "Ethics",
+      "topic": "Advice about illegality",
+      "q": "Rule 152 generally prohibits advising violation of law but preserves which advice?",
+      "answer": "Good-faith advice that a law is invalid",
+      "wrong": [
+        "Advice to bribe a witness",
+        "Advice to destroy evidence",
+        "Advice to deceive the court"
+      ],
+      "why": "Questioning a law's validity in good faith differs from counselling unlawful conduct. Keep that distinction clear.",
+      "cue": "Challenge validity in good faith.",
+      "ref": "Rule 152",
+      "source": "Ethics",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "Ethics-14",
+      "subject": "Ethics",
+      "topic": "Personal belief in argument",
+      "q": "May counsel use personal belief in the client's innocence as an argument?",
+      "answer": "It is improper",
+      "wrong": [
+        "It replaces evidence",
+        "It binds the judge",
+        "It guarantees acquittal"
+      ],
+      "why": "Rule 156 confines advocacy to proper submissions, remedies and lawful defence. Counsel's personal assurance is not evidence.",
+      "cue": "Argue the case, not your personal certainty.",
+      "ref": "Rule 156",
+      "source": "Ethics",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "Ethics-15",
+      "subject": "Ethics",
+      "topic": "Advocate as witness",
+      "q": "An advocate is a material witness for the client, beyond merely formal matters. What should they generally do?",
+      "answer": "Leave the trial to other advocates",
+      "wrong": [
+        "Always examine themselves as counsel",
+        "Hide the evidence",
+        "Automatically withdraw the client's claim"
+      ],
+      "why": "Rule 157 separates the roles, with limited qualifications. Attestation or custody of an instrument are examples of merely formal matters.",
+      "cue": "Material witness? Let another advocate conduct trial.",
+      "ref": "Rule 157",
+      "source": "Ethics",
+      "scenario": "You personally witnessed a central disputed event in your client's case. Who should generally conduct the trial?",
+      "refDrill": true
+    },
+    {
+      "id": "Ethics-16",
+      "subject": "Ethics",
+      "topic": "Hiding a witness",
+      "q": "May counsel advise a material witness to conceal themselves or avoid service?",
+      "answer": "No",
+      "wrong": [
+        "Yes if it helps the client",
+        "Only in civil cases",
+        "Only before trial begins"
+      ],
+      "why": "Rule 160 prohibits making material testimony unavailable in this way. Zealous representation remains within the law.",
+      "cue": "Do not make evidence disappear.",
+      "ref": "Rule 160",
+      "source": "Ethics",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "Ethics-17",
+      "subject": "Ethics",
+      "topic": "Overruled authority",
+      "q": "Counsel knows a cited decision was overruled. What must they avoid?",
+      "answer": "Citing it as valid authority without disclosing that fact",
+      "wrong": [
+        "Explaining its historical role",
+        "Disclosing that it was overruled",
+        "Distinguishing a current authority"
+      ],
+      "why": "Rule 161 also forbids intentional misquotation. Accurate treatment of authority is a duty to the court.",
+      "cue": "Know it is overruled? Say so.",
+      "ref": "Rule 161",
+      "source": "Ethics",
+      "scenario": "You find a helpful case but know it was overruled. What use of that decision must you avoid?",
+      "refDrill": true
+    },
+    {
+      "id": "Ethics-18",
+      "subject": "Ethics",
+      "topic": "Prosecutor's duty",
+      "q": "The primary duty of a public prosecutor is what?",
+      "answer": "To see that justice is done",
+      "wrong": [
+        "To secure conviction at any cost",
+        "To conceal exculpatory witnesses",
+        "To satisfy public anger"
+      ],
+      "why": "Rule 163 condemns suppression of facts or witnesses capable of showing innocence. Conviction is not the overriding goal.",
+      "cue": "Prosecutor serves justice.",
+      "ref": "Rule 163",
+      "source": "Ethics",
+      "scenario": "A prosecutor discovers evidence capable of establishing innocence. What is the prosecutor's primary duty?",
+      "refDrill": true
+    },
+    {
+      "id": "Ethics-19",
+      "subject": "Ethics",
+      "topic": "Declining employment",
+      "q": "Which Rule states the general right to decline professional employment?",
+      "answer": "Rule 171",
+      "wrong": [
+        "Rule 170",
+        "Rule 150",
+        "Rule 141"
+      ],
+      "why": "Rule 171 expressly gives the right. Rule 170 instead concerns refusing cases intended merely to harass or injure. The 600-MCQ book mixes these numbers in one question.",
+      "cue": "170 harassment; 171 choice of work.",
+      "ref": "Rules 170-171",
+      "source": "Ethics",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Ethics-20",
+      "subject": "Ethics",
+      "topic": "Misconduct",
+      "q": "Non-observance of the Chapter XII canons is professional misconduct under which provision?",
+      "answer": "Rule 175A",
+      "wrong": [
+        "Rule 134 alone",
+        "Rule 141 alone",
+        "Rule 170 only"
+      ],
+      "why": "Rule 175A addresses the canons. Rule 175B separately treats defiance of Pakistan Bar Council decisions or instructions as gross professional misconduct.",
+      "cue": "175A canons; 175B PBC directions.",
+      "ref": "Rules 175A-175B",
+      "source": "Ethics",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Cases-1",
+      "subject": "Cases",
+      "topic": "Tamiz-ud-Din",
+      "q": "Which Governor-General dissolved the Constituent Assembly in October 1954, leading to the Tamiz-ud-Din litigation?",
+      "answer": "Ghulam Muhammad",
+      "wrong": [
+        "Iskander Mirza",
+        "Ayub Khan",
+        "Yahya Khan"
+      ],
+      "why": "Attach the person and event to the 1955 reported case. The dispute concerned the dissolution and the legal authority used to challenge it.",
+      "cue": "Tamiz: assembly dissolved, 1954; case 1955.",
+      "ref": "PLD 1955 FC 240; book pp. 1-4",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Cases-2",
+      "subject": "Cases",
+      "topic": "Tamiz-ud-Din court",
+      "q": "Which court initially gave Tamiz-ud-Din relief before the Federal Court proceedings?",
+      "answer": "Sindh Chief Court",
+      "wrong": [
+        "Punjab Chief Court",
+        "Federal Shariat Court",
+        "Islamabad High Court"
+      ],
+      "why": "The historical name is Sindh Chief Court. Do not substitute a later court institution into a 1954-55 case.",
+      "cue": "Tamiz began in Sindh Chief Court.",
+      "ref": "PLD 1955 FC 240; book p. 1",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Cases-3",
+      "subject": "Cases",
+      "topic": "Dosso theory",
+      "q": "The State v Dosso is associated with which theorist's account of a successful revolution?",
+      "answer": "Hans Kelsen",
+      "wrong": [
+        "HLA Hart",
+        "John Rawls",
+        "Imam Shafii"
+      ],
+      "why": "The court used Kelsen's theory in treating the changed legal order as effective. This is a historical holding, not a current permission for unconstitutional action.",
+      "cue": "Dosso → Kelsen → revolution.",
+      "ref": "PLD 1958 SC 533; book p. 1",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Cases-4",
+      "subject": "Cases",
+      "topic": "Dosso overruled",
+      "q": "Which case rejected Dosso's approach and treated Yahya Khan as a usurper?",
+      "answer": "Asma Jilani",
+      "wrong": [
+        "Al-Jehad Trust",
+        "Nawaz Sharif",
+        "Khan Asfandyar Wali"
+      ],
+      "why": "The 1972 case rejected the earlier validation approach. Pair the two decisions to avoid learning them as disconnected names.",
+      "cue": "Dosso 1958; Asma reverses in 1972.",
+      "ref": "PLD 1972 SC 139; book pp. 1-2",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Cases-5",
+      "subject": "Cases",
+      "topic": "Asma Jilani's petition",
+      "q": "Asma Jilani sought relief concerning the detention of whom?",
+      "answer": "Her father, Malik Ghulam Jilani",
+      "wrong": [
+        "Her husband",
+        "Her brother",
+        "Her mother"
+      ],
+      "why": "The case involved detention challenges, including Asma Jilani's challenge concerning her father. This fact anchors the name to the case.",
+      "cue": "Asma sought her father's release.",
+      "ref": "PLD 1972 SC 139; book p. 2",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Cases-6",
+      "subject": "Cases",
+      "topic": "Nusrat Bhutto",
+      "q": "The 1977 judgment validating Zia's takeover relied on which doctrine?",
+      "answer": "State necessity",
+      "wrong": [
+        "Res judicata",
+        "Promissory estoppel",
+        "Adverse possession"
+      ],
+      "why": "Remember this as the reasoning of that historical decision. It should not be treated as a statement that every takeover is lawful.",
+      "cue": "Nusrat 1977 = necessity.",
+      "ref": "PLD 1977 SC 657; book p. 2",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Cases-7",
+      "subject": "Cases",
+      "topic": "Nawaz Sharif",
+      "q": "What happened to the National Assembly after the Supreme Court's decision in Nawaz Sharif v President in 1993?",
+      "answer": "It was restored",
+      "wrong": [
+        "It was permanently abolished",
+        "It became the Senate",
+        "It was converted into a tribunal"
+      ],
+      "why": "The court set aside the presidential dissolution in that case. Distinguish restoration in 1993 from cases validating military takeovers.",
+      "cue": "Nawaz 1993 = restoration.",
+      "ref": "PLD 1993 SC 473; book p. 3",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Cases-8",
+      "subject": "Cases",
+      "topic": "Al-Jehad Trust",
+      "q": "The 1996 Al-Jehad Trust case is principally associated with what?",
+      "answer": "Judicial appointments and meaningful consultation",
+      "wrong": [
+        "Theft of movable property",
+        "Police bail",
+        "UN membership"
+      ],
+      "why": "Often called the Judges' Case, it concerned the judicial appointment process. Consultation was treated as meaningful and effective, not a formality.",
+      "cue": "Al-Jehad = judges and consultation.",
+      "ref": "PLD 1996 SC 324; book p. 3",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Cases-9",
+      "subject": "Cases",
+      "topic": "Zafar Ali Shah",
+      "q": "In Zafar Ali Shah, what period was allowed from the October 1999 takeover for the declared objectives?",
+      "answer": "Three years",
+      "wrong": [
+        "Ninety days",
+        "One year",
+        "Five years"
+      ],
+      "why": "The historical judgment specified three years from the takeover. Do not confuse it with the ordinary term of the National Assembly.",
+      "cue": "Zafar = 3 years from 1999.",
+      "ref": "PLD 2000 SC 869; book pp. 3-4",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Cases-10",
+      "subject": "Cases",
+      "topic": "Khan Asfandyar Wali",
+      "q": "Khan Asfandyar Wali v Federation is associated with constitutional scrutiny of which law?",
+      "answer": "National Accountability Ordinance, 1999",
+      "wrong": [
+        "UN Charter",
+        "CPC Order VII",
+        "QSO Article 71 alone"
+      ],
+      "why": "The case concerns the accountability framework and constitutional objections to it. It is one of the eight named cases in HEC's outline.",
+      "cue": "Asfandyar = accountability.",
+      "ref": "PLD 2001 SC 607; book p. 4",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "International-1",
+      "subject": "International",
+      "topic": "UN organs",
+      "q": "Which is NOT a principal organ of the United Nations?",
+      "answer": "World Trade Organization",
+      "wrong": [
+        "General Assembly",
+        "Security Council",
+        "International Court of Justice"
+      ],
+      "why": "The WTO is a separate organisation. The UN Charter lists six principal organs, including the ICJ.",
+      "cue": "WTO is outside the six.",
+      "ref": "UN Charter, Article 7",
+      "source": "un",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "International-2",
+      "subject": "International",
+      "topic": "UN admission",
+      "q": "New UN membership is decided by the General Assembly on whose recommendation?",
+      "answer": "Security Council",
+      "wrong": [
+        "International Court of Justice",
+        "World Bank",
+        "International Criminal Court"
+      ],
+      "why": "Article 4 requires the Security Council's recommendation and General Assembly decision. Membership is not granted by the ICJ.",
+      "cue": "Council recommends; Assembly admits.",
+      "ref": "UN Charter, Article 4",
+      "source": "un",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "International-3",
+      "subject": "International",
+      "topic": "Security Council size",
+      "q": "How many members does the Security Council have?",
+      "answer": "Fifteen",
+      "wrong": [
+        "Five",
+        "Ten",
+        "Fifty-four"
+      ],
+      "why": "Five are permanent and ten are elected non-permanent members. Do not confuse total membership with permanent seats.",
+      "cue": "5 + 10 = 15.",
+      "ref": "UN Charter, Article 23",
+      "source": "un",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "International-4",
+      "subject": "International",
+      "topic": "Elected Council term",
+      "q": "The Security Council's elected non-permanent members serve for how long?",
+      "answer": "Two years",
+      "wrong": [
+        "One year",
+        "Five years",
+        "Nine years"
+      ],
+      "why": "Article 23 gives a two-year term. This differs from the ICJ judges' nine-year term.",
+      "cue": "Council elected seat = 2 years.",
+      "ref": "UN Charter, Article 23",
+      "source": "un",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "International-5",
+      "subject": "International",
+      "topic": "General Assembly voting",
+      "q": "Important General Assembly questions generally require what majority of members present and voting?",
+      "answer": "Two-thirds",
+      "wrong": [
+        "One-quarter",
+        "Every UN member unanimously",
+        "One permanent member's vote"
+      ],
+      "why": "Article 18 distinguishes important questions from other questions. The denominator is members present and voting.",
+      "cue": "Important = two-thirds present and voting.",
+      "ref": "UN Charter, Article 18",
+      "source": "un",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "International-6",
+      "subject": "International",
+      "topic": "Self-defence",
+      "q": "Which Charter Article recognises individual or collective self-defence if an armed attack occurs?",
+      "answer": "Article 51",
+      "wrong": [
+        "Article 7",
+        "Article 23",
+        "Article 96"
+      ],
+      "why": "The right is subject to the Charter's terms, including reporting measures to the Security Council. It is not an unlimited licence to use force.",
+      "cue": "51 = self-defence.",
+      "ref": "UN Charter, Article 51",
+      "source": "un",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "International-7",
+      "subject": "International",
+      "topic": "ICJ membership",
+      "q": "The ICJ ordinarily consists of how many judges?",
+      "answer": "Fifteen",
+      "wrong": [
+        "Nine",
+        "Five",
+        "Twenty-one"
+      ],
+      "why": "The Court has fifteen members, with no two nationals of the same state. Nine is the quorum, not the total membership.",
+      "cue": "ICJ 15 members; 9 quorum.",
+      "ref": "ICJ Statute, Article 3",
+      "source": "icj",
+      "scenario": "Do not confuse the minimum sitting quorum with total membership: how many judges make up the ICJ?",
+      "refDrill": false
+    },
+    {
+      "id": "International-8",
+      "subject": "International",
+      "topic": "ICJ term",
+      "q": "An ICJ judge is elected for a term of how many years?",
+      "answer": "Nine",
+      "wrong": [
+        "Two",
+        "Three",
+        "Five"
+      ],
+      "why": "Nine-year terms differ from the Court President's three-year term and the Security Council elected members' two years.",
+      "cue": "Judge 9; President 3.",
+      "ref": "ICJ Statute, Articles 13 and 21",
+      "source": "icj",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "International-9",
+      "subject": "International",
+      "topic": "ICJ quorum",
+      "q": "What quorum of judges is sufficient to constitute the ICJ?",
+      "answer": "Nine",
+      "wrong": [
+        "Five",
+        "Seven",
+        "Fifteen always"
+      ],
+      "why": "A quorum is the minimum required to constitute the court under the provision, not its complete membership.",
+      "cue": "Nine can constitute the Court.",
+      "ref": "ICJ Statute, Article 25",
+      "source": "icj",
+      "scenario": "The ICJ has fifteen members. How many judges constitute the required quorum?",
+      "refDrill": false
+    },
+    {
+      "id": "International-10",
+      "subject": "International",
+      "topic": "ICJ parties",
+      "q": "Who may be parties in contentious cases before the ICJ?",
+      "answer": "States only",
+      "wrong": [
+        "Any private individual directly",
+        "Any company directly",
+        "Any domestic court"
+      ],
+      "why": "Article 34 limits parties to states. Individuals' cases are not brought directly as contentious ICJ cases.",
+      "cue": "ICJ contentious parties = states.",
+      "ref": "ICJ Statute, Article 34",
+      "source": "icj",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "English-1",
+      "subject": "English",
+      "topic": "Salmond's definition",
+      "q": "Salmond describes law through principles recognised and applied by the State in what?",
+      "answer": "The administration of justice",
+      "wrong": [
+        "Private advertising",
+        "Religious ritual alone",
+        "Economic forecasting"
+      ],
+      "why": "The administration of justice is central to this definition. Keep the author linked to the definition rather than treating all jurists' accounts as identical.",
+      "cue": "Salmond → State → justice.",
+      "ref": "Salmond topic; book p. 19",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "English-2",
+      "subject": "English",
+      "topic": "Imperative law",
+      "q": "Imperative law is a rule imposed by an authority that does what?",
+      "answer": "Enforces obedience",
+      "wrong": [
+        "Only offers optional entertainment",
+        "Never demands compliance",
+        "Merely records history"
+      ],
+      "why": "The defining feature is an authoritative precept or command. The source's word is authority; it need not be reduced to 'sovereign only' in every classification.",
+      "cue": "Imperative = authoritative command.",
+      "ref": "Salmond topic; book p. 17",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "English-3",
+      "subject": "English",
+      "topic": "Conventional law",
+      "q": "Conventional law consists of rules based on what?",
+      "answer": "Agreement regulating conduct",
+      "wrong": [
+        "A judge's accidental remark",
+        "Physical force alone",
+        "Biological inheritance"
+      ],
+      "why": "Agreement is the organising idea. Distinguish it from custom, which develops through established practice.",
+      "cue": "Convention = agreement.",
+      "ref": "Salmond topic; book p. 17",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "English-4",
+      "subject": "English",
+      "topic": "Obiter dicta",
+      "q": "A judicial remark not necessary to decide the case is called what?",
+      "answer": "Obiter dictum",
+      "wrong": [
+        "Ratio decidendi",
+        "Res judicata",
+        "A decree-holder"
+      ],
+      "why": "Obiter is a statement beyond the necessary basis of the decision. It may be persuasive but is different from the ratio.",
+      "cue": "Obiter = beside the necessary reason.",
+      "ref": "Precedent topic; book p. 17",
+      "source": "book",
+      "scenario": "A judgment contains an interesting legal observation unnecessary to its outcome. Which term fits?",
+      "refDrill": false
+    },
+    {
+      "id": "English-5",
+      "subject": "English",
+      "topic": "Ratio decidendi",
+      "q": "What is the legal principle necessary to the court's decision commonly called?",
+      "answer": "Ratio decidendi",
+      "wrong": [
+        "Obiter dictum",
+        "Corpus possessionis",
+        "Jus soli"
+      ],
+      "why": "The ratio is the necessary legal basis of the decision. Not every sentence in a judgment has that status.",
+      "cue": "Ratio = reason needed for result.",
+      "ref": "Precedent topic; book p. 17",
+      "source": "book",
+      "scenario": "You isolate the legal principle needed to reach the judgment's result. Which term fits?",
+      "refDrill": false
+    },
+    {
+      "id": "English-6",
+      "subject": "English",
+      "topic": "Possession",
+      "q": "The traditional elements of possession are what?",
+      "answer": "Corpus and animus",
+      "wrong": [
+        "Mens rea and actus reus",
+        "Plaint and decree",
+        "Offer and acceptance"
+      ],
+      "why": "Corpus concerns control; animus concerns the intention associated with possession. Mens rea and actus reus belong to criminal analysis.",
+      "cue": "Possession: control + intention.",
+      "ref": "Possession topic; book p. 19",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "English-7",
+      "subject": "English",
+      "topic": "Legal positivism",
+      "q": "Which statement captures a central positivist distinction?",
+      "answer": "Legal validity does not necessarily depend on moral merit",
+      "wrong": [
+        "Every immoral rule is automatically not law",
+        "Law and morality always mean the same thing",
+        "Only popular rules are laws"
+      ],
+      "why": "The issue is identifying law, not praising it. A positivist can recognise a rule as legally valid while condemning its morality.",
+      "cue": "Existence of law differs from its goodness.",
+      "ref": "Positivism topic; book pp. 18-19",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "English-8",
+      "subject": "English",
+      "topic": "Legislation",
+      "q": "The formal making of legal rules by a competent authority is called what?",
+      "answer": "Legislation",
+      "wrong": [
+        "Obiter dictum",
+        "Possession",
+        "Estoppel"
+      ],
+      "why": "Legislation is a source of law made through an authorised lawmaking process. A stray courtroom comment is not legislation.",
+      "cue": "Competent lawmaking = legislation.",
+      "ref": "Sources of law; book p. 17",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "English-9",
+      "subject": "English",
+      "topic": "Delegated legislation",
+      "q": "Bylaws made by an authorised local authority are an example of what?",
+      "answer": "Subordinate legislation",
+      "wrong": [
+        "A constitutional amendment automatically",
+        "A judicial confession",
+        "A treaty automatically"
+      ],
+      "why": "The authority acts under powers conferred by a higher legal source. Delegated lawmaking must remain within that authority.",
+      "cue": "Delegated power makes subordinate rules.",
+      "ref": "Salmond topic; book p. 17",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "English-10",
+      "subject": "English",
+      "topic": "Jus soli",
+      "q": "Jus soli identifies nationality by which connecting factor?",
+      "answer": "Place of birth",
+      "wrong": [
+        "Blood relationship",
+        "Property value",
+        "Profession"
+      ],
+      "why": "Distinguish jus soli from jus sanguinis, which uses descent. This is a terminology question, not a claim that every country follows the same nationality rules.",
+      "cue": "Soli = soil.",
+      "ref": "Nationality terminology; book p. 18",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Islamic-1",
+      "subject": "Islamic",
+      "topic": "Primary sources",
+      "q": "In the syllabus's classification, Sunnah is what kind of source?",
+      "answer": "Primary source",
+      "wrong": [
+        "Unrecognised source",
+        "Only a modern statute",
+        "Merely a private custom"
+      ],
+      "why": "Sunnah is studied with the Quran among the primary textual sources. Rational techniques have a different role in derivation.",
+      "cue": "Quran and Sunnah: start here.",
+      "ref": "Nyazee topic; book p. 21",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Islamic-2",
+      "subject": "Islamic",
+      "topic": "Ijtihad",
+      "q": "A qualified jurist's effort to derive rules through interpretation is what?",
+      "answer": "Ijtihad",
+      "wrong": [
+        "Taqlid",
+        "Sarf",
+        "Junun"
+      ],
+      "why": "Ijtihad is the interpretive effort. Mujtahid is the person qualified to undertake it.",
+      "cue": "Ijtihad = effort; mujtahid = jurist.",
+      "ref": "Nyazee topic; book pp. 21-22",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Islamic-3",
+      "subject": "Islamic",
+      "topic": "Mujtahid",
+      "q": "Who is qualified to derive law directly from its sources through ijtihad?",
+      "answer": "Mujtahid",
+      "wrong": [
+        "Muqallid",
+        "Any witness automatically",
+        "Any litigant automatically"
+      ],
+      "why": "The term concerns the jurist's qualifications for independent derivation. It is different from following another jurist's conclusion.",
+      "cue": "Mujtahid does ijtihad.",
+      "ref": "Nyazee topic; book p. 21",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Islamic-4",
+      "subject": "Islamic",
+      "topic": "Qiyas",
+      "q": "Extending a rule to a new case through a shared effective cause is what?",
+      "answer": "Qiyas",
+      "wrong": [
+        "Ijma",
+        "Istishab",
+        "Sarf"
+      ],
+      "why": "Qiyas is analogy. Identify the original case, new case, rule and shared effective cause rather than merely noticing superficial similarity.",
+      "cue": "New case, same effective cause.",
+      "ref": "Nyazee topic; book pp. 21-22",
+      "source": "book",
+      "scenario": "A jurist extends a known rule to a new situation because both share the effective cause. What method is this?",
+      "refDrill": false
+    },
+    {
+      "id": "Islamic-5",
+      "subject": "Islamic",
+      "topic": "Ijma",
+      "q": "Agreement of qualified jurists in the recognised sense is called what?",
+      "answer": "Ijma",
+      "wrong": [
+        "Qiyas",
+        "Istihsan",
+        "Junun"
+      ],
+      "why": "Ijma concerns consensus. Qiyas concerns analogy. These are distinct routes in Islamic legal reasoning.",
+      "cue": "Ijma = consensus.",
+      "ref": "Sources topic; book pp. 21-22",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Islamic-6",
+      "subject": "Islamic",
+      "topic": "Istihsan",
+      "q": "The literal idea behind istihsan is to consider something what?",
+      "answer": "Good or preferable",
+      "wrong": [
+        "Always criminal",
+        "Non-existent",
+        "Necessarily obligatory"
+      ],
+      "why": "Istihsan is commonly translated as juristic preference. The literal meaning is a memory aid, not a complete account of its technical operation.",
+      "cue": "Istihsan = preference.",
+      "ref": "Nyazee topic; book p. 21",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Islamic-7",
+      "subject": "Islamic",
+      "topic": "Istishab",
+      "q": "Presuming an established state continues until evidence of change is associated with what?",
+      "answer": "Istishab",
+      "wrong": [
+        "Qiyas",
+        "Sarf",
+        "Ijma"
+      ],
+      "why": "Istishab reasons from continuity of an existing condition. It is different from extending a rule by analogy.",
+      "cue": "What existed continues unless changed.",
+      "ref": "Nyazee topic; book p. 22",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Islamic-8",
+      "subject": "Islamic",
+      "topic": "Fiqh",
+      "q": "The literal sense of fiqh is what?",
+      "answer": "Understanding or discernment",
+      "wrong": [
+        "Physical possession",
+        "A fixed tax",
+        "A court building"
+      ],
+      "why": "Fiqh concerns understanding of the law. The book distinguishes Shariah as law from fiqh as knowledge of it.",
+      "cue": "Fiqh = understanding.",
+      "ref": "Nyazee topic; book p. 23",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "Islamic-9",
+      "subject": "Islamic",
+      "topic": "Mandub",
+      "q": "An act encouraged without a binding demand and without blame for omission is what?",
+      "answer": "Mandub",
+      "wrong": [
+        "Haram",
+        "Wajib",
+        "Fard"
+      ],
+      "why": "Mandub is recommended. Obligatory categories involve a binding demand, while haram is prohibited. Do not confuse encouragement with a binding obligation.",
+      "cue": "Recommended, not compulsory.",
+      "ref": "Nyazee classification; book p. 23",
+      "source": "book",
+      "scenario": "An act is encouraged, but leaving it does not attract blame. Which category fits?",
+      "refDrill": false
+    },
+    {
+      "id": "Islamic-10",
+      "subject": "Islamic",
+      "topic": "Legal capacity",
+      "q": "The ability to acquire rights and bear or perform duties is discussed under which term?",
+      "answer": "Ahliyyah",
+      "wrong": [
+        "Junun",
+        "Sarf",
+        "Kaffarah"
+      ],
+      "why": "Ahliyyah concerns legal capacity. Different aspects address acquisition of rights and valid exercise or performance.",
+      "cue": "Ahliyyah = capacity.",
+      "ref": "Nyazee topic; book p. 23",
+      "source": "book",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "PPC-1",
+      "subject": "PPC",
+      "topic": "Dishonestly",
+      "q": "Under the PPC, doing something with the intention of causing wrongful gain or wrongful loss is doing it how?",
+      "answer": "Dishonestly",
+      "wrong": [
+        "Accidentally",
+        "Judicially",
+        "Necessarily in good faith"
+      ],
+      "why": "Section 24 connects dishonesty to the intention of wrongful gain or loss. Actual success is not part of this definition's wording.",
+      "cue": "Dishonesty: wrongful gain or loss intended.",
+      "ref": "Section 24",
+      "source": "PPC",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "PPC-2",
+      "subject": "PPC",
+      "topic": "Fraudulently",
+      "q": "Under section 25, an act is done fraudulently when done with what?",
+      "answer": "Intent to defraud",
+      "wrong": [
+        "Mere carelessness only",
+        "A court fee",
+        "The victim's permission in every case"
+      ],
+      "why": "Fraudulent and dishonest are separately defined. For this definition, look specifically for intent to defraud.",
+      "cue": "Fraudulently = intent to defraud.",
+      "ref": "Section 25",
+      "source": "PPC",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "PPC-3",
+      "subject": "PPC",
+      "topic": "Injury",
+      "q": "PPC section 44 includes illegally caused harm to body, mind, reputation or what?",
+      "answer": "Property",
+      "wrong": [
+        "Only physical strength",
+        "Only citizenship",
+        "Only employment rank"
+      ],
+      "why": "Injury has a wider legal meaning than a bodily wound. Harm to reputation or property can fall within the definition.",
+      "cue": "Body, mind, reputation, property.",
+      "ref": "Section 44",
+      "source": "PPC",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "PPC-4",
+      "subject": "PPC",
+      "topic": "Good faith",
+      "q": "The PPC definition requires what for a thing to be done or believed in good faith?",
+      "answer": "Due care and attention",
+      "wrong": [
+        "Only a claim of honesty",
+        "Only a person's confidence",
+        "Only a favourable result"
+      ],
+      "why": "Section 52 says a thing done or believed without due care and attention is not in good faith. Sincerity alone is insufficient.",
+      "cue": "Good faith needs care.",
+      "ref": "Section 52",
+      "source": "PPC",
+      "scenario": "A person honestly believes a claim but exercised no due care or attention. What does PPC good faith require?",
+      "refDrill": true
+    },
+    {
+      "id": "PPC-5",
+      "subject": "PPC",
+      "topic": "Mistake",
+      "q": "The protection in section 76 concerns good-faith mistake of what?",
+      "answer": "Fact, not law",
+      "wrong": [
+        "Law only",
+        "Both without distinction",
+        "Neither under any circumstances"
+      ],
+      "why": "A person may believe themselves bound by law because they reasonably mistake the facts. Merely not knowing the law is different.",
+      "cue": "Mistake of fact, not ignorance of law.",
+      "ref": "Section 76",
+      "source": "PPC",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "PPC-6",
+      "subject": "PPC",
+      "topic": "Accident",
+      "q": "Section 80 requires a lawful act, lawful manner and means, and what else?",
+      "answer": "Proper care and caution, without criminal intent or knowledge",
+      "wrong": [
+        "An unlawful aim",
+        "An automatic immunity after any accident",
+        "Only a verbal apology"
+      ],
+      "why": "An event being called an accident is not enough. The act and manner must meet the statutory conditions.",
+      "cue": "Lawful + careful + no criminal intent.",
+      "ref": "Section 80",
+      "source": "PPC",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "PPC-7",
+      "subject": "PPC",
+      "topic": "Unsoundness of mind",
+      "q": "The section 84 test focuses on incapacity at what time?",
+      "answer": "At the time of doing the act",
+      "wrong": [
+        "Only at sentencing",
+        "Only during childhood",
+        "Only when arrested"
+      ],
+      "why": "The test concerns inability to know the nature of the act or that it is wrong or contrary to law because of unsoundness of mind at that time.",
+      "cue": "Capacity when the act happened.",
+      "ref": "Section 84",
+      "source": "PPC",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "PPC-8",
+      "subject": "PPC",
+      "topic": "Private defence",
+      "q": "Section 96 states that an act in exercise of the right of private defence is what?",
+      "answer": "Not an offence",
+      "wrong": [
+        "Always an offence",
+        "Always a civil decree",
+        "Automatically murder"
+      ],
+      "why": "The right has limits in the following provisions. Calling an act self-defence does not make every degree of force lawful.",
+      "cue": "A right with statutory limits.",
+      "ref": "Sections 96-99",
+      "source": "PPC",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "PPC-9",
+      "subject": "PPC",
+      "topic": "Adult in qatl provisions",
+      "q": "In section 299's definitions, adult means a person aged at least what?",
+      "answer": "Eighteen years",
+      "wrong": [
+        "Seven years",
+        "Twelve years",
+        "Twenty-one years"
+      ],
+      "why": "This is the specific Chapter XVI definition. Do not confuse it with other age tests in criminal or civil law.",
+      "cue": "299 adult = 18.",
+      "ref": "Section 299(a)",
+      "source": "PPC",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "PPC-10",
+      "subject": "PPC",
+      "topic": "Tazir",
+      "q": "Under section 299, tazir means punishment other than what?",
+      "answer": "Qisas, diyat, arsh or daman",
+      "wrong": [
+        "Imprisonment only",
+        "Fine only",
+        "Every sentence imposed by a judge"
+      ],
+      "why": "The definition is by exclusion of these named categories. Tazir is punishment, not the offence itself.",
+      "cue": "Tazir = punishment outside those four categories.",
+      "ref": "Section 299(l)",
+      "source": "PPC",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "PPC-11",
+      "subject": "PPC",
+      "topic": "Arsh",
+      "q": "Compensation specified in the Chapter for hurt is called what?",
+      "answer": "Arsh",
+      "wrong": [
+        "Daman",
+        "Qisas",
+        "Theft"
+      ],
+      "why": "Arsh is specified compensation. Daman is court-determined compensation for hurt not liable to arsh, so do not swap them.",
+      "cue": "Arsh specified; daman determined.",
+      "ref": "Section 299(b), (d)",
+      "source": "PPC",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "PPC-12",
+      "subject": "PPC",
+      "topic": "No wali",
+      "q": "For qatl, when there is no wali, who has the right of qisas under section 305?",
+      "answer": "The Government",
+      "wrong": [
+        "Any neighbour",
+        "The investigating officer personally",
+        "The defence advocate"
+      ],
+      "why": "Section 305 identifies the wali and provides for the Government where there is none. The court adjudicates; it does not become the wali merely by hearing the case.",
+      "cue": "No wali: Government.",
+      "ref": "Section 305",
+      "source": "PPC",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "PPC-13",
+      "subject": "PPC",
+      "topic": "Wrongful restraint",
+      "q": "Blocking a person from a direction in which they have a right to proceed is generally what?",
+      "answer": "Wrongful restraint",
+      "wrong": [
+        "Wrongful confinement in every case",
+        "Theft",
+        "Defamation only"
+      ],
+      "why": "Section 339 concerns obstruction of movement in a permitted direction. Confinement adds circumscribing limits that prevent proceeding beyond them.",
+      "cue": "Restraint blocks a direction.",
+      "ref": "Section 339",
+      "source": "PPC",
+      "scenario": "A person unlawfully blocks a road so Bilal cannot travel in a direction he is entitled to take. What offence definition fits?",
+      "refDrill": true
+    },
+    {
+      "id": "PPC-14",
+      "subject": "PPC",
+      "topic": "Wrongful confinement",
+      "q": "Keeping someone within circumscribing limits so they cannot proceed beyond them is what?",
+      "answer": "Wrongful confinement",
+      "wrong": [
+        "Only wrongful restraint with no distinction",
+        "Extortion necessarily",
+        "Criminal breach of trust"
+      ],
+      "why": "Section 340 defines confinement as a form of wrongful restraint within limits. Think of locking someone in a room.",
+      "cue": "Confinement keeps you inside limits.",
+      "ref": "Section 340",
+      "source": "PPC",
+      "scenario": "Bilal is unlawfully locked in a room and cannot pass beyond its limits. What offence definition fits?",
+      "refDrill": true
+    },
+    {
+      "id": "PPC-15",
+      "subject": "PPC",
+      "topic": "Abduction",
+      "q": "Forcing or deceitfully inducing a person to go from a place is defined as what?",
+      "answer": "Abduction",
+      "wrong": [
+        "Theft",
+        "Defamation",
+        "Criminal breach of trust"
+      ],
+      "why": "Section 362 defines abduction. The concept differs from the separately defined categories of kidnapping; punishment depends on the relevant offence.",
+      "cue": "Force or deceit moves a person.",
+      "ref": "Section 362",
+      "source": "PPC",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "PPC-16",
+      "subject": "PPC",
+      "topic": "Theft",
+      "q": "Dishonestly moving movable property out of another's possession without consent is what?",
+      "answer": "Theft",
+      "wrong": [
+        "Extortion",
+        "Defamation",
+        "A civil appeal"
+      ],
+      "why": "Section 378 requires the relevant dishonest intention and movement for taking. Ownership and possession are not interchangeable in every problem.",
+      "cue": "Move another's movable, without consent.",
+      "ref": "Section 378",
+      "source": "PPC",
+      "scenario": "A person dishonestly moves another's watch from their possession without consent to take it. What offence definition fits?",
+      "refDrill": true
+    },
+    {
+      "id": "PPC-17",
+      "subject": "PPC",
+      "topic": "Extortion",
+      "q": "Intentionally putting someone in fear of injury and thereby dishonestly inducing delivery of property is what?",
+      "answer": "Extortion",
+      "wrong": [
+        "Theft by definition in every case",
+        "Only trespass",
+        "Only negligence"
+      ],
+      "why": "Section 383 involves fear-induced delivery. Theft involves taking without consent; extortion uses fear to obtain delivery.",
+      "cue": "Fear makes the victim deliver.",
+      "ref": "Section 383",
+      "source": "PPC",
+      "scenario": "A person intentionally threatens injury and thereby dishonestly obtains delivery of property. What offence definition fits?",
+      "refDrill": true
+    },
+    {
+      "id": "PPC-18",
+      "subject": "PPC",
+      "topic": "Dacoity",
+      "q": "How many persons conjointly committing or attempting robbery, including those present and aiding, make dacoity?",
+      "answer": "Five or more",
+      "wrong": [
+        "Two exactly",
+        "Three or more",
+        "Four exactly"
+      ],
+      "why": "Section 391 counts the persons conjointly involved as specified. Do not use five as the threshold for ordinary robbery.",
+      "cue": "Dacoity = robbery with 5+.",
+      "ref": "Section 391",
+      "source": "PPC",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "PPC-19",
+      "subject": "PPC",
+      "topic": "Criminal breach of trust",
+      "q": "What feature is central to criminal breach of trust?",
+      "answer": "Entrustment or dominion followed by dishonest misuse of property",
+      "wrong": [
+        "A stranger's mere glance at property",
+        "Only a spoken insult",
+        "Any unpaid civil debt automatically"
+      ],
+      "why": "Section 405 requires entrustment or dominion and the specified dishonest conduct. Every contractual default is not automatically this offence.",
+      "cue": "First trust, then dishonest misuse.",
+      "ref": "Section 405",
+      "source": "PPC",
+      "scenario": "Money is entrusted to a person, who then dishonestly misappropriates it. What central feature distinguishes this from a simple taking?",
+      "refDrill": true
+    },
+    {
+      "id": "PPC-20",
+      "subject": "PPC",
+      "topic": "Cheating",
+      "q": "Which concept is central to section 415 cheating?",
+      "answer": "Deception and the specified dishonest or harmful inducement",
+      "wrong": [
+        "Only a later change of mind in every contract",
+        "Mere possession",
+        "Any accident"
+      ],
+      "why": "The statutory forms require deception with the relevant inducement and mental element. A mere failure to perform is not automatically cheating.",
+      "cue": "Deception drives the inducement.",
+      "ref": "Section 415",
+      "source": "PPC",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "CrPC-1",
+      "subject": "CrPC",
+      "topic": "Investigation",
+      "q": "Proceedings to collect evidence conducted by police or an authorised person other than a Magistrate are called what?",
+      "answer": "Investigation",
+      "wrong": [
+        "Inquiry",
+        "Judgment",
+        "Decree"
+      ],
+      "why": "Section 4 distinguishes evidence collection by investigators from inquiry by a Magistrate or court. The role performing the process matters.",
+      "cue": "Police collect: investigation.",
+      "ref": "Section 4(1)(l)",
+      "source": "CrPC",
+      "scenario": "Police collect evidence in the case. What name does CrPC give that process?",
+      "refDrill": true
+    },
+    {
+      "id": "CrPC-2",
+      "subject": "CrPC",
+      "topic": "Inquiry",
+      "q": "Under CrPC, an inquiry is an inquiry other than a trial conducted by whom?",
+      "answer": "A Magistrate or court",
+      "wrong": [
+        "Only a private journalist",
+        "Only an advocate",
+        "Only a police constable"
+      ],
+      "why": "The definition distinguishes inquiry from trial and from police investigation. Do not use the three words interchangeably.",
+      "cue": "Court examines outside trial: inquiry.",
+      "ref": "Section 4(1)(k)",
+      "source": "CrPC",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "CrPC-3",
+      "subject": "CrPC",
+      "topic": "Complaint",
+      "q": "An allegation to a Magistrate seeking action under CrPC, excluding a police report, is what?",
+      "answer": "Complaint",
+      "wrong": [
+        "FIR in every case",
+        "Decree",
+        "Written statement under CPC"
+      ],
+      "why": "A complaint may be oral or written and concern a known or unknown offender. The exclusion of a police report is a frequent test point.",
+      "cue": "Magistrate allegation; not police report.",
+      "ref": "Section 4(1)(h)",
+      "source": "CrPC",
+      "scenario": "Ayesha orally alleges an offence to a Magistrate and asks for action; this is not a police report. What is it?",
+      "refDrill": true
+    },
+    {
+      "id": "CrPC-4",
+      "subject": "CrPC",
+      "topic": "Cognizable offence",
+      "q": "A cognizable offence is one for which police may arrest without what, under the applicable law?",
+      "answer": "Warrant",
+      "wrong": [
+        "Any legal basis at all",
+        "Knowing the allegation",
+        "A court ever existing"
+      ],
+      "why": "The definition links to the Schedule or another law. It does not mean police can act without legal conditions or safeguards.",
+      "cue": "Cognizable: warrant not always required.",
+      "ref": "Section 4(1)(f)",
+      "source": "CrPC",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "CrPC-5",
+      "subject": "CrPC",
+      "topic": "Private arrest",
+      "q": "Under section 59, a private person may arrest someone committing in their view what kind of offence, or a proclaimed offender?",
+      "answer": "A non-bailable and cognizable offence",
+      "wrong": [
+        "Any minor civil wrong",
+        "Every non-cognizable offence",
+        "Any disliked conduct"
+      ],
+      "why": "Both non-bailable and cognizable are required in this branch of the provision. The person must be handed over as the provision directs.",
+      "cue": "Private arrest: both conditions.",
+      "ref": "Section 59",
+      "source": "CrPC",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "CrPC-6",
+      "subject": "CrPC",
+      "topic": "Arrest restraint",
+      "q": "What limit does section 50 place on restraint of an arrested person?",
+      "answer": "No more restraint than necessary to prevent escape",
+      "wrong": [
+        "Unlimited restraint automatically",
+        "No restraint in any case",
+        "Only what the complainant demands"
+      ],
+      "why": "The provision sets necessity as the measure. Arrest does not permit arbitrary extra restraint.",
+      "cue": "Restraint only as necessary.",
+      "ref": "Section 50",
+      "source": "CrPC",
+      "scenario": null,
+      "refDrill": true
+    },
+    {
+      "id": "CrPC-7",
+      "subject": "CrPC",
+      "topic": "Twenty-four hours",
+      "q": "Without a special Magistrate's order under section 167, police detention under section 61 ordinarily cannot exceed what, excluding necessary journey time?",
+      "answer": "Twenty-four hours",
+      "wrong": [
+        "Seven days",
+        "Fifteen days",
+        "Thirty days"
+      ],
+      "why": "Section 61 includes reasonable necessity and the twenty-four-hour ceiling. A Magistrate's remand authority is a separate matter.",
+      "cue": "Police clock: 24 hours, journey excluded.",
+      "ref": "Section 61",
+      "source": "CrPC",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "CrPC-8",
+      "subject": "CrPC",
+      "topic": "Documents",
+      "q": "Which section concerns a summons or written order to produce a document or thing for proceedings?",
+      "answer": "Section 94",
+      "wrong": [
+        "Section 154",
+        "Section 496",
+        "Section 429"
+      ],
+      "why": "Section 94 provides a production mechanism when the document or thing is considered necessary or desirable for the relevant process.",
+      "cue": "94 = produce the document.",
+      "ref": "Section 94",
+      "source": "CrPC",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "CrPC-9",
+      "subject": "CrPC",
+      "topic": "Wrongfully confined person",
+      "q": "Which section concerns a search warrant for a person believed confined in circumstances amounting to an offence?",
+      "answer": "Section 100",
+      "wrong": [
+        "Section 200",
+        "Section 496",
+        "Section 154"
+      ],
+      "why": "This is a search for a person, not simply a search for stolen goods. The discovered person is brought before a Magistrate as provided.",
+      "cue": "100 = find the confined person.",
+      "ref": "Section 100",
+      "source": "CrPC",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "CrPC-10",
+      "subject": "CrPC",
+      "topic": "Keeping the peace",
+      "q": "Section 107 principally concerns security for what?",
+      "answer": "Keeping the peace",
+      "wrong": [
+        "Paying income tax",
+        "Filing a civil appeal",
+        "Registration of land"
+      ],
+      "why": "Preventive proceedings address apprehended breach of peace under statutory conditions. They are different from conviction for a completed offence.",
+      "cue": "107 = preventive peace bond.",
+      "ref": "Section 107",
+      "source": "CrPC",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "CrPC-11",
+      "subject": "CrPC",
+      "topic": "Public nuisance",
+      "q": "A conditional order for removal of public nuisance is associated with which section?",
+      "answer": "Section 133",
+      "wrong": [
+        "Section 154",
+        "Section 497",
+        "Section 429"
+      ],
+      "why": "Section 133 provides a nuisance-removal process. Distinguish it from the urgent temporary-order mechanism of section 144.",
+      "cue": "133 removes nuisance; 144 addresses urgency.",
+      "ref": "Section 133",
+      "source": "CrPC",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "CrPC-12",
+      "subject": "CrPC",
+      "topic": "Urgent orders",
+      "q": "Urgent cases of nuisance or apprehended danger are principally addressed by which section?",
+      "answer": "Section 144",
+      "wrong": [
+        "Section 94",
+        "Section 200",
+        "Section 496"
+      ],
+      "why": "Section 144 is a preventive temporary-order power with legal conditions. It is not a general criminal conviction provision.",
+      "cue": "144 = urgent prevention.",
+      "ref": "Section 144",
+      "source": "CrPC",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "CrPC-13",
+      "subject": "CrPC",
+      "topic": "FIR",
+      "q": "Information relating to a cognizable offence given to the officer in charge is addressed by which section?",
+      "answer": "Section 154",
+      "wrong": [
+        "Section 155",
+        "Section 200",
+        "Section 429"
+      ],
+      "why": "Oral information is reduced to writing, read over and signed as prescribed. Distinguish it from a complaint to a Magistrate.",
+      "cue": "154 = cognizable information/FIR.",
+      "ref": "Section 154",
+      "source": "CrPC",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "CrPC-14",
+      "subject": "CrPC",
+      "topic": "Non-cognizable investigation",
+      "q": "Police generally need whose order to investigate a non-cognizable case under section 155?",
+      "answer": "A Magistrate with the requisite power",
+      "wrong": [
+        "A neighbour",
+        "A newspaper editor",
+        "The accused's employer"
+      ],
+      "why": "Section 155(2) requires the Magistrate's order. Even then, subsection (3) excludes the power to arrest without warrant.",
+      "cue": "155: Magistrate first; no automatic warrantless arrest.",
+      "ref": "Section 155(2)-(3)",
+      "source": "CrPC",
+      "scenario": "Police receive a non-cognizable allegation and want to investigate. Whose order do they generally need?",
+      "refDrill": false
+    },
+    {
+      "id": "CrPC-15",
+      "subject": "CrPC",
+      "topic": "Police statements",
+      "q": "A statement to police during investigation, when reduced to writing under section 162, is generally what?",
+      "answer": "Not to be signed by its maker",
+      "wrong": [
+        "Required to be signed like an FIR",
+        "Automatically a sworn confession",
+        "A civil decree"
+      ],
+      "why": "Do not confuse an FIR under section 154 with an investigation statement governed by section 162. Their signature rules differ.",
+      "cue": "154 signed; 162 not signed.",
+      "ref": "Section 162",
+      "source": "CrPC",
+      "scenario": "A witness gives an investigation statement to police, distinct from the FIR. What is section 162's signature rule?",
+      "refDrill": false
+    },
+    {
+      "id": "CrPC-16",
+      "subject": "CrPC",
+      "topic": "Magistrate confession",
+      "q": "Which provision concerns recording statements and confessions by the specified Magistrate?",
+      "answer": "Section 164",
+      "wrong": [
+        "Section 154",
+        "Section 94",
+        "Section 496"
+      ],
+      "why": "The safeguards include explaining that confession is not obligatory and may be used against the maker, and examining voluntariness.",
+      "cue": "164 = Magistrate and voluntariness.",
+      "ref": "Section 164",
+      "source": "CrPC",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "CrPC-17",
+      "subject": "CrPC",
+      "topic": "Complaint examination",
+      "q": "On taking cognizance on complaint, examination of the complainant on oath, subject to exceptions, is addressed by what?",
+      "answer": "Section 200",
+      "wrong": [
+        "Section 100",
+        "Section 154",
+        "Section 497"
+      ],
+      "why": "This is a complaint route before the Magistrate. Section 204 later concerns issue of process where sufficient ground exists.",
+      "cue": "200 examines complaint; 204 issues process.",
+      "ref": "Sections 200 and 204",
+      "source": "CrPC",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "CrPC-18",
+      "subject": "CrPC",
+      "topic": "Bailable offences",
+      "q": "When a person accused of a bailable offence is prepared to give bail, section 496 generally requires what?",
+      "answer": "Release on bail",
+      "wrong": [
+        "Automatic refusal",
+        "A guilty plea first",
+        "A completed trial first"
+      ],
+      "why": "Bailable and non-bailable cases have different rules. Bail is not an acquittal and does not end the proceedings.",
+      "cue": "496 = bailable release.",
+      "ref": "Section 496",
+      "source": "CrPC",
+      "scenario": "A person accused of a bailable offence is ready to furnish bail. What does section 496 generally require?",
+      "refDrill": false
+    },
+    {
+      "id": "CrPC-19",
+      "subject": "CrPC",
+      "topic": "Further inquiry",
+      "q": "Insufficient reasonable grounds for guilt but sufficient grounds for further inquiry into a non-bailable offence engages which provision?",
+      "answer": "Section 497(2)",
+      "wrong": [
+        "Section 154",
+        "Section 94",
+        "Section 429"
+      ],
+      "why": "The further-inquiry provision directs release on bail, or at the specified discretion on bond without sureties, pending inquiry.",
+      "cue": "497(2) = further inquiry bail.",
+      "ref": "Section 497(2)",
+      "source": "CrPC",
+      "scenario": null,
+      "refDrill": false
+    },
+    {
+      "id": "CrPC-20",
+      "subject": "CrPC",
+      "topic": "Split appellate bench",
+      "q": "Judges in a criminal appeal are equally divided. Section 429 refers the case to whom?",
+      "answer": "Another judge of the same court",
+      "wrong": [
+        "The complainant",
+        "A private arbitrator",
+        "The senior judge automatically decides alone"
+      ],
+      "why": "The additional judge's opinion resolves the matter through the statutory procedure. Equal division does not automatically require a fresh trial.",
+      "cue": "Split appeal → another same-court judge.",
+      "ref": "Section 429",
+      "source": "CrPC",
+      "scenario": null,
+      "refDrill": true
+    }
+  ],
+  "lessons": [
+    {
+      "id": "lesson-1",
+      "number": 1,
+      "day": 1,
+      "subject": "CPC",
+      "ids": [
+        "CPC-1",
+        "CPC-2",
+        "CPC-3",
+        "CPC-4",
+        "CPC-5"
+      ],
+      "title": "Judgment & decree-holder"
+    },
+    {
+      "id": "lesson-2",
+      "number": 2,
+      "day": 1,
+      "subject": "QSO",
+      "ids": [
+        "QSO-1",
+        "QSO-2",
+        "QSO-3",
+        "QSO-4",
+        "QSO-5"
+      ],
+      "title": "Scope & competence"
+    },
+    {
+      "id": "lesson-3",
+      "number": 3,
+      "day": 1,
+      "subject": "Ethics",
+      "ids": [
+        "Ethics-1",
+        "Ethics-2",
+        "Ethics-3",
+        "Ethics-4",
+        "Ethics-5"
+      ],
+      "title": "Professional dignity & private approaches to judges"
+    },
+    {
+      "id": "lesson-4",
+      "number": 4,
+      "day": 1,
+      "subject": "CPC",
+      "ids": [
+        "CPC-6",
+        "CPC-7",
+        "CPC-8",
+        "CPC-9",
+        "CPC-10"
+      ],
+      "title": "Judgment-debtor & constructive res judicata"
+    },
+    {
+      "id": "lesson-5",
+      "number": 5,
+      "day": 1,
+      "subject": "QSO",
+      "ids": [
+        "QSO-6",
+        "QSO-7",
+        "QSO-8",
+        "QSO-9",
+        "QSO-10"
+      ],
+      "title": "Marriage communications & same transaction"
+    },
+    {
+      "id": "lesson-6",
+      "number": 6,
+      "day": 1,
+      "subject": "Constitution",
+      "ids": [
+        "Constitution-1",
+        "Constitution-2",
+        "Constitution-3",
+        "Constitution-4",
+        "Constitution-5"
+      ],
+      "title": "Sovereignty & fair trial"
+    },
+    {
+      "id": "lesson-7",
+      "number": 7,
+      "day": 1,
+      "subject": "Cases",
+      "ids": [
+        "Cases-1",
+        "Cases-2",
+        "Cases-3",
+        "Cases-4",
+        "Cases-5"
+      ],
+      "title": "Tamiz-ud-Din & asma jilani's petition"
+    },
+    {
+      "id": "lesson-8",
+      "number": 8,
+      "day": 1,
+      "subject": "PPC",
+      "ids": [
+        "PPC-1",
+        "PPC-2",
+        "PPC-3",
+        "PPC-4",
+        "PPC-5"
+      ],
+      "title": "Dishonestly & mistake"
+    },
+    {
+      "id": "lesson-9",
+      "number": 9,
+      "day": 1,
+      "subject": "CrPC",
+      "ids": [
+        "CrPC-1",
+        "CrPC-2",
+        "CrPC-3",
+        "CrPC-4",
+        "CrPC-5"
+      ],
+      "title": "Investigation & private arrest"
+    },
+    {
+      "id": "lesson-10",
+      "number": 10,
+      "day": 1,
+      "subject": "English",
+      "ids": [
+        "English-1",
+        "English-2",
+        "English-3",
+        "English-4",
+        "English-5"
+      ],
+      "title": "Salmond's definition & ratio decidendi"
+    },
+    {
+      "id": "lesson-11",
+      "number": 11,
+      "day": 1,
+      "subject": "Islamic",
+      "ids": [
+        "Islamic-1",
+        "Islamic-2",
+        "Islamic-3",
+        "Islamic-4",
+        "Islamic-5"
+      ],
+      "title": "Primary sources & ijma"
+    },
+    {
+      "id": "lesson-12",
+      "number": 12,
+      "day": 1,
+      "subject": "International",
+      "ids": [
+        "International-1",
+        "International-2",
+        "International-3",
+        "International-4",
+        "International-5"
+      ],
+      "title": "UN organs & general assembly voting"
+    },
+    {
+      "id": "lesson-13",
+      "number": 13,
+      "day": 2,
+      "subject": "CPC",
+      "ids": [
+        "CPC-11",
+        "CPC-12",
+        "CPC-13",
+        "CPC-14",
+        "CPC-15"
+      ],
+      "title": "Fraud against a judgment & wrong to person or movables"
+    },
+    {
+      "id": "lesson-14",
+      "number": 14,
+      "day": 2,
+      "subject": "QSO",
+      "ids": [
+        "QSO-11",
+        "QSO-12",
+        "QSO-13",
+        "QSO-14",
+        "QSO-15"
+      ],
+      "title": "Motive and conduct & induced confession"
+    },
+    {
+      "id": "lesson-15",
+      "number": 15,
+      "day": 2,
+      "subject": "Ethics",
+      "ids": [
+        "Ethics-6",
+        "Ethics-7",
+        "Ethics-8",
+        "Ethics-9",
+        "Ethics-10"
+      ],
+      "title": "Additional counsel & disclosing connections"
+    },
+    {
+      "id": "lesson-16",
+      "number": 16,
+      "day": 2,
+      "subject": "CPC",
+      "ids": [
+        "CPC-16",
+        "CPC-17",
+        "CPC-18",
+        "CPC-19",
+        "CPC-20"
+      ],
+      "title": "Other suits & ex parte decree"
+    },
+    {
+      "id": "lesson-17",
+      "number": 17,
+      "day": 2,
+      "subject": "QSO",
+      "ids": [
+        "QSO-16",
+        "QSO-17",
+        "QSO-18",
+        "QSO-19",
+        "QSO-20"
+      ],
+      "title": "Confession to police & expert opinion"
+    },
+    {
+      "id": "lesson-18",
+      "number": 18,
+      "day": 2,
+      "subject": "Constitution",
+      "ids": [
+        "Constitution-6",
+        "Constitution-7",
+        "Constitution-8",
+        "Constitution-9",
+        "Constitution-10"
+      ],
+      "title": "Dignity & education"
+    },
+    {
+      "id": "lesson-19",
+      "number": 19,
+      "day": 2,
+      "subject": "Cases",
+      "ids": [
+        "Cases-6",
+        "Cases-7",
+        "Cases-8",
+        "Cases-9",
+        "Cases-10"
+      ],
+      "title": "Nusrat Bhutto & khan asfandyar wali"
+    },
+    {
+      "id": "lesson-20",
+      "number": 20,
+      "day": 2,
+      "subject": "PPC",
+      "ids": [
+        "PPC-6",
+        "PPC-7",
+        "PPC-8",
+        "PPC-9",
+        "PPC-10"
+      ],
+      "title": "Accident & tazir"
+    },
+    {
+      "id": "lesson-21",
+      "number": 21,
+      "day": 2,
+      "subject": "CrPC",
+      "ids": [
+        "CrPC-6",
+        "CrPC-7",
+        "CrPC-8",
+        "CrPC-9",
+        "CrPC-10"
+      ],
+      "title": "Arrest restraint & keeping the peace"
+    },
+    {
+      "id": "lesson-22",
+      "number": 22,
+      "day": 2,
+      "subject": "English",
+      "ids": [
+        "English-6",
+        "English-7",
+        "English-8",
+        "English-9",
+        "English-10"
+      ],
+      "title": "Possession & jus soli"
+    },
+    {
+      "id": "lesson-23",
+      "number": 23,
+      "day": 2,
+      "subject": "Islamic",
+      "ids": [
+        "Islamic-6",
+        "Islamic-7",
+        "Islamic-8",
+        "Islamic-9",
+        "Islamic-10"
+      ],
+      "title": "Istihsan & legal capacity"
+    },
+    {
+      "id": "lesson-24",
+      "number": 24,
+      "day": 2,
+      "subject": "International",
+      "ids": [
+        "International-6",
+        "International-7",
+        "International-8",
+        "International-9",
+        "International-10"
+      ],
+      "title": "Self-defence & icj parties"
+    },
+    {
+      "id": "lesson-25",
+      "number": 25,
+      "day": 3,
+      "subject": "CPC",
+      "ids": [
+        "CPC-21",
+        "CPC-22",
+        "CPC-23",
+        "CPC-24",
+        "CPC-25"
+      ],
+      "title": "Consent decree & joinder"
+    },
+    {
+      "id": "lesson-26",
+      "number": 26,
+      "day": 3,
+      "subject": "QSO",
+      "ids": [
+        "QSO-21",
+        "QSO-22",
+        "QSO-23",
+        "QSO-24",
+        "QSO-25"
+      ],
+      "title": "Character in civil cases & primary evidence"
+    },
+    {
+      "id": "lesson-27",
+      "number": 27,
+      "day": 3,
+      "subject": "Ethics",
+      "ids": [
+        "Ethics-11",
+        "Ethics-12",
+        "Ethics-13",
+        "Ethics-14",
+        "Ethics-15"
+      ],
+      "title": "Conflicting interests & advocate as witness"
+    },
+    {
+      "id": "lesson-28",
+      "number": 28,
+      "day": 3,
+      "subject": "CPC",
+      "ids": [
+        "CPC-26",
+        "CPC-27",
+        "CPC-28",
+        "CPC-29",
+        "CPC-30"
+      ],
+      "title": "Pleadings & return of plaint"
+    },
+    {
+      "id": "lesson-29",
+      "number": 29,
+      "day": 3,
+      "subject": "QSO",
+      "ids": [
+        "QSO-26",
+        "QSO-27",
+        "QSO-28",
+        "QSO-29",
+        "QSO-30"
+      ],
+      "title": "Secondary evidence & estoppel"
+    },
+    {
+      "id": "lesson-30",
+      "number": 30,
+      "day": 3,
+      "subject": "Constitution",
+      "ids": [
+        "Constitution-11",
+        "Constitution-12",
+        "Constitution-13",
+        "Constitution-14",
+        "Constitution-15"
+      ],
+      "title": "Parliament & absence from sittings"
+    },
+    {
+      "id": "lesson-31",
+      "number": 31,
+      "day": 3,
+      "subject": "PPC",
+      "ids": [
+        "PPC-11",
+        "PPC-12",
+        "PPC-13",
+        "PPC-14",
+        "PPC-15"
+      ],
+      "title": "Arsh & abduction"
+    },
+    {
+      "id": "lesson-32",
+      "number": 32,
+      "day": 3,
+      "subject": "CrPC",
+      "ids": [
+        "CrPC-11",
+        "CrPC-12",
+        "CrPC-13",
+        "CrPC-14",
+        "CrPC-15"
+      ],
+      "title": "Public nuisance & police statements"
+    },
+    {
+      "id": "lesson-33",
+      "number": 33,
+      "day": 3,
+      "subject": "CPC",
+      "ids": [
+        "CPC-31",
+        "CPC-32",
+        "CPC-33",
+        "CPC-34",
+        "CPC-35"
+      ],
+      "title": "No cause of action & neither party appears"
+    },
+    {
+      "id": "lesson-34",
+      "number": 34,
+      "day": 3,
+      "subject": "QSO",
+      "ids": [
+        "QSO-31",
+        "QSO-32",
+        "QSO-33",
+        "QSO-34",
+        "QSO-35"
+      ],
+      "title": "Burden of proof & not heard of for seven years"
+    },
+    {
+      "id": "lesson-35",
+      "number": 35,
+      "day": 3,
+      "subject": "Ethics",
+      "ids": [
+        "Ethics-16",
+        "Ethics-17",
+        "Ethics-18",
+        "Ethics-19",
+        "Ethics-20"
+      ],
+      "title": "Hiding a witness & misconduct"
+    },
+    {
+      "id": "lesson-36",
+      "number": 36,
+      "day": 3,
+      "subject": "Constitution",
+      "ids": [
+        "Constitution-16",
+        "Constitution-17",
+        "Constitution-18",
+        "Constitution-19",
+        "Constitution-20"
+      ],
+      "title": "Money bills & high court writ jurisdiction"
+    },
+    {
+      "id": "lesson-37",
+      "number": 37,
+      "day": 4,
+      "subject": "CPC",
+      "ids": [
+        "CPC-36",
+        "CPC-37",
+        "CPC-38",
+        "CPC-39",
+        "CPC-40"
+      ],
+      "title": "Ex parte proceedings & appeal paperwork"
+    },
+    {
+      "id": "lesson-38",
+      "number": 38,
+      "day": 4,
+      "subject": "QSO",
+      "ids": [
+        "QSO-36",
+        "QSO-37",
+        "QSO-38",
+        "QSO-39",
+        "QSO-40"
+      ],
+      "title": "Examination sequence & modern devices"
+    },
+    {
+      "id": "lesson-39",
+      "number": 39,
+      "day": 4,
+      "subject": "PPC",
+      "ids": [
+        "PPC-16",
+        "PPC-17",
+        "PPC-18",
+        "PPC-19",
+        "PPC-20"
+      ],
+      "title": "Theft & cheating"
+    },
+    {
+      "id": "lesson-40",
+      "number": 40,
+      "day": 4,
+      "subject": "CrPC",
+      "ids": [
+        "CrPC-16",
+        "CrPC-17",
+        "CrPC-18",
+        "CrPC-19",
+        "CrPC-20"
+      ],
+      "title": "Magistrate confession & split appellate bench"
+    }
+  ],
+  "sources": {
+    "CPC": {
+      "label": "Civil Procedure — official text",
+      "local": "sources/CPC-Pakistan-Code.pdf",
+      "url": "https://pakistancode.gov.pk/pdffiles/administrator6598dabbad120033d4d42d717dcf9755.pdf",
+      "status": "Provision checked in linked text; edition and amendments matter"
+    },
+    "QSO": {
+      "label": "Law of Evidence — official text",
+      "local": "sources/QSO-Pakistan-Code.pdf",
+      "url": "https://pakistancode.gov.pk/pdffiles/administrator32b2d132138b421a65ab547a15ecd6ae.pdf",
+      "status": "Provision checked in linked text; edition and amendments matter"
+    },
+    "Constitution": {
+      "label": "Constitution — official text",
+      "local": "sources/Constitution-21-November-2025.pdf",
+      "url": "https://na.gov.pk/uploads/documents/6926e060076ed_467.pdf",
+      "status": "Provision checked in linked text; edition and amendments matter"
+    },
+    "PPC": {
+      "label": "Pakistan Penal Code — official text",
+      "local": "sources/PPC-Pakistan-Code.pdf",
+      "url": "https://pakistancode.gov.pk/pdffiles/administratoracbdabf2b79c8956d6ea4804fcceb92d.pdf",
+      "status": "Provision checked in linked text; edition and amendments matter"
+    },
+    "CrPC": {
+      "label": "Criminal Procedure — official text",
+      "local": "sources/CrPC-Pakistan-Code.pdf",
+      "url": "https://pakistancode.gov.pk/pdffiles/administrator7db1e56f0f1d39a6e67573ec6b0944e2.pdf",
+      "status": "Provision checked in linked text; edition and amendments matter"
+    },
+    "Ethics": {
+      "label": "Professional Ethics — official text",
+      "local": "sources/Professional-ethics-rules.pdf",
+      "url": "https://pakistancode.gov.pk/pdffiles/administrator006d8e1bfde45871ddef6937f29faae7.pdf",
+      "status": "Provision checked in linked text; edition and amendments matter"
+    },
+    "book": {
+      "label": "National Academy / Sir Umar — supplied 600-MCQ compilation",
+      "local": "Law%20GAT%20600%20Important%20MCQ%27s.pdf",
+      "url": "",
+      "status": "Private study source; not an official HEC answer key"
+    },
+    "un": {
+      "label": "United Nations Charter",
+      "local": "sources/UN-Charter-and-ICJ-Statute.pdf",
+      "url": "https://www.un.org/en/about-us/un-charter/full-text",
+      "status": "Official treaty source"
+    },
+    "icj": {
+      "label": "Statute of the International Court of Justice",
+      "local": "sources/UN-Charter-and-ICJ-Statute.pdf",
+      "url": "https://www.un.org/en/about-us/un-charter/statute-of-the-international-court-of-justice",
+      "status": "Official treaty source"
+    },
+    "sample": {
+      "label": "HEC official 50-question sample paper",
+      "local": "sources/HEC-official-sample-paper.pdf",
+      "url": "https://www.hec.gov.pk/english/services/students/etc/Documents/LAW%20GAT%20Sample%20Paper.pdf",
+      "status": "Downloaded from HEC; sample explanations are prepared for Lawlingo"
+    },
+    "syllabus": {
+      "label": "HEC official syllabus and weightage",
+      "local": "sources/HEC-official-syllabus.pdf",
+      "url": "https://www.hec.gov.pk/english/services/students/etc/PublishingImages/Curriculum-LAW-GAT-test.pdf",
+      "status": "Downloaded from HEC; sample explanations are prepared for Lawlingo"
+    },
+    "QSO-amendment": {
+      "label": "QSO Amendment Act 2025",
+      "local": "sources/QSO-Amendment-2025.pdf",
+      "url": "https://na.gov.pk/uploads/documents/695ba2afb8295_297.pdf",
+      "status": "Official Gazette: wording correction in Article 113"
+    }
+  },
+  "subjects": {
+    "CPC": {
+      "label": "Civil Procedure",
+      "summary": "Civil suits, definitions, jurisdiction, pleadings, parties, injunctions and appeals."
+    },
+    "QSO": {
+      "label": "Law of Evidence",
+      "summary": "Relevance, admissions, confessions, documents, burdens and witnesses."
+    },
+    "Constitution": {
+      "label": "Constitution",
+      "summary": "Rights, Parliament and the judiciary; current and historical rules distinguished."
+    },
+    "Cases": {
+      "label": "Constitutional Cases",
+      "summary": "All eight cases named in the HEC outline, from Tamiz-ud-Din to Asfandyar Wali."
+    },
+    "International": {
+      "label": "International Law",
+      "summary": "UN Charter and International Court of Justice."
+    },
+    "English": {
+      "label": "English Jurisprudence",
+      "summary": "Salmond, sources, precedent, possession and core legal terminology."
+    },
+    "Islamic": {
+      "label": "Islamic Jurisprudence",
+      "summary": "Sources, interpretation, consensus, analogy and legal capacity."
+    },
+    "PPC": {
+      "label": "Pakistan Penal Code",
+      "summary": "General principles, exceptions, offences against persons and property."
+    },
+    "CrPC": {
+      "label": "Criminal Procedure",
+      "summary": "Investigation, arrest, complaints, bail and criminal appeals."
+    },
+    "Ethics": {
+      "label": "Professional Ethics",
+      "summary": "Advocate conduct towards clients, colleagues and courts."
+    }
+  },
+  "weights": {
+    "CPC": 20,
+    "QSO": 20,
+    "Constitution": 10,
+    "Cases": 5,
+    "International": 5,
+    "English": 5,
+    "Islamic": 5,
+    "PPC": 10,
+    "CrPC": 10,
+    "Ethics": 10
+  },
+  "dayTitles": {
+    "1": "14 Oct · Build your foundations",
+    "2": "15 Oct · Strengthen and connect",
+    "3": "16 Oct · Finish the main learning",
+    "4": "17 Oct · Final ideas, mock and repair"
+  },
+  "scope": "===PAGE 1===\nSyllabus for Law Graduate Assessment Test (LAW-GAT)\n\nSr. \n\nNo. Title Sub-Total\n\nof MCQ’s\n\nTotal of \n\nMCQ’s\n\n1.\n\nConstitution\n\n1) Constitutional History of Pakistan (Cases) \n\ni. Maulvi Tamiz-ud-Din Khan vs. Governor General of \n\nPakistan (PLD 1955 F.C. 240).\n\nii. The State vs. Dosso and Other (PLD 1958 S.C. 533).\n\niii. Miss Asma Jilani vs Government of Pakistan (PLD \n\n1972 S.C. 139).\n\niv. Begum Nusrat Bhutto vs. Chief of Army Staff. (PLD \n\n1977 S.C 657).\n\nv. Muhammad Nawaz Sharif vs. President of Pakistan. \n\n(PLD 1993 S.C. 473).\n\nvi. Al-Jehad Trust vs Federation of Pakistan (Judges case) \n\n(PLD 1996 S.C. 324).\n\nvii. Zafar Ali Shah and others vs. General Pervez \n\nMusharraf, Chief Executive of Pakistan (PLD 2000 \n\nS.C. 869).\n\nviii. Khan Asfandyar Wali and others vs. Federation of \n\nPakistan (PLD 2001 S.C. 607).\n\n05\n\n 20\n\n2) Constitution of Pakistan, 1973 (Fundamental Rights, i.e.,\n\nFrom Preamble to articles 40; Parliament, i.e., Articles 50-\n\n89; The Judicature, i.e., Articles 175-212). 10\n\n3) International Law \n\ni. United Nation Charter\n\nii. International Court of Justice 05\n\n2.\n\nJurisprudence\n\n1) English: (Jurisprudence by Sir John Salmond for LLB \n\nStudent)\n\n05\n\n10\n\n2) Islamic: (Islamic Jurisprudence by Prof Imran Ahsan Khan \n\nNyazee) 05\n\n3.\n\nCivil Procedure Code\n\nCPC (From Preamble to 12, 15-20, 47, 75, 96, 104, 115, 151. \n\nOrders 1, 6-9, 39, 41, 43). 20 20\n\n4.\n\nCriminal Law\n\n1) P.P.C. \n\n10 20\n===PAGE 2===\ni. Chapter 2 (General Explanations/Definitions).\n\nii. Chapter 4 (General Exception) \n\niii. Chapter 16 (Offences Affecting the Human Body).\n\niv. Chapter 16-A (Wrongful restraint & Wrongful \n\nConfinement).\n\nv. Chapter 17 (Offences against Property).\n\n2) Cr. P.C. \n\ni. Chapter 1 (Preliminary Definitions). \n\nii. Chapter 5 (Arrest, Escape and Retaking).\n\niii. Chapter 7 (Processes to compel the production of \n\ndocuments & other moveable property, and for the \n\ndiscovery of persons wrongfully confined).\n\niv. Chapter 8 (Security for keeping the peace and for \n\ngood behavior).\n\nv. Chapter 10 (Public Nuisance)\n\nvi. Chapter 11 (Temporary orders in urgent cases of \n\nnuisance and apprehended danger).\n\nvii. Chapter 14 (Information to the police and their \n\npowers to investigate-FIR).\n\nviii. Chapter 16 (Complaints to magistrate).\n\nix. Chapter 17 (The commencement of proceedings \n\nbefore court).\n\nx. Chapter 31 (of Appeals)\n\nxi. Chapter 39 (of Bail)\n\n10\n\n5. Law of Evidence\n\nQanoon-e-Shahdat Order, 1984 20 20\n\n6. Professional Ethics\n\nCanons of Professional conducts and Etiquette of Advocates\n\nCh 12 (Rule 134- 175 B) Pakistan Legal Practitioners & Bar \n\nCouncils Rules, 1976.\n\n10 10\n\nTotal 100 100"
+}

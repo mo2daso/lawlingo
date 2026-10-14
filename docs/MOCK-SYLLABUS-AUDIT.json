@@ -1,0 +1,1041 @@
+{
+  "CPC": {
+    "eligible": 94,
+    "topics": [
+      "Definitions, jurisdiction and prior suits",
+      "Appeals from decrees",
+      "Place of suing",
+      "Appeals · Order XLI",
+      "Execution disputes",
+      "Commissions",
+      "Appeals from orders",
+      "Revision",
+      "Inherent powers",
+      "Parties · Order I",
+      "Pleadings · Order VI",
+      "Plaint · Order VII",
+      "Defence · Order VIII",
+      "Appearance · Order IX",
+      "Injunctions · Order XXXIX",
+      "Appealable orders · Order XLIII"
+    ],
+    "papers": [
+      {
+        "id": "syllabus-v3-paper-1",
+        "questions": [
+          "book-CPC-102",
+          "book-CPC-6",
+          "book-CPC-50",
+          "book-CPC-41",
+          "book-CPC-85",
+          "book-CPC-44",
+          "book-CPC-80",
+          "book-CPC-1",
+          "book-CPC-42",
+          "book-CPC-60",
+          "book-CPC-91",
+          "book-CPC-61",
+          "book-CPC-29",
+          "book-CPC-72",
+          "book-CPC-65",
+          "book-CPC-54",
+          "book-CPC-103",
+          "book-CPC-47",
+          "book-CPC-51",
+          "book-CPC-92"
+        ],
+        "topics": [
+          "Appealable orders · Order XLIII",
+          "Appeals from decrees",
+          "Appeals from orders",
+          "Appeals · Order XLI",
+          "Appearance · Order IX",
+          "Commissions",
+          "Defence · Order VIII",
+          "Definitions, jurisdiction and prior suits",
+          "Execution disputes",
+          "Inherent powers",
+          "Injunctions · Order XXXIX",
+          "Parties · Order I",
+          "Place of suing",
+          "Plaint · Order VII",
+          "Pleadings · Order VI",
+          "Revision"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-2",
+        "questions": [
+          "book-CPC-48",
+          "book-CPC-52",
+          "book-CPC-93",
+          "book-CPC-86",
+          "book-CPC-45",
+          "book-CPC-81",
+          "book-CPC-2",
+          "book-CPC-43",
+          "book-CPC-60",
+          "book-CPC-91",
+          "book-CPC-62",
+          "book-CPC-30",
+          "book-CPC-73",
+          "book-CPC-66",
+          "book-CPC-55",
+          "book-CPC-104",
+          "book-CPC-49",
+          "book-CPC-53",
+          "book-CPC-94",
+          "book-CPC-87"
+        ],
+        "topics": [
+          "Appeals from decrees",
+          "Appeals from orders",
+          "Appeals · Order XLI",
+          "Appearance · Order IX",
+          "Commissions",
+          "Defence · Order VIII",
+          "Definitions, jurisdiction and prior suits",
+          "Execution disputes",
+          "Inherent powers",
+          "Injunctions · Order XXXIX",
+          "Parties · Order I",
+          "Place of suing",
+          "Plaint · Order VII",
+          "Pleadings · Order VI",
+          "Revision",
+          "Appealable orders · Order XLIII"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-3",
+        "questions": [
+          "book-CPC-50",
+          "book-CPC-95",
+          "book-CPC-88",
+          "book-CPC-46",
+          "book-CPC-82",
+          "book-CPC-3",
+          "book-CPC-42",
+          "book-CPC-60",
+          "book-CPC-91",
+          "book-CPC-63",
+          "book-CPC-31",
+          "book-CPC-74",
+          "book-CPC-67",
+          "book-CPC-56",
+          "book-CPC-105",
+          "book-CPC-6",
+          "book-CPC-51",
+          "book-CPC-96",
+          "book-CPC-89",
+          "book-CPC-44"
+        ],
+        "topics": [
+          "Appeals from orders",
+          "Appeals · Order XLI",
+          "Appearance · Order IX",
+          "Commissions",
+          "Defence · Order VIII",
+          "Definitions, jurisdiction and prior suits",
+          "Execution disputes",
+          "Inherent powers",
+          "Injunctions · Order XXXIX",
+          "Parties · Order I",
+          "Place of suing",
+          "Plaint · Order VII",
+          "Pleadings · Order VI",
+          "Revision",
+          "Appealable orders · Order XLIII",
+          "Appeals from decrees"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-4",
+        "questions": [
+          "book-CPC-97",
+          "book-CPC-85",
+          "book-CPC-45",
+          "book-CPC-83",
+          "book-CPC-4",
+          "book-CPC-43",
+          "book-CPC-60",
+          "book-CPC-91",
+          "book-CPC-64",
+          "book-CPC-32",
+          "book-CPC-75",
+          "book-CPC-68",
+          "book-CPC-57",
+          "book-CPC-102",
+          "book-CPC-47",
+          "book-CPC-52",
+          "book-CPC-98",
+          "book-CPC-86",
+          "book-CPC-46",
+          "book-CPC-84"
+        ],
+        "topics": [
+          "Appeals · Order XLI",
+          "Appearance · Order IX",
+          "Commissions",
+          "Defence · Order VIII",
+          "Definitions, jurisdiction and prior suits",
+          "Execution disputes",
+          "Inherent powers",
+          "Injunctions · Order XXXIX",
+          "Parties · Order I",
+          "Place of suing",
+          "Plaint · Order VII",
+          "Pleadings · Order VI",
+          "Revision",
+          "Appealable orders · Order XLIII",
+          "Appeals from decrees",
+          "Appeals from orders"
+        ]
+      }
+    ]
+  },
+  "QSO": {
+    "eligible": 106,
+    "topics": [
+      "Definitions and witnesses",
+      "Relevancy of facts",
+      "Burden and presumptions",
+      "Proof and documents",
+      "Examination and other provisions"
+    ],
+    "papers": [
+      {
+        "id": "syllabus-v3-paper-1",
+        "questions": [
+          "book-QSO-59",
+          "book-QSO-1",
+          "book-QSO-96",
+          "book-QSO-77",
+          "book-QSO-8",
+          "book-QSO-88",
+          "book-QSO-2",
+          "book-QSO-97",
+          "book-QSO-78",
+          "book-QSO-29",
+          "book-QSO-89",
+          "book-QSO-3",
+          "book-QSO-99",
+          "book-QSO-79",
+          "book-QSO-30",
+          "book-QSO-90",
+          "book-QSO-4",
+          "book-QSO-100",
+          "book-QSO-80",
+          "book-QSO-32"
+        ],
+        "topics": [
+          "Burden and presumptions",
+          "Definitions and witnesses",
+          "Examination and other provisions",
+          "Proof and documents",
+          "Relevancy of facts"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-2",
+        "questions": [
+          "book-QSO-5",
+          "book-QSO-101",
+          "book-QSO-81",
+          "book-QSO-33",
+          "book-QSO-91",
+          "book-QSO-6",
+          "book-QSO-102",
+          "book-QSO-82",
+          "book-QSO-34",
+          "book-QSO-92",
+          "book-QSO-7",
+          "book-QSO-103",
+          "book-QSO-83",
+          "book-QSO-35",
+          "book-QSO-93",
+          "book-QSO-9",
+          "book-QSO-104",
+          "book-QSO-85",
+          "book-QSO-37",
+          "book-QSO-94"
+        ],
+        "topics": [
+          "Definitions and witnesses",
+          "Examination and other provisions",
+          "Proof and documents",
+          "Relevancy of facts",
+          "Burden and presumptions"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-3",
+        "questions": [
+          "book-QSO-105",
+          "book-QSO-86",
+          "book-QSO-38",
+          "book-QSO-95",
+          "book-QSO-10",
+          "book-QSO-106",
+          "book-QSO-77",
+          "book-QSO-39",
+          "book-QSO-59",
+          "book-QSO-11",
+          "book-QSO-107",
+          "book-QSO-78",
+          "book-QSO-40",
+          "book-QSO-88",
+          "book-QSO-12",
+          "book-QSO-108",
+          "book-QSO-79",
+          "book-QSO-41",
+          "book-QSO-89",
+          "book-QSO-13"
+        ],
+        "topics": [
+          "Examination and other provisions",
+          "Proof and documents",
+          "Relevancy of facts",
+          "Burden and presumptions",
+          "Definitions and witnesses"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-4",
+        "questions": [
+          "book-QSO-80",
+          "book-QSO-42",
+          "book-QSO-90",
+          "book-QSO-14",
+          "book-QSO-110",
+          "book-QSO-81",
+          "book-QSO-43",
+          "book-QSO-91",
+          "book-QSO-15",
+          "book-QSO-111",
+          "book-QSO-82",
+          "book-QSO-44",
+          "book-QSO-92",
+          "book-QSO-16",
+          "book-QSO-112",
+          "book-QSO-83",
+          "book-QSO-45",
+          "book-QSO-93",
+          "book-QSO-17",
+          "book-QSO-113"
+        ],
+        "topics": [
+          "Proof and documents",
+          "Relevancy of facts",
+          "Burden and presumptions",
+          "Definitions and witnesses",
+          "Examination and other provisions"
+        ]
+      }
+    ]
+  },
+  "Constitution": {
+    "eligible": 55,
+    "topics": [
+      "Preamble and Articles 1–40",
+      "Parliament · Articles 50–89",
+      "Judicature · Articles 175–212"
+    ],
+    "papers": [
+      {
+        "id": "syllabus-v3-paper-1",
+        "questions": [
+          "book-Constitution-44",
+          "book-Constitution-22",
+          "book-Constitution-1",
+          "book-Constitution-45",
+          "book-Constitution-23",
+          "book-Constitution-2",
+          "book-Constitution-46",
+          "book-Constitution-24",
+          "book-Constitution-3",
+          "book-Constitution-47"
+        ],
+        "topics": [
+          "Judicature · Articles 175–212",
+          "Parliament · Articles 50–89",
+          "Preamble and Articles 1–40"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-2",
+        "questions": [
+          "book-Constitution-25",
+          "book-Constitution-4",
+          "book-Constitution-50",
+          "book-Constitution-26",
+          "book-Constitution-5",
+          "book-Constitution-52",
+          "book-Constitution-27",
+          "book-Constitution-6",
+          "book-Constitution-53",
+          "book-Constitution-28"
+        ],
+        "topics": [
+          "Parliament · Articles 50–89",
+          "Preamble and Articles 1–40",
+          "Judicature · Articles 175–212"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-3",
+        "questions": [
+          "book-Constitution-7",
+          "book-Constitution-55",
+          "book-Constitution-29",
+          "book-Constitution-8",
+          "book-Constitution-56",
+          "book-Constitution-30",
+          "book-Constitution-9",
+          "book-Constitution-57",
+          "book-Constitution-31",
+          "book-Constitution-10"
+        ],
+        "topics": [
+          "Preamble and Articles 1–40",
+          "Judicature · Articles 175–212",
+          "Parliament · Articles 50–89"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-4",
+        "questions": [
+          "book-Constitution-59",
+          "book-Constitution-32",
+          "book-Constitution-11",
+          "book-Constitution-60",
+          "book-Constitution-34",
+          "book-Constitution-12",
+          "book-Constitution-61",
+          "book-Constitution-35",
+          "book-Constitution-13",
+          "book-Constitution-44"
+        ],
+        "topics": [
+          "Judicature · Articles 175–212",
+          "Parliament · Articles 50–89",
+          "Preamble and Articles 1–40"
+        ]
+      }
+    ]
+  },
+  "Ethics": {
+    "eligible": 32,
+    "topics": [
+      "Professional conduct · first group",
+      "Professional conduct · middle group",
+      "Professional conduct · final group"
+    ],
+    "papers": [
+      {
+        "id": "syllabus-v3-paper-1",
+        "questions": [
+          "book-Ethics-23",
+          "book-Ethics-1",
+          "book-Ethics-11",
+          "book-Ethics-24",
+          "book-Ethics-2",
+          "book-Ethics-12",
+          "book-Ethics-25",
+          "book-Ethics-3",
+          "book-Ethics-13",
+          "book-Ethics-26"
+        ],
+        "topics": [
+          "Professional conduct · final group",
+          "Professional conduct · first group",
+          "Professional conduct · middle group"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-2",
+        "questions": [
+          "book-Ethics-4",
+          "book-Ethics-14",
+          "book-Ethics-27",
+          "book-Ethics-5",
+          "book-Ethics-15",
+          "book-Ethics-29",
+          "book-Ethics-6",
+          "book-Ethics-16",
+          "book-Ethics-30",
+          "book-Ethics-7"
+        ],
+        "topics": [
+          "Professional conduct · first group",
+          "Professional conduct · middle group",
+          "Professional conduct · final group"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-3",
+        "questions": [
+          "book-Ethics-17",
+          "book-Ethics-31",
+          "book-Ethics-8",
+          "book-Ethics-18",
+          "book-Ethics-32",
+          "book-Ethics-9",
+          "book-Ethics-19",
+          "book-Ethics-33",
+          "book-Ethics-10",
+          "book-Ethics-20"
+        ],
+        "topics": [
+          "Professional conduct · middle group",
+          "Professional conduct · final group",
+          "Professional conduct · first group"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-4",
+        "questions": [
+          "book-Ethics-34",
+          "book-Ethics-1",
+          "book-Ethics-21",
+          "book-Ethics-23",
+          "book-Ethics-2",
+          "book-Ethics-11",
+          "book-Ethics-24",
+          "book-Ethics-3",
+          "book-Ethics-12",
+          "book-Ethics-25"
+        ],
+        "topics": [
+          "Professional conduct · final group",
+          "Professional conduct · first group",
+          "Professional conduct · middle group"
+        ]
+      }
+    ]
+  },
+  "PPC": {
+    "eligible": 60,
+    "topics": [
+      "General explanations",
+      "General exceptions",
+      "Human body · homicide and hurt",
+      "Restraint and confinement",
+      "Human body · force and abduction",
+      "Property offences"
+    ],
+    "papers": [
+      {
+        "id": "syllabus-v3-paper-1",
+        "questions": [
+          "book-PPC-14",
+          "book-PPC-2",
+          "book-PPC-53",
+          "book-PPC-25",
+          "book-PPC-59",
+          "book-PPC-51",
+          "book-PPC-15",
+          "book-PPC-3",
+          "book-PPC-54",
+          "book-PPC-26"
+        ],
+        "topics": [
+          "General exceptions",
+          "General explanations",
+          "Human body · force and abduction",
+          "Human body · homicide and hurt",
+          "Property offences",
+          "Restraint and confinement"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-2",
+        "questions": [
+          "book-PPC-4",
+          "book-PPC-55",
+          "book-PPC-27",
+          "book-PPC-60",
+          "book-PPC-52",
+          "book-PPC-16",
+          "book-PPC-5",
+          "book-PPC-56",
+          "book-PPC-28",
+          "book-PPC-61"
+        ],
+        "topics": [
+          "General explanations",
+          "Human body · force and abduction",
+          "Human body · homicide and hurt",
+          "Property offences",
+          "Restraint and confinement",
+          "General exceptions"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-3",
+        "questions": [
+          "book-PPC-57",
+          "book-PPC-29",
+          "book-PPC-62",
+          "book-PPC-51",
+          "book-PPC-17",
+          "book-PPC-6",
+          "book-PPC-58",
+          "book-PPC-30",
+          "book-PPC-63",
+          "book-PPC-52"
+        ],
+        "topics": [
+          "Human body · force and abduction",
+          "Human body · homicide and hurt",
+          "Property offences",
+          "Restraint and confinement",
+          "General exceptions",
+          "General explanations"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-4",
+        "questions": [
+          "book-PPC-31",
+          "book-PPC-64",
+          "book-PPC-51",
+          "book-PPC-18",
+          "book-PPC-7",
+          "book-PPC-53",
+          "book-PPC-32",
+          "book-PPC-65",
+          "book-PPC-52",
+          "book-PPC-19"
+        ],
+        "topics": [
+          "Human body · homicide and hurt",
+          "Property offences",
+          "Restraint and confinement",
+          "General exceptions",
+          "General explanations",
+          "Human body · force and abduction"
+        ]
+      }
+    ]
+  },
+  "CrPC": {
+    "eligible": 53,
+    "topics": [
+      "Preliminary definitions",
+      "Arrest",
+      "FIR and investigation",
+      "Production and search",
+      "Security for peace",
+      "Public nuisance",
+      "Urgent orders",
+      "Complaints",
+      "Commencement of proceedings",
+      "Appeals",
+      "Bail"
+    ],
+    "papers": [
+      {
+        "id": "syllabus-v3-paper-1",
+        "questions": [
+          "book-CrPC-50",
+          "book-CrPC-9",
+          "book-CrPC-57",
+          "book-CrPC-47",
+          "book-CrPC-43",
+          "book-CrPC-12",
+          "book-CrPC-1",
+          "book-CrPC-22",
+          "book-CrPC-31",
+          "book-CrPC-27"
+        ],
+        "topics": [
+          "Appeals",
+          "Arrest",
+          "Bail",
+          "Commencement of proceedings",
+          "Complaints",
+          "FIR and investigation",
+          "Preliminary definitions",
+          "Production and search",
+          "Public nuisance",
+          "Security for peace"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-2",
+        "questions": [
+          "book-CrPC-13",
+          "book-CrPC-58",
+          "book-CrPC-47",
+          "book-CrPC-44",
+          "book-CrPC-35",
+          "book-CrPC-2",
+          "book-CrPC-23",
+          "book-CrPC-32",
+          "book-CrPC-28",
+          "book-CrPC-34"
+        ],
+        "topics": [
+          "Arrest",
+          "Bail",
+          "Commencement of proceedings",
+          "Complaints",
+          "FIR and investigation",
+          "Preliminary definitions",
+          "Production and search",
+          "Public nuisance",
+          "Security for peace",
+          "Urgent orders"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-3",
+        "questions": [
+          "book-CrPC-59",
+          "book-CrPC-47",
+          "book-CrPC-45",
+          "book-CrPC-36",
+          "book-CrPC-4",
+          "book-CrPC-24",
+          "book-CrPC-33",
+          "book-CrPC-29",
+          "book-CrPC-34",
+          "book-CrPC-51"
+        ],
+        "topics": [
+          "Bail",
+          "Commencement of proceedings",
+          "Complaints",
+          "FIR and investigation",
+          "Preliminary definitions",
+          "Production and search",
+          "Public nuisance",
+          "Security for peace",
+          "Urgent orders",
+          "Appeals"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-4",
+        "questions": [
+          "book-CrPC-47",
+          "book-CrPC-46",
+          "book-CrPC-37",
+          "book-CrPC-5",
+          "book-CrPC-25",
+          "book-CrPC-31",
+          "book-CrPC-30",
+          "book-CrPC-34",
+          "book-CrPC-52",
+          "book-CrPC-16"
+        ],
+        "topics": [
+          "Commencement of proceedings",
+          "Complaints",
+          "FIR and investigation",
+          "Preliminary definitions",
+          "Production and search",
+          "Public nuisance",
+          "Security for peace",
+          "Urgent orders",
+          "Appeals",
+          "Arrest"
+        ]
+      }
+    ]
+  },
+  "Cases": {
+    "eligible": 25,
+    "topics": [
+      "Tamiz-ud-Din",
+      "Dosso",
+      "Asma Jilani",
+      "Nusrat Bhutto",
+      "Nawaz Sharif",
+      "Al-Jehad Trust",
+      "Zafar Ali Shah",
+      "Asfandyar Wali"
+    ],
+    "papers": [
+      {
+        "id": "syllabus-v3-paper-1",
+        "questions": [
+          "book-Cases-28",
+          "book-Cases-35",
+          "book-Cases-12",
+          "book-Cases-5",
+          "book-Cases-22"
+        ],
+        "topics": [
+          "Al-Jehad Trust",
+          "Asfandyar Wali",
+          "Asma Jilani",
+          "Dosso",
+          "Nawaz Sharif"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-2",
+        "questions": [
+          "book-Cases-36",
+          "book-Cases-13",
+          "book-Cases-6",
+          "book-Cases-22",
+          "book-Cases-18"
+        ],
+        "topics": [
+          "Asfandyar Wali",
+          "Asma Jilani",
+          "Dosso",
+          "Nawaz Sharif",
+          "Nusrat Bhutto"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-3",
+        "questions": [
+          "book-Cases-14",
+          "book-Cases-7",
+          "book-Cases-22",
+          "book-Cases-19",
+          "book-Cases-1"
+        ],
+        "topics": [
+          "Asma Jilani",
+          "Dosso",
+          "Nawaz Sharif",
+          "Nusrat Bhutto",
+          "Tamiz-ud-Din"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-4",
+        "questions": [
+          "book-Cases-8",
+          "book-Cases-22",
+          "book-Cases-21",
+          "book-Cases-3",
+          "book-Cases-31"
+        ],
+        "topics": [
+          "Dosso",
+          "Nawaz Sharif",
+          "Nusrat Bhutto",
+          "Tamiz-ud-Din",
+          "Zafar Ali Shah"
+        ]
+      }
+    ]
+  },
+  "International": {
+    "eligible": 36,
+    "topics": [
+      "UN Charter",
+      "ICJ Statute"
+    ],
+    "papers": [
+      {
+        "id": "syllabus-v3-paper-1",
+        "questions": [
+          "book-International-26",
+          "book-International-1",
+          "book-International-27",
+          "book-International-2",
+          "book-International-28"
+        ],
+        "topics": [
+          "ICJ Statute",
+          "UN Charter"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-2",
+        "questions": [
+          "book-International-3",
+          "book-International-29",
+          "book-International-4",
+          "book-International-30",
+          "book-International-5"
+        ],
+        "topics": [
+          "UN Charter",
+          "ICJ Statute"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-3",
+        "questions": [
+          "book-International-31",
+          "book-International-6",
+          "book-International-32",
+          "book-International-7",
+          "book-International-33"
+        ],
+        "topics": [
+          "ICJ Statute",
+          "UN Charter"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-4",
+        "questions": [
+          "book-International-8",
+          "book-International-34",
+          "book-International-9",
+          "book-International-35",
+          "book-International-10"
+        ],
+        "topics": [
+          "UN Charter",
+          "ICJ Statute"
+        ]
+      }
+    ]
+  },
+  "English": {
+    "eligible": 26,
+    "topics": [
+      "Nature of law and jurisprudence",
+      "Sources of law",
+      "Ownership and possession",
+      "Rights, persons and obligations"
+    ],
+    "papers": [
+      {
+        "id": "syllabus-v3-paper-1",
+        "questions": [
+          "book-English-1",
+          "book-English-12",
+          "book-English-24",
+          "book-English-8",
+          "book-English-2"
+        ],
+        "topics": [
+          "Nature of law and jurisprudence",
+          "Ownership and possession",
+          "Rights, persons and obligations",
+          "Sources of law"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-2",
+        "questions": [
+          "book-English-26",
+          "book-English-35",
+          "book-English-9",
+          "book-English-3",
+          "book-English-30"
+        ],
+        "topics": [
+          "Ownership and possession",
+          "Rights, persons and obligations",
+          "Sources of law",
+          "Nature of law and jurisprudence"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-3",
+        "questions": [
+          "book-English-37",
+          "book-English-11",
+          "book-English-5",
+          "book-English-12",
+          "book-English-24"
+        ],
+        "topics": [
+          "Rights, persons and obligations",
+          "Sources of law",
+          "Nature of law and jurisprudence",
+          "Ownership and possession"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-4",
+        "questions": [
+          "book-English-14",
+          "book-English-16",
+          "book-English-26",
+          "book-English-35",
+          "book-English-15"
+        ],
+        "topics": [
+          "Sources of law",
+          "Nature of law and jurisprudence",
+          "Ownership and possession",
+          "Rights, persons and obligations"
+        ]
+      }
+    ]
+  },
+  "Islamic": {
+    "eligible": 6,
+    "topics": [
+      "Usul and legal rules",
+      "Qiyas",
+      "Al-Sarf"
+    ],
+    "papers": [
+      {
+        "id": "syllabus-v3-paper-1",
+        "questions": [
+          "book-Islamic-20",
+          "book-Islamic-7",
+          "book-Islamic-3",
+          "book-Islamic-8",
+          "book-Islamic-10"
+        ],
+        "topics": [
+          "Al-Sarf",
+          "Qiyas",
+          "Usul and legal rules"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-2",
+        "questions": [
+          "book-Islamic-7",
+          "book-Islamic-11",
+          "book-Islamic-20",
+          "book-Islamic-3",
+          "book-Islamic-8"
+        ],
+        "topics": [
+          "Qiyas",
+          "Usul and legal rules",
+          "Al-Sarf"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-3",
+        "questions": [
+          "book-Islamic-10",
+          "book-Islamic-20",
+          "book-Islamic-7",
+          "book-Islamic-11",
+          "book-Islamic-3"
+        ],
+        "topics": [
+          "Usul and legal rules",
+          "Al-Sarf",
+          "Qiyas"
+        ]
+      },
+      {
+        "id": "syllabus-v3-paper-4",
+        "questions": [
+          "book-Islamic-20",
+          "book-Islamic-7",
+          "book-Islamic-8",
+          "book-Islamic-10",
+          "book-Islamic-11"
+        ],
+        "topics": [
+          "Al-Sarf",
+          "Qiyas",
+          "Usul and legal rules"
+        ]
+      }
+    ]
+  }
+}
